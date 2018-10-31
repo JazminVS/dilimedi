@@ -1,0 +1,1089 @@
+﻿codigo,descripcion,campo
+N061,Proteinuria aislada con lesion morfologica especificada lesiones glomerulares focales y segmentarias
+N062,Proteinuria aislada con lesion morfologica especificada: glomerulonefritis membranosa difusa
+N063,Proteinuria aislada con lesion morfologica especificada: glomerulonefritis proliferativa mesangial difusa
+N064,Proteinuria aislada con lesion morfologica especificada: glomerulonefritis proliferativa endocapilar difusa
+N065,Proteinuria aislada con lesion morfologica especificada: glomerulonefritis mesangiocapilar difusa
+N066,Proteinuria aislada con lesion morfologica especificada: enfermedad por depositos densos
+N067,Proteinuria aislada con lesion morfologica especificada: glomerulonefritis difusa en media luna
+N068,Proteinuria aislada con lesion morfologica especificada: otras
+N069,Proteinuria aislada con lesion morfologica especificada: no especificada
+N07,Nefropatia hereditaria no clasificada en otra parte
+N070,Nefropatia hereditaria, no clasificada en otra parte: anomalia glomerular minima
+N071,Nefropatia hereditaria, no clasificada en otra parte: lesiones glomerulares focales y segmentarias
+N072,Nefropatia hereditaria, no clasificada en otra parte: glomerulonefritis membranosa difusa
+N073,Nefropatia hereditaria, no clasificada en otra parte: glomerulonefritis proliferativa mesangial difusa
+N074,Nefropatia hereditaria, no clasificada en otra parte: glomerulonefritis proliferativa endocapilar difusa
+N075,Nefropatia hereditaria, no clasificada en otra parte: glomerulonefritis mesangiocapilar difusa
+N076,Nefropatia hereditaria, no clasificada en otra parte: enfermedad por depositos densos
+N077,Nefropatia hereditaria, no clasificada en otra parte: glomerulonefritis difusa en media luna
+N078,Nefropatia hereditaria, no clasificada en otra parte: otras
+N079,Nefropatia hereditaria, no clasificada en otra parte: no especificada
+N08,Trastornos glomerulares en enfermedades clasificadas otra parte
+N080,Trastornos glomerulares en enfermedades infecciosas y parasitarias clasificadas en otra parte
+N081,Trastornos glomerulares en enfermedades neoplasicas
+N082,Trastornos glomerulares en enfermedades de la sangre y otros trastornos que afectan al mecanismo inmunitario
+N083,Trastornos glomerulares en diabetes mellitus (e10
+N084,Trastornos glomerulares en otras enfermedades endocrinas, nutricionales y metabolicas
+N085,Trastornos glomerulares en trastornos sistemicos del tejido conjuntivo
+N088,Trastornos glomerulares en otras enfermedades clasificadas en otra parte
+N10,Nefritis tubulointersticial aguda
+N11,Nefritis tubulointersticial cronica
+N110,Pielonefritis cronica no obstructiva asociada con reflujo
+N111,Pielonefritis cronica obstructiva
+N118,Otras nefritis tubulointersticiales cronicas
+N119,Nefritis tubulointersticial cronica, sin otra especificacion
+N12,Nefritis tubulointerst no especificada como aguda o cronica
+N13,Uropatia obstructiva y por reflujo
+N130,Hidronefrosis con obstruccion de la union uretero
+N131,Hidronefrosis con estrechez ureteral, no clasificada en otra parte
+N132,Hidronefrosis con obstruccion por calculos del riñon y del ureter
+N133,Otras hidronefrosis y las no especificadas
+N134,Hidroureter
+N135,Torsion y estrechez del ureter sin hidronefrosis
+N136,Pionefrosis
+N137,Uropatia asociada con reflujo vesicoureteral
+N138,Otras uropatias obstructivas por reflujo
+N139,Uropatia obstructiva por reflujo, sin otra especificacion
+N14,Afecciones tubulares y tubulointersticiales inducidas por drogas y por metales pesados
+N140,Nefropatia inducida por analgesicos
+N141,Nefropatia inducida por otras drogas, medicamentos y sustancias biologicas
+N142,Nefropatia inducida por drogas, medicamentos y sustancias biologicas no especificadas
+N143,Nefropatia inducida por metales pesados
+N144,Nefropatia toxica, no especificada en otra parte
+N15,Otras enfermedades renales tubulointersticiales
+N150,Nefropatia de los balcanes
+N151,Absceso renal y perirrenal
+N158,Otras enfermedades renales tubulointersticiales especificadas
+N159,Enfermedad renal tubulointersticial, no especificada
+N16,Trastornos renales tubulointersticiales en enfermedades clasificadas en otra parte
+N160,Trastornos renales tubulointersticiales en enfermedades infecciosas y parasitarias clasificadas en otra patrte
+N161,Trastornos renales tubulointersticiales en enfermedades neoplasicas
+N162,Trastornos renales tubulointersticiales en enfermedades de la sangre y en trastornos que afectan el mecanismo inmunitario
+N163,Trastornos renales tubulointersticiales en enfermedades metabolicas
+N164,Trastornos renales tubulointersticiales en enfermedades del tejido conjuntivo
+N165,Trastornos renales tubulointersticiales en rechazo de trasplante (t86.
+N168,Trastornos renales tubulointersticiales en otras enfermedades clasificadas en otra parte
+N17,Insuficiencia renal aguda
+N170,Insuficiencia renal aguda con necrosis tubular
+N171,Insuficiencia renal aguda con necrosis cortical aguda
+N172,Insuficiencia renal aguda con necrosis medular
+N178,Otras insuficiencias renales agudas
+N179,Insuficiencia renal aguda, no especificada
+N18,Insuficiencia renal cronica
+N180,Insuficiencia renal terminal
+N188,Otras insuficiencias renales cronicas
+N189,Insuficiencia renal cronica, no especificada
+N19,Insuficiencia renal no especificada
+N20,Calculo del rinon y del ureter
+N200,Calculo del riñon
+N201,Calculo del ureter
+N202,Calculo del riñon con calculo del ureter
+N209,Calculo urinario, no especificado
+N21,Calculo de las vias urinarias inferiores
+N210,Calculo en la vejiga
+N211,Calculo en la uretra
+N218,Otros calculos de las vias urinarias inferiores
+N219,Calculo de las vias urinarias inferiores, no especificado
+N22,Calculo de las vias urinarias en enfermedades clasificadas otra parte
+N220,Litiasis urinaria en esquistosomiasis [bilharziasis] (b65.
+N228,Calculo de las vias urinarias en otras enfermedades clasificadas en otra parte
+N23,Colico renal no especificado
+N25,Trastornos resultantes de la funcion tubular renal alterada
+N250,Osteodistrofia renal
+N251,Diabetes insipida nefrogena
+N258,Otros trastornos resultantes de la funcion tubular renal alterada
+N259,Trastorno no especificado, resultante de la funcion tubular renal alterada
+N26,Rinon contraido no especificado
+N27,Rinon pequeno de causa desconocida
+N270,Riñon pequeño, unilateral
+N271,Riñon pequeño, bilateral
+N279,Riñon pequeño, no especificado
+N28,Otros trastornos del rinon y del ureter no clasificadas en otra parte
+N280,Isquemia e infarto del riñon
+N281,Quiste de riñon, adquirido
+N288,Otros trastornos especificados del riñon y del ureter
+N289,Trastorno del riñon y del ureter, no especificado
+N29,Otros trastornos del rinon y del ureter en enfermedades clasificadas en otra parte
+N290,Sifilis renal tardia (a52.7)
+N291,Otros trastornos del riñon y del ureter en enfermedades infecciosas y parasitarias clasificadas en otra parte
+N298,Otros trastornos del riñon y del ureter en otras enfermedades clasificadas en otra parte
+N30,Cistitis
+N300,Cistitis agudas
+N301,Cistitis intersticial (cronica)
+N302,Otras cistitis cronicas
+N303,Trigonitis
+N304,Cistitis por irradiacion
+N308,Otras cistitis
+N309,Cistitis, no especificada
+N31,Disfuncion neuromuscular de vejiga no clasificada en otra parte
+N310,Vejiga neuropatica no inhibida, no clasificada en otra parte
+N311,Vejiga neuropatica refleja, no clasificada en otra parte
+N312,Vejiga neuropatica flacida, no clasificada en otra parte
+N318,Otras disfunciones neuromusculares de la vejiga
+N319,Disfuncion neuromuscular de la vejiga, no especificada
+N32,Otros trastornos de la vejiga
+N320,Obstruccion de cuello de la vejiga
+N321,Fistula vesicointestinal
+N322,Fistula de la vejiga, no clasificada en otra parte
+N323,Diverticulo de la vejiga
+N324,Ruptura de la vejiga, no traumatica
+N328,Otros trastornos especificados de la vejiga
+N329,Trastorno de la vejiga, no especificado
+N33,Trastornos vejiga en enfermedades clasificadas en otra parte
+N330,Cistitis tuberculosa (a18.1)
+N338,Trastornos de la vejiga en otras enfermedades clasificadas en otra parte
+N34,Uretritis y sindrome uretral
+N340,Absceso uretral
+N341,Uretritis no especificada
+N342,Otras uretritis
+N343,Sindrome uretral, no especificado
+N35,Estrechez uretral
+N350,Estrechez uretral postraumatica
+N351,Estrechez uretral postinfeccion, no clasificada en otra parte
+N358,Otras estrecheces uretrales
+N359,Estrechez uretral, no especificada
+N36,Otros trastornos de la uretra
+N360,Fistula de la uretra
+N361,Diverticulo de la uretra
+N362,Caruncula uretral
+N363,Prolapso de la mucosa uretral
+N368,Otros trastornos especificados de la uretra
+N369,Trastorno de la uretra, no especificado
+N37,Trastornos uretra en enfermedades clasificadas en otra parte
+N370,Uretritis en enfermedades clasificadas en otra parte
+N378,Otros trastornos uretrales en enfermedades clasificadas en otra parte
+N39,Otros trastornos del sistema urinario
+N390,Infeccion de vias urinarias, sitio no especificado
+N391,Proteinuria persistente, no especificada
+N392,Proteinuria ortostatica, no especificada
+N393,Incontinencia urinaria por tension
+N394,Otras incontinencias urinarias especificadas
+N398,Otros trastornos especificados del sistema urinario
+N399,Trastorno del sistema urinario, no especificado
+N40,Hiperplasia de la prostata
+N41,Enfermedades inflamatorias de la prostata
+N410,Prostatitis aguda
+N411,Prostatitis cronica
+N412,Absceso de la prostata
+N413,Prostatocistitis
+N418,Otras enfermedades inflamatorias de la prostata
+N419,Enfermedad inflamatoria de la prostata, no especificada
+N42,Otros trastornos de la prostata
+N420,Calculo de la prostata
+N421,Congestion y hemorragia de la prostata
+N422,Atrofia de la prostata
+N428,Otros trastornos especificados de la prostata
+N429,Trastorno de la prostata, no especificado
+N43,Hidrocele y espermatocele
+N430,Hidrocele enquistado
+N431,Hidrocele infectado
+N432,Otras hidroceles
+N433,Hidrocele, no especificado
+N434,Espermatocele
+N44,Torsion del testiculo
+N45,Orquitis y epididimitis
+N450,Orquitis, epididimitis y orquiepididimitis con absceso
+N459,Orquitis, epididimitis y orquiepididimitis sin absceso
+N46,Esterilidad en el varon
+N47,Prepucio redundante, fimosis y parafimosis
+N48,Otros trastornos del pene
+N480,Leucoplasia del pene
+N481,Balanopostitis
+N482,Otros trastornos inflamatorios del pene
+N483,Priapismo
+N484,Impotencia de origen organico
+N485,Ulcera del pene
+N486,Induracion plastica del pene
+N488,Otros trastornos especificados del pene
+N489,Trastorno del pene, no especificado
+N49,Trastornos inflamatorios de los organos genitales masculinos no clasificados en otra parte
+N490,Trastornos inflamatorios de vesicula seminal
+N491,Trastornos inflamatorios del cordon espermatico, tunica vaginal y conducto deferente
+N492,Trastornos inflamatorios del escroto
+N498,Otros trastornos inflamatorios de los organos genitales masculinos
+N499,Trastorno inflamatorio de organo masculino, no especificado
+N50,Otros trastornos de los organos genitales masculinos
+N500,Atrofia del testiculo
+N501,Trastornos vasculares de los organos genitales masculinos
+N508,Otros trastornos especificados de los organos genitales masculinos
+N509,Trastorno no especificado de los organos genitales masculinos
+N51,Trastornos de los organos genitales masculinos en enfermedades clasificadas otra parte
+N510,Trastornos de prostata en enfermedades clasificadas en otra parte
+N511,Trastorno del testiculo y del epididimo en enfermedades clasificadas en otra parte
+N512,Balanitis en enfermedades clasificadas en otra parte
+N518,Otros trastornos de los organos genitales masculinos en enfermedades clasificadas en otra parte
+N60,Displasia mamaria benigna
+N600,Quiste solitario de la mama
+N601,Mastopatia quistica difusa
+N602,Fibroadenosis de la mama
+N603,Fibroesclerosis de mama
+N604,Ectasia de conducto mamario
+N608,Otras displasias mamarias benignas
+N609,Displasia mamaria benigna, sin otra especificacion
+N61,Trastornos inflamatorios de la mama
+N62,Hipertrofia de la mama
+N63,Masa no especificada en la mama
+N64,Otros trastornos de la mama
+N640,Fisura y fistula del pezon
+N641,Necrosis grasa de la mama
+N642,Atrofia de la mama
+N643,Galactorrea no asociada con el parto
+N644,Mastodinia
+N645,Otros signos y sintomas relativos a la mama
+N648,Otros trastornos especificados de la mama
+N649,Trastorno de la mama, no especificado
+N70,Salpingitis y ooforitis
+N700,Salpingitis y ooforitis aguda
+N701,Salpingitis y ooforitis cronica
+N709,Salpingitis y ooforitis, no especificadas
+N71,Enfermedades inflamatorias del utero, excepto cuello
+N710,Enfermedad inflamatoria aguda del utero
+N711,Enfermedad inflamatoria cronica del utero
+N719,Enfermedad inflamatoria del utero, no especificadas
+N72,Enfermedades inflamatorias del cuello uterino
+N73,Otras enfermedades pelvicas inflamatorias femeninas
+N730,Parametritis y celulitis pelvica aguda
+N731,Parametritis y celulitis pelvica cronica
+N732,Parametritis y celulitis pelvica no especificada
+N733,Peritonitis pelvica aguda, femenina
+N734,Peritonitis pelvica cronica, femenina
+N735,Peritonitis pelvica femenina, no especificada
+N736,Adherencias peritoneales pelvicas femeninas
+N738,Otras enfermedades inflamatorias pelvicas femeninas
+N739,Enfermedad inflamatoria pelvica femenina, no especificada
+N74,Trastornos inflamatorios de la pelvis femenina en enfermedades clasificadas otra parte
+N740,Infeccion tuberculosa del cuello del utero (a18.1)
+N741,Enfermedad inflamatoria pelvica femenina por tuberculosis (a18.1)
+N742,Enfermedad inflamatoria pelvica femenina por sifilis (a51.4, a52.7)
+N743,Enfermedad inflamatoria pelvica femenina por gonococos (a54.2)
+N744,Enfermedad inflamatoria pelvica femenina por clamidias (a56.1)
+N748,Trastornos inflamatorios pelvicos femeninos en otras enfermedades clasificadas en otra parte
+N75,Enfermedades de la glandula de bartholin
+N750,Quiste de la glandula de bartholin
+N751,Absceso de la glandula de bartholin
+N758,Otras enfermedades de la glandula de bartholin
+N759,Enfermedad de la glandula de bartholin, no especificada
+N76,Otras enfermedades inflamatorias de la vagina y de la vulva
+N760,Vaginitis aguda
+N761,Vaginitis subaguda y cronica
+N762,Vulvitis aguda
+N763,Vulvitis subaguda y cronica
+N764,Absceso vulvar
+N765,Ulceracion de la vagina
+N766,Ulceracion de la vulva
+N768,Otras inflamaciones especificadas de la vagina y de la vulva
+N77,Ulceracion e inflamacion vulvovaginal en enfermedades clasificadas en otra parte
+N770,Ulceracion de la vulva en enfermedades infecciosas y parasitarias clasificadas en otra parte
+N771,Vaginitis, vulvitis y vulvovaginitis en enfermedades infecciosas y parasitarias clasificadas en otra parte
+N778,Ulceracion e inflamacion vulvovaginal en otras enfermedades clasificadas en otra parte
+N80,Endometriosis
+N800,Endometriosis del utero
+N801,Endometriosis del ovario
+N802,Endometriosis de la trompa de falopio
+N803,Endometriosis del peritoneo pelvico
+N804,Endometriosis del tabique rectovaginal y de la vagina
+N805,Endometriosis del intestino
+N806,Endometriosis en cicatriz cutanea
+N808,Otras endometriosis
+N809,Endometriosis, no especificada
+N81,Prolapso genital femenino
+N810,Uretrocele femenino
+N811,Cistocele
+N812,Prolapso uterovaginal incompleto
+N813,Prolapso uterovaginal completo
+N814,Prolapso uterovaginal, sin otra especificacion
+N815,Enterocele vaginal
+N816,Rectocele
+N818,Otros prolapsos genitales femeninos
+N819,Prolapso genital femenino, no especificado
+N82,Fistulas que afectan el tracto genital femenino
+N820,Fistula vesicovaginal
+N821,Otras fistulas de las vias genitourinarias femeninas
+N822,Fistula de la vagina al intestino delgado
+N823,Fistula de la vagina al intestino grueso
+N824,Otras fistulas del tracto genital femenino al tracto intestinal
+N825,Fistula del tracto genital femenino a la piel
+N828,Otras fistulas del tracto genital femenino
+N829,Fistula del tracto genital femenino, sin otra especificacion
+N83,Trastornos no inflamatorios del ovario, de la trompa de falopio y del ligamento ancho
+N830,Quiste folicular del ovario
+N831,Quiste del cuerpo amarillo
+N832,Otros quistes ovaricos y los no especificados
+N833,Atrofia adquirida del ovario y de la trompa falopio
+N834,Prolapso y hernia del ovario y de la trompa de falopio
+N835,Torsion de ovario, pediculo de ovario y trompa de falopio
+N836,Hematosalpinx
+N837,Hematoma del ligamento ancho
+N838,Otros trastornos no inflamatorios del ovario, de la trompa de falopio y del ligamento ancho
+N839,Enfermedad no inflamatoria del ovario, de la trompa de falopio y del ligamento ancho, no especificada
+N84,Polipo del tracto genital femenino
+N840,Polipo del cuerpo del utero
+N841,Polipo del cuello del utero
+N842,Polipo de la vagina
+N843,Polipo de la vulva
+N848,Polipo de otras partes del tracto genital femenino
+N849,Polipo del tracto genital femenino, no especificado
+N85,Otros trastornos no inflamatorios del utero, excepto del cuello
+N850,Hiperplasia de glandula del endometrio
+N851,Hiperplasia adenomatosa del endometrio
+N852,Hipertrofia del utero
+N853,Subinvolucion del utero
+N854,Mala posicion del utero
+N855,Inversion del utero
+N856,Sinequias intrauterinas
+N857,Hematometra
+N858,Otros trastornos no inflamatorios especificados del utero
+N859,Trastorno no inflamatorio del utero, no especificado
+N86,Erosion y ectropion del cuello uterino
+N87,Displasia del cuello uterino
+N870,Displasia cervical leve
+N871,Displasia cervical moderada
+N872,Displasia cervical severa, no clasificada en otra parte
+N879,Displasia del cuello del utero, no especificada
+N88,Otros trastornos no inflamatoria del cuello uterino
+N880,Leucoplasia del cuello del utero
+N881,Laceracion antigua del cuello del utero
+N882,Estrechez y estenosis del cuello del utero
+N883,Incompetencia del cuello del utero
+N884,Elongacion hipertrofica del cuello del utero
+N888,Otros trastornos no inflamatorios especificados del cuello del utero
+N889,Trastorno no inflamatorio del cuello del utero, no especificado
+N89,Otros trastornos no inflamatorios de la vagina
+N890,Displasia vaginal leve
+N891,Displasia vaginal moderada
+N892,Displasia vaginal severa, no clasificada en otra parte
+N893,Displasia de la vagina, no especificada
+N894,Leucoplasia de la vagina
+N895,Estrechez y atresia de la vagina
+N896,Anillo de himen estrecho
+N897,Hematocolpos
+N898,Otros trastornos especificados no inflamatorios de la vagina
+N899,Trastorno no inflamatorio de la vagina, no especificado
+N90,Otros trastornos no inflamatorios de la vulva y del perineo
+N900,Displasia vulvar leve
+N901,Displasia vulvar moderada
+N902,Displasia vulvar severa, no clasificada en otra parte
+N903,Displasia de la vulva, no especificada
+N904,Leucoplasia de la vulva
+N905,Atrofia de la vulva
+N906,Hipertrofia de la vulva
+N907,Quiste de la vulva
+N908,Otros trastornos no inflamatorios especificados de la vulva y del perineo
+N909,Trastorno no inflamatorio de la vulva y del perineo, no especificado
+N91,Menstruacion ausente, escasa o rara
+N910,Amenorrea primaria
+N911,Amenorrea secundaria
+N912,Amenorrea, sin otra especificacion
+N913,Oligomenorrea primaria
+N914,Oligomenorrea secundaria
+N915,Oligomenorrea no especificada
+N92,Menstruacion excesiva, frecuente e irregular
+N920,Menstruacion excesiva y frecuente con ciclo regular
+N921,Menstruacion excesiva y frecuente con ciclo irregular
+N922,Menstruacion excesiva en la pubertad
+N923,Hemorragia por ovulacion
+N924,Hemorragia excesiva en periodo premenopausico
+N925,Otras menstruaciones irregulares especificadas
+N926,Menstruacion irregular, no especificada
+N93,Otras hemorragias uterinas o vaginales anormales
+N930,Hemorragia postcoito y postcontacto
+N938,Otras hemorragias uterinas o vaginales anormales especificadas
+N939,Hemorragia vaginal y uterina anormal, no especificada
+N94,Dolor y otras afecciones relacionadas con los organos genitales femeninos y con el ciclo menstrual
+N940,Dolor intermenstrual
+N941,Dispareunia
+N942,Vaginismo
+N943,Sindrome de tension premenstrual
+N944,Dismenorrea primaria
+N945,Dismenorrea secundaria
+N946,Dismenorrea, no especificada
+N948,Otras afecciones especificadas asociadas con los organos genitales femeninos y el ciclo menstrual
+N949,Afecciones no especificadas asociadas con los organos genitales femeninos y el ciclo menstrual
+N95,Otros trastornos menopausicos y perimenopausicos
+N950,Hemorragia postmenopausica
+N951,Estados menopausicos y climatericos femeninos
+N952,Vaginitis atrofica postmenopausica
+N953,Estados asociados con menopausia artificial
+N958,Otros trastornos menopausicos y perimenopausicos especificados
+N959,Trastorno menopausico y perimenopausico, no especificado
+N96,Abortadora habitual
+N97,Infertilidad femenina
+N970,Infertilidad femenina asociada con falta de ovulacion
+N971,Infertilidad femenina de origen tubarico
+N972,Infertilidad femenina de origen uterino
+N973,Infertilidad femenina de origen cervical
+N974,Infertilidad femenina asociada con factores masculinos
+N978,Infertilidad femenina de otro origen
+N979,Infertilidad femenina, no especificada
+N98,Complicacion asociada con la fecundacion artificial
+N980,Infeccion asociada con inseminacion artificial
+N981,Hiperestimulacion de ovarios
+N982,Complicaciones en el intento de introduccion del huevo fecundado en la fertilizacion en vitro
+N983,Complicaciones en el intento introduccion del embrion en la transferencia de embriones
+N988,Otras complicaciones asociadas con la fecundacion artificial
+N989,Complicacion no especificada asociada con la fecundacion artificial
+N99,Trastornos del sistema genitourinario consecutivos a procedimientos no clasificados en otra parte
+N990,Insuficiencia renal consecutiva a procedimientos
+N991,Estrechez uretral consecutiva a procedimientos
+N992,Adherencias postoperatorias de la vagina
+N993,Prolapso de la cupula vaginal despues de histerectomia
+N994,Adherencias peritoneales pelvicas consecutivas a procedimientos
+N995,Mal funcionamiento de estoma externo de vias urinarias
+N998,Otros trastornos del sistema genitourinario consecutivos a procedimientos
+N999,Trastorno no especificado del sistema genitourinario consecutivo a procedimientos
+O00,Embarazo ectopico
+O000,Embarazo abdominal
+O001,Embarazo tubarico
+O002,Embarazo ovarico
+O008,Otros embarazos ectopicos
+O009,Embarazo ectopico, no especificado
+O01,Mola hidatiforme
+O010,Mola hidatiforme clasica
+O011,Mola hidatiforme, incompleta o parcial
+O019,Mola hidatiforme, no especificada
+O02,Otros productos anormales de la concepcion
+O020,Detencion del desarrollo del huevo y mola no hidatiforme
+O021,Aborto retenido
+O028,Otros productos anormales especificados de la concepcion
+O029,Producto anormal de la concepcion, no especificado
+O03,Aborto espontaneo
+O030,Aborto espontaneo: incompleto, complicado con infeccion genital y pelviana
+O031,Aborto espontaneo: incompleto, complicado por hemorragia excesiva o tardia
+O032,Aborto espontaneo: incompleto, complicado por embolia
+O033,Aborto espontaneo: incompleto, con otras complicaciones especificadas y las no especificadas
+O034,Aborto espontaneo: incompleto, sin complicacion
+O035,Aborto espontaneo: completo o no especificado, complicado con infeccion genital y pelviana
+O036,Aborto espontaneo: completo o no especificado, complicado por hemorragia excesiva o tardia
+O037,Aborto espontaneo: completo o no especificado, complicado por embolia
+O038,Aborto espontaneo: completo o no especificado, con otras complicaciones especificadas y las no especificadas
+O039,Aborto espontaneo: completo o no especificado, sin complicacion
+O04,Aborto medico
+O040,Aborto medico: incompleto, complicado con infeccion genital y pelviana
+O041,Aborto medico: incompleto, complicado por hemorragia excesiva o tardia
+O042,Aborto medico: incompleto, complicado por embolia
+O043,Aborto medico: incompleto, con otras complicaciones especificadas y las no especificadas
+O044,Aborto medico: incompleto, sin complicacion
+O045,Aborto medico: completo o no especificado, complicado con infeccion genital y pelviana
+O046,Aborto medico: completo o no especificado, complicado por hemorragia excesiva o tardia
+O047,Aborto medico: completo o no especificado, complicado por embolia
+O048,Aborto medico: completo o no especificado, con otras complicaciones especificadas y las no especificadas
+O049,Aborto medico: completo o no especificado, sin complicacion
+O05,Otro aborto
+O050,Otro aborto: incompleto, complicado con infeccion genital y pelviana
+O051,Otro aborto: incompleto, complicado por hemorragia excesiva o tardia
+O052,Otro aborto: incompleto, complicado por embolia
+O053,Otro aborto: incompleto, con otras complicaciones especificadas y las no especificadas
+O054,Otro aborto: incompleto, sin complicacion
+O055,Otro aborto: completo o no especificado, complicado con infeccion genital y pelviana
+O056,Otro aborto: completo o no especificado, complicado por hemorragia excesiva o tardia
+O057,Otro aborto: completo o no especificado, complicado por embolia
+O058,Otro aborto: completo o no especificado, con otras complicaciones especificadas y las no especificadas
+O059,Otro aborto: completo o no especificado, sin complicacion
+O06,Aborto no especificado
+O060,Aborto no especificado: incompleto, complicado con infeccion genital y pelviana
+O061,Aborto no especificado: incompleto, complicado por hemorragia excesiva o tardia
+O062,Aborto no especificado: incompleto, complicado por embolia
+O063,Aborto no especificado: incompleto, con otras complicaciones especificadas y las no especificadas
+O064,Aborto no especificado: incompleto, sin complicacion
+O065,Aborto no especificado: completo o no especificado, complicado con infeccion genital y pelviana
+O066,Aborto no especificado: completo o no especificado, complicado por hemorragia excesiva o tardia
+O067,Aborto no especificado: completo o no especificado, complicado por embolia
+O068,Aborto no especificado: completo o no especificado, con otras complicaciones especificadas y las no especificadas
+O069,Aborto no especificado: completo o no especificado, sin complicacion
+O07,Intento fallido de aborto
+O070,Falla de la induccion medica del aborto, complicado con infeccion genital y pelviana
+O071,Falla de la induccion medica del aborto, complicado por hemorragia excesiva o tardia
+O072,Falla de la induccion medica del aborto, complicado por embolia
+O073,Falla de la induccion medica del aborto, con otras complicaciones especificadas y las no especificadas
+O074,Falla de la induccion medica del aborto, sin complicacion
+O075,Otros intentos fallidos de aborto y los no especificados, complicados por infeccion genital y pelviana
+O076,Otros intentos fallidos de aborto y los no especificados, complicados por hemorragia excesiva o tardia
+O077,Otros intentos fallidos de aborto y los no especificados, complicados por embolia
+O078,Otros intentos fallidos de aborto y los no especificados, con otras complicaciones especificadas y las no especificadas
+O079,Otros intentos fallidos de aborto y los no especificados, sin complicacion
+O08,Complicaciones consecutivas al aborto, al embarazo ectopico y al embarazo molar
+O080,Infeccion genital y pelviana consecutiva al aborto, al embarazo ectopico y al embarazo molar
+O081,Hemorragia excesiva o tardia consecutiva al aborto, al embarazo ectopico y al embarazo molar
+O082,Embolia consecutiva al aborto, al embarazo ectopico y al embarazo molar
+O083,Choque consecutivo al aborto, al embarazo ectopico y al embarazo molar
+O084,Insuficiencia renal consecutiva al aborto, al embarazo ectopico y al embarazo molar
+O085,Trastorno metabolico consecutivo al aborto, al embarazo ectopico y al embarazo molar
+O086,Lesion de organos o tejidos de la pelvis consecutivo al aborto, al embarazo ectopico y al embarazo molar
+O087,Otras complicaciones venosas consecutiva al aborto, al embarazo ectopico y al embarazo molar
+O088,Otras complicaciones consecutivas al aborto, al embarazo ectopico y al embarazo molar
+O089,Complicacion no especificada consecutiva al aborto, al embarazo ectopico y al embarazo molar
+O10,Hipertension preexistente que complica el embarazo, el parto y el puerperio
+O100,Hipertension esencial preexistente que complica el embarazo, el parto y el puerperio
+O101,Enfermedad cardiaca hipertensiva preexistente que complica el embarazo, el parto y el puerperio
+O102,Enfermedad renal hipertensiva preexistente que complica el embarazo, el parto y el puerperio
+O103,Enfermedad cardio
+O104,Hipertension secundaria preexistente que complica el embarazo, el parto y el puerperio
+O109,Hipertension preexistente no especificada, que complica el embarazo, el parto y el puerperio
+O11,Trastornos hipertensivos preexistentes, con proteinuria agregada
+O12,Edema y proteinuria gestacional [inducidos por elembarazo] sin hipertension
+O120,Edema gestacional
+O121,Proteinuria gestacional
+O122,Edema gestacional con proteinuria
+O13,Hipertension gestacional [inducida por elembarazo] sin proteinuria significativa
+O14,Hipertens gestacional [inducida por elembarazo] con proteinuria significativa
+O140,Preeclampsia moderada
+O141,Preeclampsia severa
+O149,Preeclampsia, no especificada
+O15,Eclampsia
+O150,Preeclampsia en el embarazo
+O151,Preeclampsia durante el trabajo de parto
+O152,Preeclampsia en el puerperio
+O159,Preeclampsia, en periodo no especificado
+O16,Hipertension materna no especificada
+O20,Hemorragia precoz del embarazo
+O200,Amenaza de aborto
+O208,Otras hemorragias precoces del embarazo
+O209,Hemorragia precoz del embarazo, sin otra especificacion
+O21,Vomitos excesivos en el embarazo
+O210,Hiperemesis gravidica leve
+O211,Hiperemesis gravidica con trastornos metabolicos
+O212,Hiperemesis gravidica tardia
+O218,Otros vomitos que complican el embarazo
+O219,Vomitos del embarazo, no especificado
+O22,Complicaciones venosas en el embarazo
+O220,Venas varicosas de los miembros inferiores en el embarazo
+O221,Varices genitales en el embarazo
+O222,Tromboflebitis en el embarazo
+O223,Flebotrombosis profunda en el embarazo
+O224,Hemorroides en el embarazo
+O225,Trombosis venosa cerebral en el embarazo
+O228,Otras complicaciones venosas en el embarazo
+O229,Complicacion venosa no especificada en el embarazo
+O23,Infeccionesion de las vias genitourinarias en el embarazo
+O230,Infeccion del riñon en el embarazo
+O231,Infeccion de la vejiga urinaria en el embarazo
+O232,Infeccion de la uretra en el embarazo
+O233,Infeccion de otras partes de las vias urinarias en el embarazo
+O234,Infeccion no especificada de las vias urinarias en el embarazo
+O235,Infeccion genital en el embarazo
+O239,Otras infeccion y las no especificadas de las vias genitourinarias en el embarazo
+O24,Diabetes mellitus en el embarazo
+O240,Diabetes mellitus preexistente insulinodependiente, en el embarazo
+O241,Diabetes mellitus preexistente no insulinodependiente, en el embarazo
+O242,Diabetes mellitus preexistente relacionada con desnutricion, en el embarazo
+O243,Diabetes mellitus preexistente, sin otra especificacion, en el embarazo
+O244,Diabetes mellitus que se origina en el embarazo
+O249,Diabetes mellitus no especificada, en el embarazo
+O25,Desnutricion en el embarazo
+O26,Atencion materna por otras complicaciones relacionadas con el embarazo
+O260,Aumento excesivo de peso en el embarazo
+O261,Aumento pequeño de peso en el embarazo
+O262,Atencion del embarazo en una abortadora habitual
+O263,Retencion de dispositivo anticonceptivo intrauterino en el embarazo
+O264,Herpes gestacional
+O265,Sindrome de hipotension materna
+O266,Trastorno del higado en el embarazo, el parto y el puerperio
+O267,Subluxacion de la sinfisis (del pubis) en el embarazo, el parto y el puerperio
+O268,Otras complicaciones especificadas relacionadas con el embarazo
+O269,Complicacion relacionada con el embarazo, no especificada
+O28,Hallazgos anormales en el examen prenatal de la madre
+O280,Hallazgo hematologico anormal en el examen prenatal de la madre
+O281,Hallazgo bioquimico anormal en el examen prenatal de la madre
+O282,Hallazgo citologico anormal en el examen prenatal de la madre
+O283,Hallazgo ultrasonico anormal en el examen prenatal de la madre
+O284,Hallazgo radiologico anormal en el examen prenatal de la madre
+O285,Hallazgo cromosomico o genetico anormal en el examen prenatal de la madre
+O288,Otros hallazgos anormales en el examen prenatal de la madre
+O289,Hallazgo anormal no especificado en el examen prenatal de la madre
+O29,Complicaciones de la anestesia administrada durante el embarazo
+O290,Complicaciones pulmonares de la anestesia administrada durante el embarazo
+O291,Complicaciones cardiacas de la anestesia administrada durante el embarazo
+O292,Complicaciones del sistema nervioso central debidas a la anestesia administrada durante el embarazo
+O293,Reaccion toxica a la anestesia local administrada durante el embarazo
+O294,Cefalalgia inducida por la anestesia espinal o epidural administradas durante el embarazo
+O295,Otras complicaciones de la anestesia espinal o epidural administradas durante el embarazo
+O296,Falla o dificultad en la intubacion durante el embarazo
+O298,Otras complicaciones de la anestesia administrada durante el embarazo
+O299,Complicacion no especificada de la anestesia administrada durante el embarazo
+O30,Embarazo multiple
+O300,Embarazo doble
+O301,Embarazo triple
+O302,Embarazo cuadruple
+O308,Otros embarazos multiples
+O309,Embarazo multiple, no especificado
+O31,Complicacion especificas del embarazo multiple
+O310,Feto papiraceo
+O311,Embarazo que continua despues del aborto de un feto o mas
+O312,Embarazo que continua despues de la muerte intrauterina de un feto o mas
+O318,Otras complicaciones especificadas del embarazo
+O32,Atencion materna por presentacion anormal feto
+O320,Atencion materna por posicion fetal inestable
+O321,Atencion materna por presentacion de nalgas
+O322,Atencion materna por posicion fetal oblicua o transversa
+O323,Atencion materna por presentacion de cara, de frente o de menton
+O324,Atencion materna por cabeza alta en gestacion a termino
+O325,Atencion materna por embarazo multiple con presentacion anormal de un feto o mas
+O326,Atencion materna por presentacion compuesta
+O328,Atencion materna por otras presentaciones anormales del feto
+O329,Atencion materna por presentacion anormal no especificada del feto
+O33,Atencion materna por desproporcion
+O330,Atencion materna por desproporcion debida a deformidad de la pelvis osea en la madre
+O331,Atencion materna por desproporcion debida a estrechez general de la pelvis
+O332,Atencion materna por desproporcion debida a disminucion del estrecho superior de la pelvis
+O333,Atencion materna por desproporcion debida a disminucion del estrecho inferior de la pelvis
+O334,Atencion materna por desproporcion fetopelviana de origen mixto, materno y fetal
+O335,Atencion materna por desproporcion debida a feto demasiado grande
+O336,Atencion materna por desproporcion debida a feto hidrocefalico
+O337,Atencion materna por desproporcion debida a otra deformidad fetal
+O338,Atencion materna por desproporcion de otro origen
+O339,Atencion materna por desproporcion de origen no especificado
+O34,Atencion materna por anormalidades conocidas o presuntas de los organos pelvianos de la madre
+O340,Atencion materna por anomalia congenita del utero
+O341,Atencion materna por tumor del cuerpo del utero
+O342,Atencion materna por cicatriz uterina debida a cirugia previa
+O343,Atencion materna por incompetencia del cuello uterino
+O344,Atencion materna por otra anormalidad del cuello uterino
+O345,Atencion materna por otras anormalidades del utero gravido
+O346,Atencion materna por anormalidad de la vagina
+O347,Atencion materna por anormalidad de la vulva y del perineo
+O348,Atencion materna por anormalidades de los organos pelvianos
+O349,Atencion materna por anormalidad no especificada de organo pelviano
+O35,Atencion materna por anormalidad o lesion fetal, conocida o presunta
+O350,Atencion materna por (presunta) malformacion del sistema nervioso central en el feto
+O351,Atencion materna por (presunta) anormalidad cromosomica en el feto
+O352,Atencion materna por (presunta) enfermedad hereditaria en el feto
+O353,Atencion materna por (presunta) lesion fetal debida a enfermedad virica en la madre
+O354,Atencion materna por (presunta) lesion al feto debida al alcohol
+O355,Atencion materna por (presunta) lesion fetal debida a drogas
+O356,Atencion materna por (presunta) lesion al feto debida a radiacion
+O357,Atencion materna por (presunta) lesion fetal debida a otros procedimientos medicos
+O358,Atencion materna por otras (presunta) anormalidades y lesiones fetales
+O359,Atencion materna por (presunta) anormalidad y lesion fetal no especificada
+O36,Atencion materna por otros problemas fetales, conocidos o presuntos
+O360,Atencion materna por isoinmunizacion rhesus
+O361,Atencion materna por otra isoinmunizacion
+O362,Atencion materna por hidropesia fetal
+O363,Atencion materna por signos de hipoxia fetal
+O364,Atencion materna por muerte intrauterina
+O365,Atencion materna por deficit del crecimiento fetal
+O366,Atencion materna por crecimiento fetal excesivo
+O367,Atencion materna por feto viable en embarazo abdominal
+O368,Atencion materna por otros problemas fetales especificados
+O369,Atencion materna por otros problemas fetales no especificados
+O40,Polihidramnios
+O41,Otros trastornos del liquido amniotico y de las membranas
+O410,Oligohidramnios
+O411,Infeccion de la bolsa amniotica o de las membranas
+O418,Otros trastornos especificados del liquido amniotico y de las membranas
+O419,Trastorno del liquido amniotico y de las membranas, no especificado
+O42,Ruptura prematura de las membranas
+O420,Ruptura prematura de las membranas, e inicio del trabajo de parto dentro de las 24 horas
+O421,Ruptura prematura de las membranas, e inicio del trabajo de parto despues de las 24 horas
+O422,Ruptura prematura de las membranas, trabajo de parto retrasado por la terapeutica
+O429,Ruptura prematura de las membranas, sin otra especificacion
+O43,Trastornos placentarios
+O430,Sindrome de transfusion placentera
+O431,Malformacion de la placenta
+O438,Otros trastornos placentarios
+O439,Trastorno de la placenta, no especificado
+O44,Placenta previa
+O440,Placenta previa con especificacion de que no hubo hemorragia
+O441,Placenta previa con hemorragia
+O45,Desprendimiento prematuro de la placenta
+O450,Desprendimiento prematuro de la placenta con defecto de la coagulacion
+O458,Otros desprendimientos prematuros de la placenta
+O459,Desprendimiento prematuro de la placenta, sin otra especificacion
+O46,Hemorragia anteparto no clasificada en otra parte
+O460,Hemorragia anteparto con defecto de la coagulacion
+O468,Otras hemorragias anteparto
+O469,Hemorragia anteparto, no especificada
+O47,Falso trabajo de parto
+O470,Falso trabajo de parto antes de la 37 semanas completas de gestacion
+O471,Falso trabajo de parto antes de la 37 y mas semanas completas de gestacion
+O479,Falso trabajo de parto sin otra especificacion
+O48,Embarazo prolongado
+O60,Parto prematuro
+O61,Fracaso de la induccion del trabajo de parto
+O610,Fracaso de la induccion medica del trabajo de parto
+O611,Fracaso de la induccion instrumental del trabajo de parto
+O618,Otros fracasos de la induccion del trabajo de parto
+O619,Fracaso no especificado de la induccion del trabajo de parto
+O62,Anormalidades de la dinamica del trabajo de parto
+O620,Contracciones primarias inadecuadas
+O621,Inercia uterina secundaria
+O622,Otras inercias uterinas
+O623,Trabajo de parto precipitado
+O624,Contracciones uterinas hipertonicas, incoordinadas y prolongadas
+O628,Otras anomalias dinamicas del trabajo de parto
+O629,Anomalia dinamica del trabajo de parto, no especificada
+O63,Trabajo de parto prolongado
+O630,Prolongacion del primer periodo (del trabajo de parto)
+O631,Prolongacion del segundo periodo (del trabajo de parto)
+O632,Retraso de la expulsion del segundo gemelo, del tercero, etc
+O639,Trabajo de parto prolongado, no especificado
+O64,Trabajo de parto obstruido debido mala posicion y presentacion anormal del feto
+O640,Trabajo de parto obstruido debido a rotacion incompleta de la cabeza fetal
+O641,Trabajo de parto obstruido debido a presentacion de nalgas
+O642,Trabajo de parto obstruido debido a presentacion de cara
+O643,Trabajo de parto obstruido debido a presentacion de frente
+O644,Trabajo de parto obstruido debido a presentacion de hombro
+O645,Trabajo de parto obstruido debido a presentacion compuesta
+O648,Trabajo de parto obstruido debido a otras presentaciones anormales del feto
+O649,Trabajo de parto obstruido debido a presentacion anormal del feto no especificada
+O65,Trabajo de parto obstruido debido a anormalidad de la pelvis materna
+O650,Trabajo de parto obstruido debido a deformidad de la pelvis
+O651,Trabajo de parto obstruido debido a estrechez general de la pelvis
+O652,Trabajo de parto obstruido debido a disminucion del estrecho superior de la pelvis
+O653,Trabajo de parto obstruido debido a disminucion del estrecho inferior de la pelvis
+O654,Trabajo de parto obstruido debido a desproporcion fetopelviana, sin otra especificacion
+O655,Trabajo de parto obstruido debido a anomalias de los organos pelvianos maternos
+O658,Trabajo de parto obstruido debido a otras anomalias pelvianas maternas
+O659,Trabajo de parto obstruido debido a anomalia pelviana no especificada
+O66,Otras obstrucciones del trabajo de parto
+O660,Trabajo de parto obstruido debido a distocia de hombros
+O661,Trabajo de parto obstruido debido a distocia gemelar
+O662,Trabajo de parto obstruido debido a distocia por feto inusualmente grande
+O663,Trabajo de parto obstruido debido a otras anormalidades del feto
+O664,Fracaso de la prueba del trabajo de parto, no especificada
+O665,Fracaso no especificado de la aplicacion de forceps o de ventosa extractora
+O668,Otras obstrucciones especificadas del trabajo de parto
+O669,Trabajo de parto obstruido, sin otra especificacion
+O67,Trabajo de parto y parto complicados por hemorragia intraparto no clasificados en otra parte
+O670,Hemorragia intraparto con defectos de la coagulacion
+O678,Otras hemorragias intraparto
+O679,Hemorragia intraparto, no especificada
+O68,Trabajo de parto y parto complicados por sufrimiento fetal
+O680,Trabajo de parto y parto complicados por anomalias de la frecuencia cardiaca fetal
+O681,Trabajo de parto y parto complicados por la presencia de meconio en el liquido amniotico
+O682,Trabajo de parto y parto complicados por anomalia de la frecuencia cardiaca fetal asociada con presencia de meconio en liquido amniotico
+O683,Trabajo de parto y parto complicados por evidencia bioquimica de sufrimiento fetal
+O688,Trabajo de parto y parto complicados por otras evidencias de sufrimiento fetal
+O689,Trabajo de parto y parto complicados por sufrimiento fetal, sin otra especificacion
+O69,Trabajo de parto y parto complicados por problemas del cordon umbilical
+O690,Trabajo de parto y parto complicados por prolapso del cordon umbilical
+O691,Trabajo de parto y parto complicados por circular pericervical del cordon, con compresion
+O692,Trabajo de parto y parto complicados por otros enredos del cordon
+O693,Trabajo de parto y parto complicados por cordon umbilical corto
+O694,Trabajo de parto y parto complicados por vasa previa
+O695,Trabajo de parto y parto complicados por lesion vascular del cordon
+O698,Trabajo de parto y parto complicados por otros problemas del cordon umbilical
+O699,Trabajo de parto y parto complicados por problemas no especificados del cordon umbilical
+O70,Desgarro perineal durante el parto
+O700,Desgarro perineal de primer grado durante el parto
+O701,Desgarro perineal de segundo grado durante el parto
+O702,Desgarro perineal de tercer grado durante el parto
+O703,Desgarro perineal de cuarto grado durante el parto
+O709,Desgarro perineal durante el parto, de grado no especificado
+O71,Otro trauma obstetrico
+O710,Ruptura del utero antes del inicio del trabajo de parto
+O711,Ruptura del utero durante el trabajo de parto
+O712,Inversion del utero, postparto
+O713,Desgarro obstetrico del cuello uterino
+O714,Desgarro vaginal obstetrico alto, solo
+O715,Otros traumatismos obstetricos de los organos pelvianos
+O716,Traumatismo obstetrico de los ligamentos articulaciones de la pelvis
+O717,Hematoma obstetrico de la pelvis
+O718,Otros traumas obstetricos especificados
+O719,Trauma obstetrico, no especificado
+O72,Hemorragia postparto
+O720,Hemorragia del tercer periodo del parto
+O721,Otras hemorragias postparto inmediatas
+O722,Hemorragia postparto secundaria o tardia
+O723,Defecto de la coagulacion postparto
+O73,Retencion de la placenta o de las membranas, sin hemorragia
+O730,Retencion de la placenta sin hemorragia
+O731,Retencion de fragmentos de la placenta o de las membranas, sin hemorragia
+O74,Complicaciones de la anestesia administrada durante el trabajo de parto y el parto
+O740,Neumonitis por aspiracion debida a la anestesia administrada durante el trabajo de parto y el parto
+O741,Otras complicaciones pulmonares debidas a la anestesia administrada durante el trabajo de parto y el parto
+O742,Complicaciones cardiacas de la anestesia administrada durante el trabajo de parto y el parto
+O743,Complicaciones del sistema nervioso central por la anestesia administrada durante el trabajo de parto y el parto
+O744,Reaccion toxica a la anestesia local administrada durante el trabajo de parto y el parto
+O745,Cefalalgia inducida por la anestesia espinal o epidural administradas durante el trabajo de parto y el parto
+O746,Otras complicaciones de la anestesia espinal o epidural administradas durante el trabajo de parto y el parto
+O747,Falla o dificultad en la intubacion durante el trabajo de parto y el parto
+O748,Otras complicaciones de la anestesia administrada durante el trabajo de parto y el parto
+O749,Complicacion no especificada de la anestesia administrada durante el trabajo de parto y el parto
+O75,Otras complicaciones del trabajo de parto y del parto no clasificadas en otra parte
+O750,Sufrimiento materno durante el trabajo de parto y el parto
+O751,Choque durante o despues del trabajo de parto y el parto
+O752,Pirexa durante el trabajo de parto, no clasificada en otra parte
+O753,Otras infecciones durante el trabajo de parto
+O754,Otras complicaciones de procedimientos y de cirugia obstetrica
+O755,Retraso del parto despues de la ruptura artificial de las membranas
+O756,Retraso del parto despues de la ruptura espontanea o no especificada de las membranas
+O757,Parto vaginal posterior a una cesarea previa
+O758,Otras complicaciones especificadas del trabajo de parto y del parto
+O759,Complicacion no especificada del trabajo de parto y del parto
+O80,Parto unico espontaneo
+O800,Parto unico espontaneo, presentacion cefalica de vertice
+O801,Parto unico espontaneo, presentacion de nalgas o podalica
+O808,Parto unico espontaneo, otras presentaciones
+O809,Parto unico espontaneo, sin otra especificacion
+O81,Parto unico con forceps y ventosa extractora
+O810,Parto con forceps bajo
+O811,Parto con forceps medio
+O812,Parto con forceps medio con rotacion
+O813,Parto con forceps de otros tipos y los no especificados
+O814,Parto con ventosa extractora
+O815,Parto con combinacion de forceps y ventosa extractora
+O82,Parto unico por cesarea
+O820,Parto por cesarea electiva
+O821,Parto por cesarea de emergencia
+O822,Parto por cesarea con histerectomia
+O828,Otros partos unicos por cesarea
+O829,Parto por cesarea, sin otra especificacion
+O83,Otros partos unicos asistidos
+O830,Extraccion de nalgas
+O831,Otros partos unicos asistidos, de nalgas
+O832,Otros partos unicos con ayuda de manipulacion obstetrica
+O833,Parto de feto viable en embarazo abdominal
+O834,Operacion destructiva para facilitar el parto
+O838,Otros partos unicos asistidos especificados
+O839,Parto unico asistido, sin otra especificacion
+O84,Parto multiple
+O840,Parto multiple, todos espontaneos
+O841,Parto multiple, todos forceps y ventosa extractora
+O842,Parto multiple, todos por cesarea
+O848,Otros partos multiples
+O849,Parto multiple, no especificado
+O85,Sepsis puerperal
+O86,Otras infecciones puerperales
+O860,Infeccion de herida quirurgica obstetrica
+O861,Otras infecciones genitales consecutivas al parto
+O862,Infeccion de las vias urinarias consecutiva al parto
+O863,Otras infecciones de las vias genitourinarias consecutivas al parto
+O864,Pirexa de origen desconocido consecutiva al parto
+O868,Otras infecciones puerperales especificadas
+O87,Complicaciones venosas en el puerperio
+O870,Tromboflebitis superficial en el puerperio
+O871,Flebotrombosis profunda en el puerperio
+O872,Hemorroides en el puerperio
+O873,Trobosis venosa cerebral en el puerperio
+O878,Otras complicaciones venosas en el puerperio
+O879,Complicacion venosa en el puerperio, no especificada
+O88,Embolia obstetrica
+O880,Embolia gaseosa, obstetrica
+O881,Embolia de liquido amniotico
+O882,Embolia de coagulo sanguineo, obstetrica
+O883,Embolia septica y piemica, obstetrica
+O888,Otras embolias obstetricas
+O89,Complicacion de la anestesia administrada durante el puerperio
+O890,Complicaciones pulmonares de la anestesia administrada durante el puerperio
+O891,Complicaciones cardiacas de la anestesia administrada durante el puerperio
+O892,Complicaciones del sistema nervioso central debidas a la anestesia administrada durante el puerperio
+O893,Reaccion toxica a la anestesia local administrada durante el puerperio
+O894,Cefalalgia inducida por la anestesia espinal o epidural administradas durante el puerperio
+O895,Otras complicaciones de la anestesia espinal o epidural administradas durante el puerperio
+O896,Falla o dificultad en la intubacion durante el puerperio
+O898,Otras complicaciones de la anestesia administrada durante el puerperio
+O899,Complicacion no especificada de la anestesia administrada durante el trabajo puerperio
+O90,Complicaciones del puerperio no clasificadas en otra parte
+O900,Dehiscencia de sutura de cesarea
+O901,Dehiscencia de sutura obstetrica perineal
+O902,Hematoma de herida quirurgica obstetrica
+O903,Cardiomiopatia en el puerperio
+O904,Insuficiencia renal aguda postparto
+O905,Tiroiditis postparto
+O908,Otras complicaciones puerperales, no clasificadas en otra parte
+O909,Complicacion puerperal , no especificada
+O91,Infecciones de la mama asociadas con el parto
+O910,Infecciones del pezon asociadas con el parto
+O911,Absceso de la mama asociado con el parto
+O912,Mastitis no purulenta asociada con el parto
+O92,Otros trastornos de la mama y de la lactancia asociados con el parto
+O920,Retraccion del pezon asociada con el parto
+O921,Fisuras del pezon asociadas con el parto
+O922,Otros trastornos de la mama y los no especificados asociados con el parto
+O923,Agalactia
+O924,Hipogalactia
+O925,Supresion de la lactancia
+O926,Galactorrea
+O927,Otros trastornos y los no especificados de la lactancia
+O93,Muerte materna de causa basica especificada en otro capitulo relacionada con el embarazo
+O95,Muerte obstetrica de causa no especificada
+O96,Muerte materna debida a cualquier causa obstetrica que ocurre despues de 42 dias pero antes de un año del parto
+O97,Muerte por secuelas de causas obstetricas directas
+O98,Enfermedades maternas infecciosas y parasitarias clasificables en otra parte, pero que complican el embarazo, el parto y el puerperio
+O980,Tuberculosis que complica el embarazo, el parto y el puerperio
+O981,Sifilis que complica el embarazo, el parto y el puerperio
+O982,Gonorrea a que complica el embarazo, el parto y el puerperio
+O983,Otras infecciones con un modo de transmision predominante sexual que complican el embarazo, el parto y el puerperio
+O984,Hepatitis viral que complica el embarazo, el parto y el puerperio
+O985,Otras enfermedades virales que complican el embarazo, el parto y el puerperio
+O986,Enfermedades causadas por protozoarios que complican el embarazo, el parto y el puerperio
+O988,Otras enfermedades infecciosas y parasitarias maternas que complican el embarazo, el parto y el puerperio
+O989,Enfermedad infecciosa y parasitaria materna no especificada que complica el embarazo, el parto y el puerperio
+O99,Otras enfermedades maternas clasificables en otra parte, pero que complican el embarazo, el parto y el puerperio
+O990,Anemia que complica el embarazo, el parto y el puerperio
+O991,Otras enfermedades de la sangre y de los organos hematopoyeticos y ciertos trastornos que afectan el sistema inmunitario cuando complican el embarazo, el parto y el puerperio
+O992,Enfermedades endocrinas, de la nutricion y del metabolismo que complican el embarazo, el parto y el puerperio
+O993,Trastornos mentales y enfermedades del sistema nervioso que complican el embarazo, el parto y el puerperio
+O994,Enfermedades del sistema circulatorio que complican el embarazo, el parto y el puerperio
+O995,Enfermedades del sistema respiratorio que complican el embarazo, el parto y el puerperio
+O996,Enfermedades del sistema digestivo que complican el embarazo, el parto y el puerperio
+O997,Enfermedades de la piel y de tejido subcutaneo que complican el embarazo, el parto y el puerperio
+O998,Otras enfermedades especificadas y afecciones que complican el embarazo, el parto y el puerperio
+P00,Feto y recien nacido afectados por condiciones de la madre no necesariamente relacionadas con el embarazo presente
+P000,Feto y recien nacido afectados por trastornos hipertensivos de la madre
+P001,Feto y recien nacido afectados por enfermedades renales y de las vias urinarias de la madre
+P002,Feto y recien nacido afectados por enfermedades infecciosas y parasitarias de la madre
+P003,Feto y recien nacido afectados por enfermedades circulatorias y respiratorias de la madre
+P004,Feto y recien nacido afectados por trastornos nutricionales de la madre
+P005,Feto y recien nacido afectados por traumatismo de la madre
+P006,Feto y recien nacido afectados por procedimiento quirurgico de la madre
+P007,Feto y recien nacido afectados por otro procedimiento medico de la madre, no clasificado en otra parte
+P008,Feto y recien nacido afectados por otras afecciones maternas
+P009,Feto y recien nacido afectados por afeccion materna no especificada
+P01,Feto y recien nacido afectados por complicaciones maternas del embarazo
+P010,Feto y recien nacido afectados por incompetencia del cuello uterino
+P011,Feto y recien nacido afectados por ruptura prematura de las membranas
+P012,Feto y recien nacido afectados por oligohidramnios
+P013,Feto y recien nacido afectados por polihidramnios
+P014,Feto y recien nacido afectados por embarazo ectopico
+P015,Feto y recien nacido afectados por embarazo multiple
+P016,Feto y recien nacido afectados por muerte materna
+P017,Feto y recien nacido afectados por presentacion anomala antes del trabajo de parto
+P018,Feto y recien nacido afectados por otras complicaciones maternas del embarazo
+P019,Feto y recien nacido afectados por complicaciones maternas no especificadas del embarazo
+P02,Feto y recien nacido afectados por complicaciones de la placenta, del cordon umbilical y de las membranas
+P020,Feto y recien nacido afectados por placenta previa
+P021,Feto y recien nacido afectados por otras formas de desprendimiento y de hemorragia placentarios
+P022,Feto y recien nacido afectados por otras anomalias morfologicas y funcionales de la placenta y las no especificadas
+P023,Feto y recien nacido afectados por sindromes de transfusion placentaria
+P024,Feto y recien nacido afectados por prolapso del cordon umbilical
+P025,Feto y recien nacido afectados por otra compresion del cordon umbilical
+P026,Feto y recien nacido afectados por otras complicaciones del cordon umbilical y las no especificadas
+P027,Feto y recien nacido afectados por corioamnionitis
+P028,Feto y recien nacido afectados por otras anormalidades de las membranas
+P029,Feto y recien nacido afectados por anormalidad no especificada de las membranas
+P03,Feto y recien nacido afectados por otras complicaciones del trabajo de parto y del parto
+P030,Feto y recien nacido afectados por parto y extraccion de nalgas
+P031,Feto y recien nacido afectados por otra presentacion anomala, posicion anomala y desproporcion durante el trabajo de parto y el parto
+P032,Feto y recien nacido afectados por parto con forceps
+P033,Feto y recien nacido afectados por parto con ventosa extractora
+P034,Feto y recien nacido afectados por parto por cesarea
+P035,Feto y recien nacido afectados por parto precipitado
+P036,Feto y recien nacido afectados por contracciones uterinas anormales
+P038,Feto y recien nacido afectados por otras complicaciones especificadas del trabajo de parto y del parto
+P039,Feto y recien nacido afectados por complicaciones no especificadas del trabajo de parto y del parto
+P04,Feto y recien nacido afectados por influencias nocivas transmitidas a traves de la placenta o de la leche materna
+P040,Feto y recien nacido afectados por anestesia y analgesia materna en el embarazo, en el trabajo de parto y en el parto
+P041,Feto y recien nacido afectados por otras medicaciones maternas
+P042,Feto y recien nacido afectados por tabaquismo de la madre
+P043,Feto y recien nacido afectados por alcoholismo de la madre
+P044,Feto y recien nacido afectados por drogadiccion materna
+P045,Feto y recien nacido afectados por el uso materno de sustancias quimicas nutricionales
+P046,Feto y recien nacido afectados por exposicion materna a sustancias quimicas ambientales
+P048,Feto y recien nacido afectados por otras influencias nocivas de la madre
+P049,Feto y recien nacido afectados por influencias nocivas de la madre, no especificadas
+P05,Retardo del crecimiento fetal y desnutricion fetal
+P050,Bajo peso para la edad gestacional
+P051,Pequeño para edad gestacional
+P052,Desnutricion fetal, sin mencion de peso o talla bajos para la edad gestacional
+P059,Retardo del crecimiento fetal, no especificado
+P07,Trastornos relacionados con la duracion corta de la gestacion y con bajo peso al nacer, no clasificados en otra parte
+P070,Peso extremadamente bajo al nacer
+P071,Otro peso bajo al nacer
+P072,Inmaturidad extrema
+P073,Otros recien nacidos pretermino
+P08,Trastornos relacionados con el embarazo prolongado y con sobrepeso al nacer
+P080,Recien nacido excepcionalmente grande
+P081,Otros recien nacidos con sobrepeso para la edad gestacional
+P082,Recien nacido postermino sin sobrepeso para su edad gestacional
+P10,Hemorragia y laceracion intracraneal debidas a traumatismo del nacimiento
+P100,Hemorragia subdural debida a traumatismo del nacimiento
+P101,Hemorragia cerebral debida a traumatismo del nacimiento
+P102,Hemorragia intraventricular debida a traumatismo del nacimiento
+P103,Hemorragia subaracnoidea debida a traumatismo del nacimiento
+P104,Desgarro tentorial debido a traumatismo del nacimiento
+P108,Otras hemorragias y laceraciones intracraneales debidas a traumatismo del nacimiento
+P109,Hemorragia y laceracion intracraneales no especificadas, debidas a traumatismo del nacimiento
+P11,Otros traumatismos del nacimiento en el sistema nervioso central
+P110,Edema cerebral debido a traumatismo del nacimiento
+P111,Otras lesiones especificadas del encefalo debidas a traumatismo del nacimiento
+P112,Lesion no especificada del encefalo, debida a traumatismo del nacimiento
+P113,Traumatismo del nacimiento en el nervio facial
+P114,Traumatismo del nacimiento en otros nervios craneales
+P115,Traumatismo del nacimiento en la columna vertebral y en la medula espinal
+P119,Traumatismo del nacimiento en el sistema nervioso central, no especificado
+P12,Traumatismo del nacimiento en el cuero cabelludo
+P120,Cefalohematoma debido a traumatismo del nacimiento
+P121,Caput succedaneum debido a traumatismo del nacimiento
+P122,Hemorragia epicraneal subaponeurotica debida a traumatismo del nacimiento
+P123,Equimosis del cuero cabelludo debida a traumatismo del nacimiento
+P124,Traumatismo en el cuero cabelludo del recien nacido por monitoreo fetal
+P128,Otros traumatismos del nacimiento en el cuero cabelludo
+P129,Traumatismo del nacimiento en el cuero cabelludo, no especificado
+P13,Traumatismo del esqueleto durante el nacimiento
+P130,Fractura del craneo debida a traumatismo del nacimiento
+P131,Otros traumatismos del craneo durante el nacimiento
+P132,Traumatismo del femur durante el nacimiento
+P133,Traumatismo de otros huesos largos durante el nacimiento
+P134,Fractura de la clavicula debida a traumatismo del nacimiento
+P138,Traumatismo del nacimiento en otras partes del esqueleto
+P139,Traumatismo no especificado del esqueleto durante el nacimiento
+P14,Traumatismos del sistema nervioso periferico durante el nacimiento
+P140,Paralisis de erb debida a traumatismo del nacimiento
+P141,Paralisis de klumpke debida a traumatismo dl nacimiento
+P142,Paralisis del nervio frenico debida a traumatismo del nacimiento
+P143,Otro traumatismo del plexo braquial durante el nacimiento
+P148,Traumatismo durante el nacimiento en otras partes del sistema nervioso periferico
+P149,Traumatismo no especificado del sistema nervioso periferico durante el nacimiento
+P15,Otros traumatismos del nacimiento
+P150,Lesion del higado durante el nacimiento
+P151,Lesion del bazo durante el nacimiento
+P152,Traumatismo del musculo esternocleidomastoideo durante el nacimiento
+P153,Traumatismo ocular durante el nacimiento
+P154,Traumatismo facial durante el nacimiento
+P155,Traumatismo de los genitales externos durante el nacimiento
+P156,Necrosis grasa subcutanea debida a traumatismo del nacimiento
+P158,Otros traumatismos especificados, durante el nacimiento
+P159,Traumatismo no especificado, durante el nacimiento
+P20,Hipoxia intrauterina
+P200,Hipoxia intrauterina notada por primera vez antes del inicio del trabajo de parto
+P201,Hipoxia intrauterina notada por primera vez durante el trabajo de parto
+P209,Hipoxia intrauterina, no especificada
+P21,Asfixia del nacimiento
+P210,Asfixia del nacimiento, severa
+P211,Asfixia del nacimiento, leve y moderada
+P219,Asfixia del nacimiento, no especificada
+P22,Dificultad respiratoria del recien nacido
+P220,Sindrome de dificultad respiratoria del recien nacido
+P221,Taquipnea transitoria del recien nacido
+P228,Otras dificultades respiratorias del recien nacido
+P229,Dificultad respiratoria del recien nacido, no especificada
+P23,Neumonia congenita
+P230,Neumonia congenita debida a agente viral
+P231,Neumonia congenita debida a chlamydia
+P232,Neumonia congenita debida a estafilococos
+P233,Neumonia congenita debida a estreptococos del grupo b
+P234,Neumonia congenita debida a escherichia coli
+P235,Neumonia congenita debida a pseudomonas
+P236,Neumonia congenita debida a otros agentes bacterianos
+P238,Neumonia congenita debida a otros organismos
+P239,Neumonia congenita, organismo no especificado
+P24,Sindromes de aspiracion neonatal
+P240,Aspiracion neonatal de meconio
+P241,Aspiracion neonatal del liquido amniotico y de moco
+P242,Aspiracion neonatal de sangre
+P243,Aspiracion neonatal de leche y alimento regurgitado
+P248,Otros sindromes de aspiracion neonatal
+P249,Sindrome de aspiracion neonatal, sin otra especificacion
+P25,Enfisema intersticial y afecciones relacionadas, originadas en el periodo perinatal
+P250,Enfisema intersticial originado en el periodo perinatal
+P251,Neumotorax originado en el periodo perinatal
+P252,Neumomediastino originado en el periodo perinatal
+P253,Neumopericardio originado en el periodo perinatal
+P258,Otras afecciones relacionadas con el enfisema intersticial, originadas en el periodo perinatal
+P26,Hemorragia pulmonar originada en el periodo perinatal
+P260,Hemorragia traqueobronquial originada en el periodo perinatal
+P261,Hemorragia pulmonar masiva originada en el periodo perinatal
+P268,Otras hemorragias pulmonares originadas en el periodo perinatal
+P269,Hemorragia pulmonar no especificada, originada en el periodo perinatal
+P27,Enfermedades respiratorias cronicas originadas en el periodo perinatal
+P270,Sindrome de wilson
+P271,Displasia broncopulmonar originada en el periodo perinatal
+P278,Otras enfermedades respiratorias cronicas originadas en el periodo perinatal
+P279,Enfermedad respiratoria cronica no especificada originada en el periodo perinatal
+P28,Otros problemas respiratorios del recien nacido originados en el periodo perinatal
+P280,Atelectasia primaria del recien nacido
+P281,Otras atelectasias del recien nacido y las no especificadas
+P282,Ataque cianotico del recien nacido
+P283,Apnea primaria del sueño del recien nacido

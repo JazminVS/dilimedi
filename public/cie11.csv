@@ -1,0 +1,1089 @@
+﻿codigo,descripcion,campo
+W695,Ahogamiento y sumersion mientras se esta en aguas naturales: comercio y areas de servicio
+W696,Ahogamiento y sumersion mientras se esta en aguas naturales: area industrial y de la construccion
+W697,Ahogamiento y sumersion mientras se esta en aguas naturales: granja
+W698,Ahogamiento y sumersion mientras se esta en aguas naturales: otro lugar especificado
+W699,Ahogamiento y sumersion mientras se esta en aguas naturales: lugar no especificado
+W70,Ahogamiento y sumersion posterior a caida en aguas naturales
+W700,Ahogamiento y sumersion posterior a caida en aguas naturales: vivienda
+W701,Ahogamiento y sumersion posterior a caida en aguas naturales: institucion residencial
+W702,Ahogamiento y sumersion posterior a caida en aguas naturales: escuelas, otras instituciones y areas administrativas publicas
+W703,Ahogamiento y sumersion posterior a caida en aguas naturales: areas de deporte y atletismo
+W704,Ahogamiento y sumersion posterior a caida en aguas naturales: calles y carreteras
+W705,Ahogamiento y sumersion posterior a caida en aguas naturales: comercio y areas de servicio
+W706,Ahogamiento y sumersion posterior a caida en aguas naturales: area industrial y de la construccion
+W707,Ahogamiento y sumersion posterior a caida en aguas naturales: granja
+W708,Ahogamiento y sumersion posterior a caida en aguas naturales: otro lugar especificado
+W709,Ahogamiento y sumersion posterior a caida en aguas naturales: lugar no especificado
+W73,Otros ahogamientos y sumersiones especificados
+W730,Otros ahogamientos y sumersiones especificados: vivienda
+W731,Otros ahogamientos y sumersiones especificados: institucion residencial
+W732,Otros ahogamientos y sumersiones especificados: escuelas, otras instituciones y areas administrativas publicas
+W733,Otros ahogamientos y sumersiones especificados: areas de deporte y atletismo
+W734,Otros ahogamientos y sumersiones especificados: calles y carreteras
+W735,Otros ahogamientos y sumersiones especificados: comercio y areas de servicio
+W736,Otros ahogamientos y sumersiones especificados: area industrial y de la construccion
+W737,Otros ahogamientos y sumersiones especificados: granja
+W738,Otros ahogamientos y sumersiones especificados: otro lugar especificado
+W739,Otros ahogamientos y sumersiones especificados: lugar no especificado
+W74,Ahogamiento y sumersion no especificados
+W740,Ahogamiento y sumersion no especificados: vivienda
+W741,Ahogamiento y sumersion no especificados: institucion residencial
+W742,Ahogamiento y sumersion no especificados: escuelas, otras instituciones y areas administrativas publicas
+W743,Ahogamiento y sumersion no especificados: areas de deporte y atletismo
+W744,Ahogamiento y sumersion no especificados: calles y carreteras
+W745,Ahogamiento y sumersion no especificados: comercio y areas de servicio
+W746,Ahogamiento y sumersion no especificados: area industrial y de la construccion
+W747,Ahogamiento y sumersion no especificados: granja
+W748,Ahogamiento y sumersion no especificados: otro lugar especificado
+W749,Ahogamiento y sumersion no especificados: lugar no especificado
+W75,Sofocacion y estrangulamiento accidental en la cama
+W750,Sofocacion y estrangulamiento accidental en la cama: vivienda
+W751,Sofocacion y estrangulamiento accidental en la cama: institucion residencial
+W752,Sofocacion y estrangulamiento accidental en la cama: escuelas, otras instituciones y areas administrativas publicas
+W753,Sofocacion y estrangulamiento accidental en la cama: areas de deporte y atletismo
+W754,Sofocacion y estrangulamiento accidental en la cama: calles y carreteras
+W755,Sofocacion y estrangulamiento accidental en la cama: comercio y areas de servicio
+W756,Sofocacion y estrangulamiento accidental en la cama: area industrial y de la construccion
+W757,Sofocacion y estrangulamiento accidental en la cama: granja
+W758,Sofocacion y estrangulamiento accidental en la cama: otro lugar especificado
+W759,Sofocacion y estrangulamiento accidental en la cama: lugar no especificado
+W76,Otros estrangulamientos y ahorcamientos accidentales
+W760,Otros estrangulamientos y ahorcamientos accidentales: vivienda
+W761,Otros estrangulamientos y ahorcamientos accidentales: institucion residencial
+W762,Otros estrangulamientos y ahorcamientos accidentales: escuelas, otras instituciones y areas administrativas publicas
+W763,Otros estrangulamientos y ahorcamientos accidentales: areas de deporte y atletismo
+W764,Otros estrangulamientos y ahorcamientos accidentales: calles y carreteras
+W765,Otros estrangulamientos y ahorcamientos accidentales: comercio y areas de servicio
+W766,Otros estrangulamientos y ahorcamientos accidentales: area industrial y de la construccion
+W767,Otros estrangulamientos y ahorcamientos accidentales: granja
+W768,Otros estrangulamientos y ahorcamientos accidentales: otro lugar especificado
+W769,Otros estrangulamientos y ahorcamientos accidentales: lugar no especificado
+W77,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias
+W770,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: vivienda
+W771,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: institucion residencial
+W772,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: escuelas, otras instituciones y areas administrativas publicas
+W773,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: areas de deporte y atletismo
+W774,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: calles y carreteras
+W775,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: comercio y areas de servicio
+W776,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: area industrial y de la construccion
+W777,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: granja
+W778,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: otro lugar especificado
+W779,Obstruccion de la respiracion debida a hundimiento, caida de tierra u otras sustancias: lugar no especificado
+W78,Inhalacion de contenidos gastricos
+W780,Inhalacion de contenidos gastricos: vivienda
+W781,Inhalacion de contenidos gastricos: institucion residencial
+W782,Inhalacion de contenidos gastricos: escuelas, otras instituciones y areas administrativas publicas
+W783,Inhalacion de contenidos gastricos: areas de deporte y atletismo
+W784,Inhalacion de contenidos gastricos: calles y carreteras
+W785,Inhalacion de contenidos gastricos: comercio y areas de servicio
+W786,Inhalacion de contenidos gastricos: area industrial y de la construccion
+W787,Inhalacion de contenidos gastricos: granja
+W788,Inhalacion de contenidos gastricos: otro lugar especificado
+W789,Inhalacion de contenidos gastricos: lugar no especificado
+W79,Inhalacionl e ingestion de alimento que causa obstruccion de las vias respiratorias
+W790,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: vivienda
+W791,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: institucion residencial
+W792,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: escuelas, otras instituciones y areas administrativas publicas
+W793,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: areas de deporte y atletismo
+W794,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: calles y carreteras
+W795,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: comercio y areas de servicio
+W796,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: area industrial y de la construccion
+W797,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: granja
+W798,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: otro lugar especificado
+W799,Inhalacion e ingestion de alimento que causa obstruccion de las vias respiratorias: lugar no especificado
+W80,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias
+W800,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: vivienda
+W801,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: institucion residencial
+W802,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: escuelas, otras instituciones y areas administrativas publicas
+W803,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: areas de deporte y atletismo
+W804,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: calles y carreteras
+W805,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: comercio y areas de servicio
+W806,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: area industrial y de la construccion
+W807,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: granja
+W808,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: otro lugar especificado
+W809,Inhalacion e ingestion de otros objetos que causan obstruccion de las vias respiratorias: lugar no especificado
+W81,Confinado o atrapado en un ambiente con bajo contenido de oxigeno
+W810,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: vivienda
+W811,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: institucion residencial
+W812,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: escuelas, otras instituciones y areas administrativas publicas
+W813,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: areas de deporte y atletismo
+W814,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: calles y carreteras
+W815,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: comercio y areas de servicio
+W816,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: area industrial y de la construccion
+W817,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: granja
+W818,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: otro lugar especificado
+W819,Confinado o atrapado en un ambiente con bajo contenido de oxigeno: lugar no especificado
+W83,Otras obstrucciones especificadas de la respiracion
+W830,Otras obstrucciones especificadas de la respiracion: vivienda
+W831,Otras obstrucciones especificadas de la respiracion: institucion residencial
+W832,Otras obstrucciones especificadas de la respiracion: escuelas, otras instituciones y areas administrativas publicas
+W833,Otras obstrucciones especificadas de la respiracion: areas de deporte y atletismo
+W834,Otras obstrucciones especificadas de la respiracion: calles y carreteras
+W835,Otras obstrucciones especificadas de la respiracion: comercio y areas de servicio
+W836,Otras obstrucciones especificadas de la respiracion: area industrial y de la construccion
+W837,Otras obstrucciones especificadas de la respiracion: granja
+W838,Otras obstrucciones especificadas de la respiracion: otro lugar especificado
+W839,Otras obstrucciones especificadas de la respiracion: lugar no especificado
+W84,Obstruccion no especificada de la respiracion
+W840,Obstrucciones no especificada de la respiracion: vivienda
+W841,Obstrucciones no especificada de la respiracion: institucion residencial
+W842,Obstrucciones no especificada de la respiracion: escuelas, otras instituciones y areas administrativas publicas
+W843,Obstrucciones no especificada de la respiracion: areas de deporte y atletismo
+W844,Obstrucciones no especificada de la respiracion: calles y carreteras
+W845,Obstrucciones no especificada de la respiracion: comercio y areas de servicio
+W846,Obstrucciones no especificada de la respiracion: area industrial y de la construccion
+W847,Obstrucciones no especificada de la respiracion: granja
+W848,Obstrucciones no especificada de la respiracion: otro lugar especificado
+W849,Obstrucciones no especificada de la respiracion: lugar no especificado
+W85,Exposicion a lineas de transmision electrica
+W850,Exposicion a lineas de transmision electrica: vivienda
+W851,Exposicion a lineas de transmision electrica: institucion residencial
+W852,Exposicion a lineas de transmision electrica: escuelas, otras instituciones y areas administrativas publicas
+W853,Exposicion a lineas de transmision electrica: areas de deporte y atletismo
+W854,Exposicion a lineas de transmision electrica: calles y carreteras
+W855,Exposicion a lineas de transmision electrica: comercio y areas de servicio
+W856,Exposicion a lineas de transmision electrica: area industrial y de la construccion
+W857,Exposicion a lineas de transmision electrica: granja
+W858,Exposicion a lineas de transmision electrica: otro lugar especificado
+W859,Exposicion a lineas de transmision electrica: lugar no especificado
+W86,Exposicion a otras corrientes electricas especificadas
+W860,Exposicion a otras corrientes electricas especificadas: vivienda
+W861,Exposicion a otras corrientes electricas especificadas: institucion residencial
+W862,Exposicion a otras corrientes electricas especificadas: escuelas, otras instituciones y areas administrativas publicas
+W863,Exposicion a otras corrientes electricas especificadas: areas de deporte y atletismo
+W864,Exposicion a otras corrientes electricas especificadas: calles y carreteras
+W865,Exposicion a otras corrientes electricas especificadas: comercio y areas de servicio
+W866,Exposicion a otras corrientes electricas especificadas: area industrial y de la construccion
+W867,Exposicion a otras corrientes electricas especificadas: granja
+W868,Exposicion a otras corrientes electricas especificadas: otro lugar especificado
+W869,Exposicion a otras corrientes electricas especificadas: lugar no especificado
+W87,Exposicion a corriente electrica no especificada
+W870,Exposicion a corriente electrica no especificada: vivienda
+W871,Exposicion a corriente electrica no especificada: institucion residencial
+W872,Exposicion a corriente electrica no especificada: escuelas, otras instituciones y areas administrativas publicas
+W873,Exposicion a corriente electrica no especificada: areas de deporte y atletismo
+W874,Exposicion a corriente electrica no especificada: calles y carreteras
+W875,Exposicion a corriente electrica no especificada: comercio y areas de servicio
+W876,Exposicion a corriente electrica no especificada: area industrial y de la construccion
+W877,Exposicion a corriente electrica no especificada: granja
+W878,Exposicion a corriente electrica no especificada: otro lugar especificado
+W879,Exposicion a corriente electrica no especificada: lugar no especificado
+W88,Exposicion a radiacion ionizante
+W880,Exposicion a radiacion ionizante: vivienda
+W881,Exposicion a radiacion ionizante: institucion residencial
+W882,Exposicion a radiacion ionizante: escuelas, otras instituciones y areas administrativas publicas
+W883,Exposicion a radiacion ionizante: areas de deporte y atletismo
+W884,Exposicion a radiacion ionizante: calles y carreteras
+W885,Exposicion a radiacion ionizante: comercio y areas de servicio
+W886,Exposicion a radiacion ionizante: area industrial y de la construccion
+W887,Exposicion a radiacion ionizante: granja
+W888,Exposicion a radiacion ionizante: otro lugar especificado
+W889,Exposicion a radiacion ionizante: lugar no especificado
+W89,Exposicion a fuente de luz visible y ultravioleta, de origen artificial
+W890,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: vivienda
+W891,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: institucion residencial
+W892,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: escuelas, otras instituciones y areas administrativas publicas
+W893,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: areas de deporte y atletismo
+W894,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: calles y carreteras
+W895,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: comercio y areas de servicio
+W896,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: area industrial y de la construccion
+W897,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: granja
+W898,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: otro lugar especificado
+W899,Exposicion a fuente de luz visible y ultravioleta, de origen artificial: lugar no especificado
+W90,Exposicion a otros tipos de radiacion no ionizante
+W900,Exposicion a otros tipos de radiacion no ionizante: vivienda
+W901,Exposicion a otros tipos de radiacion no ionizante: institucion residencial
+W902,Exposicion a otros tipos de radiacion no ionizante: escuelas, otras instituciones y areas administrativas publicas
+W903,Exposicion a otros tipos de radiacion no ionizante: areas de deporte y atletismo
+W904,Exposicion a otros tipos de radiacion no ionizante: calles y carreteras
+W905,Exposicion a otros tipos de radiacion no ionizante: comercio y areas de servicio
+W906,Exposicion a otros tipos de radiacion no ionizante: area industrial y de la construccion
+W907,Exposicion a otros tipos de radiacion no ionizante: granja
+W908,Exposicion a otros tipos de radiacion no ionizante: otro lugar especificado
+W909,Exposicion a otros tipos de radiacion no ionizante: lugar no especificado
+W91,Exposicion a radiacion de tipo no especificado
+W910,Exposicion a radiacion de tipo no especificado: vivienda
+W911,Exposicion a radiacion de tipo no especificado: institucion residencial
+W912,Exposicion a radiacion de tipo no especificado: escuelas, otras instituciones y areas administrativas publicas
+W913,Exposicion a radiacion de tipo no especificado: areas de deporte y atletismo
+W914,Exposicion a radiacion de tipo no especificado: calles y carreteras
+W915,Exposicion a radiacion de tipo no especificado: comercio y areas de servicio
+W916,Exposicion a radiacion de tipo no especificado: area industrial y de la construccion
+W917,Exposicion a radiacion de tipo no especificado: granja
+W918,Exposicion a radiacion de tipo no especificado: otro lugar especificado
+W919,Exposicion a radiacion de tipo no especificado: lugar no especificado
+W92,Exposicion a calor excesivo de origen artificial
+W920,Exposicion a calor excesivo de origen artificial: vivienda
+W921,Exposicion a calor excesivo de origen artificial: institucion residencial
+W922,Exposicion a calor excesivo de origen artificial: escuelas, otras instituciones y areas administrativas publicas
+W923,Exposicion a calor excesivo de origen artificial: areas de deporte y atletismo
+W924,Exposicion a calor excesivo de origen artificial: calles y carreteras
+W925,Exposicion a calor excesivo de origen artificial: comercio y areas de servicio
+W926,Exposicion a calor excesivo de origen artificial: area industrial y de la construccion
+W927,Exposicion a calor excesivo de origen artificial: granja
+W928,Exposicion a calor excesivo de origen artificial: otro lugar especificado
+W929,Exposicion a calor excesivo de origen artificial: lugar no especificado
+W93,Exposicion a frio excesivo de origen artificial
+W930,Exposicion a frio excesivo de origen artificial: vivienda
+W931,Exposicion a frio excesivo de origen artificial: institucion residencial
+W932,Exposicion a frio excesivo de origen artificial: escuelas, otras instituciones y areas administrativas publicas
+W933,Exposicion a frio excesivo de origen artificial: areas de deporte y atletismo
+W934,Exposicion a frio excesivo de origen artificial: calles y carreteras
+W935,Exposicion a frio excesivo de origen artificial: comercio y areas de servicio
+W936,Exposicion a frio excesivo de origen artificial: area industrial y de la construccion
+W937,Exposicion a frio excesivo de origen artificial: granja
+W938,Exposicion a frio excesivo de origen artificial: otro lugar especificado
+W939,Exposicion a frio excesivo de origen artificial: lugar no especificado
+W94,Exposicion a presion de aire alta baja y a cambios en la presion de aire
+W940,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: vivienda
+W941,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: institucion residencial
+W942,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: escuelas, otras instituciones y areas administrativas publicas
+W943,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: areas de deporte y atletismo
+W944,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: calles y carreteras
+W945,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: comercio y areas de servicio
+W946,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: area industrial y de la construccion
+W947,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: granja
+W948,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: otro lugar especificado
+W949,Exposicion a presion de aire alta y baja y a cambios en la presion del aire: lugar no especificado
+W99,Exposicion a otros factores ambientales y a los no especificados de origen artificial
+W990,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: vivienda
+W991,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: institucion residencial
+W992,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: escuelas, otras instituciones y areas administrativas publicas
+W993,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: areas de deporte y atletismo
+W994,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: calles y carreteras
+W995,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: comercio y areas de servicio
+W996,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: area industrial y de la construccion
+W997,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: granja
+W998,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: otro lugar especificado
+W999,Exposicion a otros factores ambientales y a los no especificados, de origen artificial: lugar no especificado
+X,Enfermedades del sistema respiratorio
+X00,Exposicion a fuego no controlado en edificio u otra construccion
+X000,Exposicion a fuego no controlado en edificio u otra construccion: vivienda
+X001,Exposicion a fuego no controlado en edificio u otra construccion: institucion residencial
+X002,Exposicion a fuego no controlado en edificio u otra construccion: escuelas, otras instituciones y areas administrativas publicas
+X003,Exposicion a fuego no controlado en edificio u otra construccion: areas de deporte y atletismo
+X004,Exposicion a fuego no controlado en edificio u otra construccion: calles y carreteras
+X005,Exposicion a fuego no controlado en edificio u otra construccion: comercio y areas de servicio
+X006,Exposicion a fuego no controlado en edificio u otra construccion: area industrial y de la construccion
+X007,Exposicion a fuego no controlado en edificio u otra construccion: granja
+X008,Exposicion a fuego no controlado en edificio u otra construccion: otro lugar especificado
+X009,Exposicion a fuego no controlado en edificio u otra construccion: lugar no especificado
+X01,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion
+X010,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: vivienda
+X011,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: institucion residencial
+X012,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: escuelas, otras instituciones y areas administrativas publicas
+X013,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: areas de deporte y atletismo
+X014,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: calles y carreteras
+X015,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: comercio y areas de servicio
+X016,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: areas industrial y de la construccion
+X017,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: granja
+X018,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: otro lugar especificado
+X019,Exposicion a fuego no controlado en lugar que no es edificio u otra construccion: lugar no especificado
+X02,Exposicion a fuego controlado en edificio u otra construccion
+X020,Exposicion a fuego controlado en edificio u otra construccion: vivienda
+X021,Exposicion a fuego controlado en edificio u otra construccion: institucion residencial
+X022,Exposicion a fuego controlado en edificio u otra construccion: escuelas, otras instituciones y areas administrativas publicas
+X023,Exposicion a fuego controlado en edificio u otra construccion: areas de deporte y atletismo
+X024,Exposicion a fuego controlado en edificio u otra construccion: calles y carreteras
+X025,Exposicion a fuego controlado en edificio u otra construccion: comercio y area de servicio
+X026,Exposicion a fuego controlado en edificio u otra construccion: area industrial y de la construccion
+X027,Exposicion a fuego controlado en edificio u otra construccion: granja
+X028,Exposicion a fuego controlado en edificio u otra construccion: otro lugar especificado
+X029,Exposicion a fuego controlado en edificio u otra construccion: lugar no especificado
+X03,Exposicion a fuego controlado en lugar que no es edificio u otra construccion
+X030,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: vivienda
+X031,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: institucion residencial
+X032,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: escuelas, otras instituciones areas administrativas publicas
+X033,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: areas de deporte y atletismo
+X034,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: calles y carreteras
+X035,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: comercio y areas de servicio
+X036,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: area industrial y de la construccion
+X037,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: granja
+X038,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: otro lugar especificado
+X039,Exposicion a fuego controlado en lugar que no es edificio u otra construccion: lugar no especificado
+X04,Exposicion a ignicion de material altamente inflamable
+X040,Exposicion a ignicion de material altamente inflamable: vivienda
+X041,Exposicion a ignicion de material altamente inflamable: institucion residencial
+X042,Exposicion a ignicion de material altamente inflamable: escuelas, otras instituciones y areas administrativas publicas
+X043,Exposicion a ignicion de material altamente inflamable: areas de deporte y atletismo
+X044,Exposicion a ignicion de material altamente inflamable: calles y carreteras
+X045,Exposicion a ignicion de material altamente inflamable: comercio y areas de servicio
+X046,Exposicion a ignicion de material altamente inflamable: area industrial y de la construccion
+X047,Exposicion a ignicion de material altamente inflamable: granja
+X048,Exposicion a ignicion de material altamente inflamable: otro lugar especificado
+X049,Exposicion a ignicion de material altamente inflamable: lugar no especificado
+X05,Exposicion a ignicion o fusion de ropas de dormir
+X050,Exposicion a ignicion o fusion de ropas de dormir: vivienda
+X051,Exposicion a ignicion o fusion de ropas de dormir: institucion residencial
+X052,Exposicion a ignicion o fusion de ropas de dormir: escuelas, otras instituciones y areas administrativas publicas
+X053,Exposicion a ignicion o fusion de ropas de dormir: areas de deporte y atletismo
+X054,Exposicion a ignicion o fusion de ropas de dormir: calles y carreteras
+X055,Exposicion a ignicion o fusion de ropas de dormir: comercio y area de servicios
+X056,Exposicion a ignicion o fusion de ropas de dormir: area industrial y de la construccion
+X057,Exposicion a ignicion o fusion de ropas de dormir: granja
+X058,Exposicion a ignicion o fusion de ropas de dormir: otro lugar especificado
+X059,Exposicion a ignicion o fusion de ropas de dormir: lugar no especificado
+X06,Exposicion a ignicion o fusion de otras ropas y accesorios
+X060,Exposicion a ignicion o fusion de otras ropas y accesorios: vivienda
+X061,Exposicion a ignicion o fusion de otras ropas y accesorios: institucion residencial
+X062,Exposicion a ignicion o fusion de otras ropas y accesorios: escuelas, otras instituciones y areas administrativas publicas
+X063,Exposicion a ignicion o fusion de otras ropas y accesorios: areas de deporte y atletismo
+X064,Exposicion a ignicion o fusion de otras ropas y accesorios: calles y carreteras
+X065,Exposicion a ignicion o fusion de otras ropas y accesorios: comercio y areas de servicio
+X066,Exposicion a ignicion o fusion de otras ropas y accesorios: area industrial y de la construccion
+X067,Exposicion a ignicion o fusion de otras ropas y accesorios: granja
+X068,Exposicion a ignicion o fusion de otras ropas y accesorios: otro lugar especificado
+X069,Exposicion a ignicion o fusion de otras ropas y accesorios: lugar no especificado
+X08,Exposicion a otros humos, fuegos o llamas especificados
+X080,Exposicion a otros humos, fuegos o llamas especificados: vivienda
+X081,Exposicion a otros humos, fuegos o llamas especificados: institucion residencial
+X082,Exposicion a otros humos, fuegos o llamas especificados: escuelas, otras instituciones y areas administrativas publicas
+X083,Exposicion a otros humos, fuegos o llamas especificados: areas de deporte y atletismo
+X084,Exposicion a otros humos, fuegos o llamas especificados: calles y carreteras
+X085,Exposicion a otros humos, fuegos o llamas especificados: comercio y areas de servicio
+X086,Exposicion a otros humos, fuegos o llamas especificados: area industrial y de la construccion
+X087,Exposicion a otros humos, fuegos o llamas especificados: granja
+X088,Exposicion a otros humos, fuegos o llamas especificados: otro lugar especificado
+X089,Exposicion a otros humos, fuegos o llamas especificados: lugar no especificado
+X09,Exposicion a humos fuegos llamas no especificados
+X090,Exposicion a humos, fuegos o llamas no especificados: vivienda
+X091,Exposicion a humos, fuegos o llamas no especificados: institucion residencial
+X092,Exposicion a humos, fuegos o llamas no especificados: escuelas, otras instituciones y areas administrativas publicas
+X093,Exposicion a humos, fuegos o llamas no especificados: areas de deporte y atletismo
+X094,Exposicion a humos, fuegos o llamas no especificados: calles y carreteras
+X095,Exposicion a humos, fuegos o llamas no especificados: comercio y areas de servicio
+X096,Exposicion a humos, fuegos o llamas no especificados: area industrial y de la construccion
+X097,Exposicion a humos, fuegos o llamas no especificados: granja
+X098,Exposicion a humos, fuegos o llamas no especificados: otro lugar especificado
+X099,Exposicion a humos, fuegos o llamas no especificados: lugar no especificado
+X10,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes
+X100,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: vivienda
+X101,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: institucion residencial
+X102,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: escuelas, otras instituciones y areas administrativas publicas
+X103,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: areas de deporte y atletismo
+X104,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: calles y carreteras
+X105,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: comercio y areas de servicio
+X106,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: area industrial y de la construccion
+X107,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: granja
+X108,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: otro lugar especificado
+X109,Contacto con bebidas, alimentos, grasas y aceites para cocinar, calientes: lugar no especificado
+X11,Contacto con agua caliente corriente
+X110,Contacto con agua caliente corriente: vivienda
+X111,Contacto con agua caliente corriente: institucion residencial
+X112,Contacto con agua caliente corriente: escuelas, otras instituciones y areas administrativas publicas
+X113,Contacto con agua caliente corriente: areas de deporte y atletismo
+X114,Contacto con agua caliente corriente: calles y carreteras
+X115,Contacto con agua caliente corriente: comercio y areas de servicio
+X116,Contacto con agua caliente corriente: area industrial y de la construccion
+X117,Contacto con agua caliente corriente: granja
+X118,Contacto con agua caliente corriente: otro lugar especificado
+X119,Contacto con agua caliente corriente: lugar no especificado
+X12,Contacto con otros liquidos calientes
+X120,Contacto con otros liquidos calientes: vivienda
+X121,Contacto con otros liquidos calientes: institucion residencial
+X122,Contacto con otros liquidos calientes: escuelas, otras instituciones y areas administrativas publicas
+X123,Contacto con otros liquidos calientes: areas de deporte y atletismo
+X124,Contacto con otros liquidos calientes: calles y carreteras
+X125,Contacto con otros liquidos calientes: comercio y areas de servicio
+X126,Contacto con otros liquidos calientes: area industrial y de la construccion
+X127,Contacto con otros liquidos calientes: granja
+X128,Contacto con otros liquidos calientes: otro lugar especificado
+X129,Contacto con otros liquidos calientes: lugar no especificado
+X13,Contacto con vapor de agua y otros vapores calientes
+X130,Contacto con vapor de agua y otros vapores calientes: vivienda
+X131,Contacto con vapor de agua y otros vapores calientes: institucion residencial
+X132,Contacto con vapor de agua y otros vapores calientes: escuelas, otras instituciones y areas administrativas publicas
+X133,Contacto con vapor de agua y otros vapores calientes: areas de deporte y atletismo
+X134,Contacto con vapor de agua y otros vapores calientes: calles y carreteras
+X135,Contacto con vapor de agua y otros vapores calientes: comercio y areas de servicio
+X136,Contacto con vapor de agua y otros vapores calientes: area industrial y de la construccion
+X137,Contacto con vapor de agua y otros vapores calientes: granja
+X138,Contacto con vapor de agua y otros vapores calientes: otro lugar especificado
+X139,Contacto con vapor de agua y otros vapores calientes: lugar no especificado
+X14,Contacto con aire y gases calientes
+X140,Contacto con aire y gases calientes: vivienda
+X141,Contacto con aire y gases calientes: institucion residencial
+X142,Contacto con aire y gases calientes: escuelas, otras instituciones y areas administrativas publicas
+X143,Contacto con aire y gases calientes: areas de deporte y atletismo
+X144,Contacto con aire y gases calientes: calles y carreteras
+X145,Contacto con aire y gases calientes: comercio y areas de servicio
+X146,Contacto con aire y gases calientes: area industrial y de la construccion
+X147,Contacto con aire y gases calientes: granja
+X148,Contacto con aire y gases calientes: otro lugar especificado
+X149,Contacto con aire y gases calientes: lugar no especificado
+X15,Contacto con utensilios domesticos calientes
+X150,Contacto con utensilios domesticos calientes: vivienda
+X151,Contacto con utensilios domesticos calientes: institucion residencial
+X152,Contacto con utensilios domesticos calientes: escuelas, otras instituciones y areas administrativas publicas
+X153,Contacto con utensilios domesticos calientes: areas de deporte y atletismo
+X154,Contacto con utensilios domesticos calientes: calles y carreteras
+X155,Contacto con utensilios domesticos calientes: comercio y areas de servicio
+X156,Contacto con utensilios domesticos calientes: area industrial y de la construccion
+X157,Contacto con utensilios domesticos calientes: granja
+X158,Contacto con utensilios domesticos calientes otro lugar especificado:
+X159,Contacto con utensilios domesticos calientes: lugar no especificado
+X16,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes
+X160,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: vivienda
+X161,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: institucion residencial
+X162,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: escuelas, otras instituciones y areas administrativas publicas
+X163,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: areas de deporte y atletismo
+X164,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: calles y carreteras
+X165,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: comercio y areas de servicio
+X166,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: area industrial y de la construccion
+X167,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: granja
+X168,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: otro lugar especificado
+X169,Contacto con radiadores, cañerias y artefactos para calefaccion, calientes: lugar no especificado
+X17,Contacto con maquinas, motores y herramientas calientes
+X170,Contacto con maquinas, motores y herramientas calientes: vivienda
+X171,Contacto con maquinas, motores y herramientas calientes: institucion residencial
+X172,Contacto con maquinas, motores y herramientas calientes: escuelas, otras instituciones y areas administrativas publicas
+X173,Contacto con maquinas, motores y herramientas calientes: areas de deporte y atletismo
+X174,Contacto con maquinas, motores y herramientas calientes: calles y carreteras
+X175,Contacto con maquinas, motores y herramientas calientes: comercio y areas de servicio
+X176,Contacto con maquinas, motores y herramientas calientes: area industrial y de la construccion
+X177,Contacto con maquinas, motores y herramientas calientes: granja
+X178,Contacto con maquinas, motores y herramientas calientes: otro lugar especificado
+X179,Contacto con maquinas, motores y herramientas calientes: lugar no especificado
+X18,Contacto con otros metales calientes
+X180,Contacto con otros metales calientes: vivienda
+X181,Contacto con otros metales calientes: institucion residencial
+X182,Contacto con otros metales calientes: escuelas, otras instituciones y areas administrativas publicas
+X183,Contacto con otros metales calientes: areas de deporte y atletismo
+X184,Contacto con otros metales calientes: calles y carreteras
+X185,Contacto con otros metales calientes: comercio y areas de servicio
+X186,Contacto con otros metales calientes: area industrial y de la construccion
+X187,Contacto con otros metales calientes: granja
+X188,Contacto con otros metales calientes: otro lugar especificado
+X189,Contacto con otros metales calientes: lugar no especificado
+X19,Contacto con otras sustancias calientes y las no especificadas
+X190,Contacto con otras sustancias calientes, y las no especificadas: vivienda
+X191,Contacto con otras sustancias calientes, y las no especificadas: institucion residencial
+X192,Contacto con otras sustancias calientes, y las no especificadas: escuelas, otras instituciones y areas administrativas publicas
+X193,Contacto con otras sustancias calientes, y las no especificadas: areas de deporte y atletismo
+X194,Contacto con otras sustancias calientes, y las no especificadas: calles y carreteras
+X195,Contacto con otras sustancias calientes, y las no especificadas: comercio y areas de servicio
+X196,Contacto con otras sustancias calientes, y las no especificadas: area industrial y de la construccion
+X197,Contacto con otras sustancias calientes, y las no especificadas: granja
+X198,Contacto con otras sustancias calientes, y las no especificadas: otro lugar especificado
+X199,Contacto con otras sustancias calientes, y las no especificadas: lugar no especificado
+X20,Contacto traumatico con serpientes y lagartos venenosos
+X200,Contacto traumatico con serpientes y lagartos venenosos: vivienda
+X201,Contacto traumatico con serpientes y lagartos venenosos: institucion residencial
+X202,Contacto traumatico con serpientes y lagartos venenosos: escuelas, otras instituciones y areas administrativas publicas
+X203,Contacto traumatico con serpientes y lagartos venenosos: areas de deporte y atletismo
+X204,Contacto traumatico con serpientes y lagartos venenosos: calles y carreteras
+X205,Contacto traumatico con serpientes y lagartos venenosos: comercio y areas de servicio
+X206,Contacto traumatico con serpientes y lagartos venenosos: area industrial y de la construccion
+X207,Contacto traumatico con serpientes y lagartos venenosos: granja
+X208,Contacto traumatico con serpientes y lagartos venenosos: otro lugar especificado
+X209,Contacto traumatico con serpientes y lagartos venenosos: lugar no especificado
+X21,Contacto traumatico con arañas venenosas
+X210,Contacto traumatico con arañas venenosas: vivienda
+X211,Contacto traumatico con arañas venenosas: institucion residencial
+X212,Contacto traumatico con arañas venenosas: escuelas, otras instituciones y areas administrativas publicas
+X213,Contacto traumatico con arañas venenosas: areas de deporte y atletismo
+X214,Contacto traumatico con arañas venenosas: calles y carreteras
+X215,Contacto traumatico con arañas venenosas: comercio y areas de servicio
+X216,Contacto traumatico con arañas venenosas: area industrial y de la construccion
+X217,Contacto traumatico con arañas venenosas: granja
+X218,Contacto traumatico con arañas venenosas: otro lugar especificado
+X219,Contacto traumatico con arañas venenosas: lugar no especificado
+X22,Contacto traumatico con escorpion
+X220,Contacto traumatico con escorpion: vivienda
+X221,Contacto traumatico con escorpion: institucion residencial
+X222,Contacto traumatico con escorpion: escuelas, otras instituciones y areas administrativas publicas
+X223,Contacto traumatico con escorpion: areas de deporte y atletismo
+X224,Contacto traumatico con escorpion: calles y carreteras
+X225,Contacto traumatico con escorpion: comercio y areas de servicio
+X226,Contacto traumatico con escorpion: area industrial y de la construccion
+X227,Contacto traumatico con escorpion: granja
+X228,Contacto traumatico con escorpion: otro lugar especificado
+X229,Contacto traumatico con escorpion: lugar no especificado
+X23,Contacto traumatico con avispas, avispones y abejas
+X230,Contacto traumatico con avispones, avispas y abejas: vivienda
+X231,Contacto traumatico con avispones, avispas y abejas: institucion residencial
+X232,Contacto traumatico con avispones, avispas y abejas: escuelas, otras instituciones y areas administrativas publicas
+X233,Contacto traumatico con avispones, avispas y abejas: areas de deporte y atletismo
+X234,Contacto traumatico con avispones, avispas y abejas: calles y carreteras
+X235,Contacto traumatico con avispones, avispas y abejas: comercio y areas de servicio
+X236,Contacto traumatico con avispones, avispas y abejas: area industrial y de la construccion
+X237,Contacto traumatico con avispones, avispas y abejas: granja
+X238,Contacto traumatico con avispones, avispas y abejas: otro lugar especificado
+X239,Contacto traumatico con avispones, avispas y abejas: lugar no especificado
+X24,Contacto traumatico con centipodos y miriapodos venenosos
+X240,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): vivienda
+X241,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): institucion residencial
+X242,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): escuelas, otras instituciones y areas administrativas publicas
+X243,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): areas de deporte y atletismo
+X244,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): calles y carreteras
+X245,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): comercio y areas de servicio
+X246,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): area industrial y de la construccion
+X247,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): granja
+X248,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): otro lugar especificado
+X249,Contacto traumatico con centipodos y miriapodos venenosos (tropicales): lugar no especificado
+X25,Contacto traumatico con otros artropodos venenosos especificados
+X250,Contacto traumatico con otros artropodos venenosos especificados: vivienda
+X251,Contacto traumatico con otros artropodos venenosos especificados: institucion residencial
+X252,Contacto traumatico con otros artropodos venenosos especificados: escuelas, otras instituciones y areas administrativas publicas
+X253,Contacto traumatico con otros artropodos venenosos especificados: areas de deporte y atletismo
+X254,Contacto traumatico con otros artropodos venenosos especificados: calles y carreteras
+X255,Contacto traumatico con otros artropodos venenosos especificados: comercio y areas de servicio
+X256,Contacto traumatico con otros artropodos venenosos especificados: area industrial y de la construccion
+X257,Contacto traumatico con otros artropodos venenosos especificados: granja
+X258,Contacto traumatico con otros artropodos venenosos especificados: otro lugar especificado
+X259,Contacto traumatico con otros artropodos venenosos especificados: lugar no especificado
+X26,Contacto traumatico con animales y plantas marinas venenosos
+X260,Contacto traumatico con animales y plantas marinas venenosos: vivienda
+X261,Contacto traumatico con animales y plantas marinas venenosos: institucion residencial
+X262,Contacto traumatico con animales y plantas marinas venenosos: escuelas, otras instituciones y areas administrativas publicas
+X263,Contacto traumatico con animales y plantas marinas venenosos: areas de deporte y atletismo
+X264,Contacto traumatico con animales y plantas marinas venenosos: calles y carreteras
+X265,Contacto traumatico con animales y plantas marinas venenosos: comercio y areas de servicio
+X266,Contacto traumatico con animales y plantas marinas venenosos: area industrial y de la construccion
+X267,Contacto traumatico con animales y plantas marinas venenosos: granja
+X268,Contacto traumatico con animales y plantas marinas venenosos: otro lugar especificado
+X269,Contacto traumatico con animales y plantas marinas venenosos: lugar no especificado
+X27,Contacto traumatico con otros animales venenosos especificados
+X270,Contacto traumatico con otros animales venenosos especificados: vivienda
+X271,Contacto traumatico con otros animales venenosos especificados: institucion residencial
+X272,Contacto traumatico con otros animales venenosos especificados: escuelas, otras instituciones y areas administrativas publicas
+X273,Contacto traumatico con otros animales venenosos especificados: areas de deporte y atletismo
+X274,Contacto traumatico con otros animales venenosos especificados: calles y carreteras
+X275,Contacto traumatico con otros animales venenosos especificados: comercio y areas de servicio
+X276,Contacto traumatico con otros animales venenosos especificados: area industrial y de la construccion
+X277,Contacto traumatico con otros animales venenosos especificados: granja
+X278,Contacto traumatico con otros animales venenosos especificados: otro lugar especificado
+X279,Contacto traumatico con otros animales venenosos especificados: lugar no especificado
+X28,Contacto traumatico con otras plantas venenosos especificados
+X280,Contacto traumatico con otras plantas venenosas especificadas: vivienda
+X281,Contacto traumatico con otras plantas venenosas especificadas: institucion residencial
+X282,Contacto traumatico con otras plantas venenosas especificadas: escuelas, otras instituciones y areas administrativas publicas
+X283,Contacto traumatico con otras plantas venenosas especificadas: areas de deporte y atletismo
+X284,Contacto traumatico con otras plantas venenosas especificadas: calles y carreteras
+X285,Contacto traumatico con otras plantas venenosas especificadas: comercio y areas de servicio
+X286,Contacto traumatico con otras plantas venenosas especificadas: area industrial y de la construccion
+X287,Contacto traumatico con otras plantas venenosas especificadas: granja
+X288,Contacto traumatico con otras plantas venenosas especificadas: otro lugar especificado
+X289,Contacto traumatico con otras plantas venenosas especificadas: lugar no especificado
+X29,Contacto traumatico con animales y plantas venenosos no especificados
+X290,Contacto traumatico con animales y plantas venenosos no especificados: vivienda
+X291,Contacto traumatico con animales y plantas venenosos no especificados: institucion residencial
+X292,Contacto traumatico con animales y plantas venenosos no especificados: escuelas, otras instituciones y areas administrativas publicas
+X293,Contacto traumatico con animales y plantas venenosos no especificados: areas de deporte y atletismo
+X294,Contacto traumatico con animales y plantas venenosos no especificados: calles y carreteras
+X295,Contacto traumatico con animales y plantas venenosos no especificados: comercio y areas de servicio
+X296,Contacto traumatico con animales y plantas venenosos no especificados: area industrial y de la construccion
+X297,Contacto traumatico con animales y plantas venenosos no especificados: granja
+X298,Contacto traumatico con animales y plantas venenosos no especificados: otro lugar especificado
+X299,Contacto traumatico con animales y plantas venenosos no especificados: lugar no especificado
+X30,Exposicion al calor natural excesivo
+X300,Exposicion al calor natural excesivo: vivienda
+X301,Exposicion al calor natural excesivo: institucion residencial
+X302,Exposicion al calor natural excesivo: escuelas, otras instituciones y areas administrativas publicas
+X303,Exposicion al calor natural excesivo: areas de deporte y atletismo
+X304,Exposicion al calor natural excesivo: calles y carreteras
+X305,Exposicion al calor natural excesivo: comercio y areas de servicio
+X306,Exposicion al calor natural excesivo: area industrial y de la construccion
+X307,Exposicion al calor natural excesivo: granja
+X308,Exposicion al calor natural excesivo: otro lugar especificado
+X309,Exposicion al calor natural excesivo: lugar no especificado
+X31,Exposicion al frio natural excesivo
+X310,Exposicion al frio natural excesivo: vivienda
+X311,Exposicion al frio natural excesivo: institucion residencial
+X312,Exposicion al frio natural excesivo: escuelas, otras instituciones y areas administrativas publicas
+X313,Exposicion al frio natural excesivo: areas de deporte y atletismo
+X314,Exposicion al frio natural excesivo: calles y carreteras
+X315,Exposicion al frio natural excesivo: comercio y areas de servicio
+X316,Exposicion al frio natural excesivo: area industrial y de la construccion
+X317,Exposicion al frio natural excesivo: granja
+X318,Exposicion al frio natural excesivo: otro lugar especificado
+X319,Exposicion al frio natural excesivo: lugar no especificado
+X32,Exposicion a rayos solares
+X320,Exposicion a rayos solares: vivienda
+X321,Exposicion a rayos solares: institucion residencial
+X322,Exposicion a rayos solares: escuelas, otras instituciones y areas administrativas publicas
+X323,Exposicion a rayos solares: areas de deporte y atletismo
+X324,Exposicion a rayos solares: calles y carreteras
+X325,Exposicion a rayos solares: comercio y areas de servicio
+X326,Exposicion a rayos solares: area industrial y de la construccion
+X327,Exposicion a rayos solares: granja
+X328,Exposicion a rayos solares: otro lugar especificado
+X329,Exposicion a rayos solares: lugar no especificado
+X33,Victima de rayo
+X330,Victima de rayo: vivienda
+X331,Victima de rayo: institucion residencial
+X332,Victima de rayo: escuelas, otras instituciones y areas administrativas publicas
+X333,Victima de rayo: areas de deporte y atletismo
+X334,Victima de rayo: calles y carreteras
+X335,Victima de rayo: comercio y areas de servicio
+X336,Victima de rayo: area industrial y de la construccion
+X337,Victima de rayo: granja
+X338,Victima de rayo: otro lugar especificado
+X339,Victima de rayo: lugar no especificado
+X34,Victima de terremoto
+X340,Victima de terremoto: vivienda
+X341,Victima de terremoto: institucion residencial
+X342,Victima de terremoto: escuelas, otras instituciones y areas administrativas publicas
+X343,Victima de terremoto: areas de deporte y atletismo
+X344,Victima de terremoto: calles y carreteras
+X345,Victima de terremoto: comercio y areas de servicio
+X346,Victima de terremoto: area industrial y de la construccion
+X347,Victima de terremoto: granja
+X348,Victima de terremoto: otro lugar especificado
+X349,Victima de terremoto: lugar no especificado
+X35,Victima de erupcion volcanica
+X350,Victima de erupcion volcanica: vivienda
+X351,Victima de erupcion volcanica: institucion residencial
+X352,Victima de erupcion volcanica: escuelas, otras instituciones y areas administrativas publicas
+X353,Victima de erupcion volcanica: areas de deporte y atletismo
+X354,Victima de erupcion volcanica: calles y carreteras
+X355,Victima de erupcion volcanica: comercio y areas de servicio
+X356,Victima de erupcion volcanica: area industrial y de la construccion
+X357,Victima de erupcion volcanica: granja
+X358,Victima de erupcion volcanica: otro lugar especificado
+X359,Victima de erupcion volcanica: lugar no especificado
+X36,Victima de avalancha, derrumbe y otros movimientos de tierra
+X360,Victima de avalancha, derrumbe y otros movimientos de tierra: vivienda
+X361,Victima de avalancha, derrumbe y otros movimientos de tierra: institucion residencial
+X362,Victima de avalancha, derrumbe y otros movimientos de tierra: escuelas, otras instituciones y areas administrativas publicas
+X363,Victima de avalancha, derrumbe y otros movimientos de tierra: areas de deporte y atletismo
+X364,Victima de avalancha, derrumbe y otros movimientos de tierra: calles y carreteras
+X365,Victima de avalancha, derrumbe y otros movimientos de tierra: comercio y areas de servicio
+X366,Victima de avalancha, derrumbe y otros movimientos de tierra: area industrial y de la construccion
+X367,Victima de avalancha, derrumbe y otros movimientos de tierra: granja
+X368,Victima de avalancha, derrumbe y otros movimientos de tierra: otro lugar especificado
+X369,Victima de avalancha, derrumbe y otros movimientos de tierra: lugar no especificado
+X37,Victima de tormenta cataclismica
+X370,Victima de tormenta cataclismica: vivienda
+X371,Victima de tormenta cataclismica: institucion residencial
+X372,Victima de tormenta cataclismica: escuelas, otras instituciones y areas administrativas publicas
+X373,Victima de tormenta cataclismica: areas de deporte y atletismo
+X374,Victima de tormenta cataclismica: calles y carreteras
+X375,Victima de tormenta cataclismica: comercio y areas de servicio
+X376,Victima de tormenta cataclismica: area industrial y de la construccion
+X377,Victima de tormenta cataclismica: granja
+X378,Victima de tormenta cataclismica: otro lugar especificado
+X379,Victima de tormenta cataclismica: lugar no especificado
+X38,Victima de inundacion
+X380,Victima de inundacion: vivienda
+X381,Victima de inundacion: institucion residencial
+X382,Victima de inundacion: escuelas, otras instituciones y areas administrativas publicas
+X383,Victima de inundacion: areas de deporte y atletismo
+X384,Victima de inundacion: calles y carreteras
+X385,Victima de inundacion: comercio y areas de servicio
+X386,Victima de inundacion: area industrial y de la construccion
+X387,Victima de inundacion: granja
+X388,Victima de inundacion: otro lugar especificado
+X389,Victima de inundacion: lugar no especificado
+X39,Exposicion a otras fuerzas naturales y las no especificadas
+X390,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: vivienda
+X391,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: institucion residencial
+X392,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: escuelas, otras instituciones y areas administrativas publicas
+X393,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: areas de deporte y atletismo
+X394,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: calles y carreteras
+X395,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: comercio y areas de servicio
+X396,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: area industrial y de la construccion
+X397,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: granja
+X398,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: otro lugar especificado
+X399,Exposicion a otras fuerzas de la naturaleza, y las no especificadas: lugar no especificado
+X40,Envenenamiento accidental por, y exposicion a analgesicos, antipireticos y antirreumaticos
+X400,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: vivienda
+X401,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: institucion residencial
+X402,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: escuelas, otras instituciones y areas administrativas publicas
+X403,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: areas de deporte y atletismo
+X404,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: calles y carreteras
+X405,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: comercio y areas de servicio
+X406,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: area industrial y de la construccion
+X407,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: granja
+X408,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: otro lugar especificado
+X409,Envenenamiento accidental por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: lugar no especificado
+X41,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparinsonianas y psicotropicas, no clasificadas en otra parte
+X410,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: vivienda
+X411,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: institucion residencial
+X412,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: escuelas, otras instituciones y areas administrativas publicas
+X413,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: areas de deporte y atletismo
+X414,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: calles y carreteras
+X415,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: comercio y area de servicio
+X416,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: area industrial y de la construccion
+X417,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: granja
+X418,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: otro lugar especificado
+X419,Envenenamiento accidental por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: lugar no especificado
+X42,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos] no clasificados en otra parte
+X420,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: vivienda
+X421,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: institucion residencial
+X422,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: escuelas, otras instituciones y areas administrativas publicas
+X423,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: areas de deporte y atletismo
+X424,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: calles y carreteras
+X425,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: comercio y area de servicios
+X426,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: area industrial y de la construccion
+X427,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: granja
+X428,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: otro lugar especificado
+X429,Envenenamiento accidental por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: lugar no especificado
+X43,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo
+X430,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: vivienda
+X431,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: institucion residencial
+X432,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: escuelas, otras instituciones y areas administrativas publicas
+X433,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: areas de deporte y atletismo
+X434,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: calles y carreteras
+X435,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: comercio y area de servicio
+X436,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: area industrial y de la construccion
+X437,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: granja
+X438,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: otro lugar especificado
+X439,Envenenamiento accidental por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: lugar no especificado
+X44,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas y los no especificados
+X440,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: vivienda
+X441,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: institucion residencial
+X442,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: escuelas, otras instituciones y areas administrativas publicas
+X443,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: areas de deporte y atletismo
+X444,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: calles y carreteras
+X445,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: comercio y area de servicios
+X446,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: area industrial y de la construccion
+X447,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: granja
+X448,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: otro lugar especificado
+X449,Envenenamiento accidental por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y los no especificados: lugar no especificado
+X45,Envenenamiento accidental por, y exposicion a alcohol
+X450,Envenenamiento accidental por, y exposicion al alcohol: vivienda
+X451,Envenenamiento accidental por, y exposicion al alcohol: institucion residencial
+X452,Envenenamiento accidental por, y exposicion al alcohol: escuelas, otras instituciones y areas administrativas publicas
+X453,Envenenamiento accidental por, y exposicion al alcohol: areas de deporte y atletismo
+X454,Envenenamiento accidental por, y exposicion al alcohol: calles y carreteras
+X455,Envenenamiento accidental por, y exposicion al alcohol: comercio y areas de servicio
+X456,Envenenamiento accidental por, y exposicion al alcohol: area industrial y de la construccion
+X457,Envenenamiento accidental por, y exposicion al alcohol: granja
+X458,Envenenamiento accidental por, y exposicion al alcohol: otro lugar especificado
+X459,Envenenamiento accidental por, y exposicion al alcohol: lugar no especificado
+X46,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores
+X460,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: vivienda
+X461,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: institucion residencial
+X462,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: escuelas otras instituciones y areas administrativas publicas
+X463,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: areas de deporte y atletismo
+X464,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: calles y carreteras
+X465,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: comercio y area de servicios
+X466,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: area industrial y de la construccion
+X467,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: granja
+X468,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: otro lugar especificado
+X469,Envenenamiento accidental por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: lugar no especificado
+X47,Envenenamiento accidental por, y exposicion a otros gases y vapores
+X470,Envenenamiento accidental por, y exposicion a otros gases y vapores: vivienda
+X471,Envenenamiento accidental por, y exposicion a otros gases y vapores: institucion residencial
+X472,Envenenamiento accidental por, y exposicion a otros gases y vapores: escuelas, otras instituciones y areas administrativas publicas
+X473,Envenenamiento accidental por, y exposicion a otros gases y vapores: areas de deporte y atletismo
+X474,Envenenamiento accidental por, y exposicion a otros gases y vapores: calles y carreteras
+X475,Envenenamiento accidental por, y exposicion a otros gases y vapores: comercio y area de servicios
+X476,Envenenamiento accidental por, y exposicion a otros gases y vapores: area industrial y de la construccion
+X477,Envenenamiento accidental por, y exposicion a otros gases y vapores: granja
+X478,Envenenamiento accidental por, y exposicion a otros gases y vapores: otro lugar especificado
+X479,Envenenamiento accidental por, y exposicion a otros gases y vapores: lugar no especificado
+X48,Envenenamiento accidental por, y exposicion a plaguicidas
+X480,Envenenamiento accidental por, y exposicion a plaguicidas: vivienda
+X481,Envenenamiento accidental por, y exposicion a plaguicidas: institucion residencial
+X482,Envenenamiento accidental por, y exposicion a plaguicidas: escuelas, otras instituciones y areas administrativas publicas
+X483,Envenenamiento accidental por, y exposicion a plaguicidas: areas de deporte y atletismo
+X484,Envenenamiento accidental por, y exposicion a plaguicidas: calles y carretera
+X485,Envenenamiento accidental por, y exposicion a plaguicidas: comercio y area de servicios
+X486,Envenenamiento accidental por, y exposicion a plaguicidas: area industrial y de la construccion
+X487,Envenenamiento accidental por, y exposicion a plaguicidas: granja
+X488,Envenenamiento accidental por, y exposicion a plaguicidas: otro lugar especificado
+X489,Envenenamiento accidental por, y exposicion a plaguicidas: lugar no especificado
+X49,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas y los no especificados
+X490,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: vivienda
+X491,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: institucion residencial
+X492,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: escuelas, otras instituciones y areas administrativas publicas
+X493,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: areas de deporte y atletismo
+X494,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: calles y carreteras
+X495,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: comercio y area de servicios
+X496,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: area industrial y de la construccion
+X497,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: granja
+X498,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: otro lugar especificado
+X499,Envenenamiento accidental por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: lugar no especificado
+X50,Exceso de esfuerzo y movimientos extenuantes y repetitivos
+X500,Exceso de esfuerzo y movimientos extenuantes y repetitivos: vivienda
+X501,Exceso de esfuerzo y movimientos extenuantes y repetitivos: institucion residencial
+X502,Exceso de esfuerzo y movimientos extenuantes y repetitivos: escuelas, otras instituciones y areas administrativas publicas
+X503,Exceso de esfuerzo y movimientos extenuantes y repetitivos: areas de deporte y atletismo
+X504,Exceso de esfuerzo y movimientos extenuantes y repetitivos: calles y carreteras
+X505,Exceso de esfuerzo y movimientos extenuantes y repetitivos: comercio y areas de servicio
+X506,Exceso de esfuerzo y movimientos extenuantes y repetitivos: area industrial y de la construccion
+X507,Exceso de esfuerzo y movimientos extenuantes y repetitivos: granja
+X508,Exceso de esfuerzo y movimientos extenuantes y repetitivos: otro lugar especificado
+X509,Exceso de esfuerzo y movimientos extenuantes y repetitivos: lugar no especificado
+X51,Viajes y desplazamientos
+X510,Viajes y desplazamientos: vivienda
+X511,Viajes y desplazamientos: institucion residencial
+X512,Viajes y desplazamientos: escuelas, otras instituciones y areas administrativas publicas
+X513,Viajes y desplazamientos: areas de deporte y atletismo
+X514,Viajes y desplazamientos: calles y carreteras
+X515,Viajes y desplazamientos: comercio y areas de servicio
+X516,Viajes y desplazamientos: area industrial y de la construccion
+X517,Viajes y desplazamientos: granja
+X518,Viajes y desplazamientos: otro lugar especificado
+X519,Viajes y desplazamientos: lugar no especificado
+X52,Permanencia prolongada en ambiente sin gravedad
+X520,Permanencia prolongada en ambiente sin gravedad: vivienda
+X521,Permanencia prolongada en ambiente sin gravedad: institucion residencial
+X522,Permanencia prolongada en ambiente sin gravedad: escuelas, otras instituciones y areas administrativas publicas
+X523,Permanencia prolongada en ambiente sin gravedad: areas de deporte y atletismo
+X524,Permanencia prolongada en ambiente sin gravedad: calles y carreteras
+X525,Permanencia prolongada en ambiente sin gravedad: comercio y areas de servicio
+X526,Permanencia prolongada en ambiente sin gravedad: area industrial y de la construccion
+X527,Permanencia prolongada en ambiente sin gravedad: granja
+X528,Permanencia prolongada en ambiente sin gravedad: otro lugar especificado
+X529,Permanencia prolongada en ambiente sin gravedad: lugar no especificado
+X53,Privacion de alimentos
+X530,Privacion de alimentos: vivienda
+X531,Privacion de alimentos: institucion residencial
+X532,Privacion de alimentos: escuelas, otras instituciones y areas administrativas publicas
+X533,Privacion de alimentos: areas de deporte y atletismo
+X534,Privacion de alimentos: calles y carreteras
+X535,Privacion de alimentos: comercio y areas de servicio
+X536,Privacion de alimentos: area industrial y de la construccion
+X537,Privacion de alimentos: granja
+X538,Privacion de alimentos: otro lugar especificado
+X539,Privacion de alimentos: lugar no especificado
+X54,Privacion de agua
+X540,Privacion de agua: vivienda
+X541,Privacion de agua: institucion residencial
+X542,Privacion de agua: escuelas, otras instituciones y areas administrativas publicas
+X543,Privacion de agua: areas de deporte y atletismo
+X544,Privacion de agua: calles y carreteras
+X545,Privacion de agua: comercio y areas de servicio
+X546,Privacion de agua: area industrial y de la construccion
+X547,Privacion de agua: granja
+X548,Privacion de agua: otro lugar especificado
+X549,Privacion de agua: lugar no especificado
+X57,Privacion no especificada
+X570,Privacion no especificada: vivienda
+X571,Privacion no especificada: institucion residencial
+X572,Privacion no especificada: escuelas, otras instituciones y areas administrativas publicas
+X573,Privacion no especificada: areas de deporte y atletismo
+X574,Privacion no especificada: calles y carreteras
+X575,Privacion no especificada: comercio y areas de servicio
+X576,Privacion no especificada: area industrial y de la construccion
+X577,Privacion no especificada: granja
+X578,Privacion no especificada: otro lugar especificado
+X579,Privacion no especificada: lugar no especificado
+X58,Exposicion a otros factores especificados
+X580,Exposicion a factores especificados: vivienda
+X581,Exposicion a factores especificados: institucion residencial
+X582,Exposicion a factores especificados: escuelas, otras instituciones y areas administrativas publicas
+X583,Exposicion a factores especificados: areas de deporte y atletismo
+X584,Exposicion a factores especificados: calles y carreteras
+X585,Exposicion a factores especificados: comercio y areas de servicio
+X586,Exposicion a factores especificados: area industrial y de la construccion
+X587,Exposicion a factores especificados: granja
+X588,Exposicion a factores especificados: otro lugar especificado
+X589,Exposicion a factores especificados: lugar no especificado
+X59,Exposicion a factores no especificados
+X590,Exposicion a factores no especificados: vivienda
+X591,Exposicion a factores no especificados: institucion residencial
+X592,Exposicion a factores no especificados: escuelas, otras instituciones y areas administrativas publicas
+X593,Exposicion a factores no especificados: areas de deporte y atletismo
+X594,Exposicion a factores no especificados: calles y carreteras
+X595,Exposicion a factores no especificados: comercio y areas de servicio
+X596,Exposicion a factores no especificados: area industrial y de la construccion
+X597,Exposicion a factores no especificados: granja
+X598,Exposicion a factores no especificados: otro lugar especificado
+X599,Exposicion a factores no especificados: lugar no especificado
+X60,Envenenamiento autoinflingido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos
+X600,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: vivienda
+X601,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: institucion residencial
+X602,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: escuelas, otras instituciones y areas administrativas publicas
+X603,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: areas de deporte y atletismo
+X604,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: calles y carreteras
+X605,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: comercio y areas de servicio
+X606,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: area industrial y de la construccion
+X607,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: granja
+X608,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: otro lugar especificado
+X609,Envenenamiento autoinfligido intencionalmente por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos: lugar no especificado
+X61,Envenenamiento autoinflingido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparinsonianas y psicotropicas, no clasificadas en otra parte
+X610,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: vivienda
+X611,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: institucion residencial
+X612,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: escuelas, otras instituciones y areas administrativas publicas
+X613,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: areas de deporte y atletismo
+X614,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: calles y carreteras
+X615,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: comercio y areas de servicio
+X616,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: area industrial y de la construccion
+X617,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: granja
+X618,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: otro lugar especificado
+X619,Envenenamiento autoinfligido intencionalmente por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte: lugar no especificado
+X62,Envenenamiento autoinflingido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos] no clasificados en otra parte
+X620,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: vivienda
+X621,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: institucion residencial
+X622,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: escuelas, otras instituciones y areas administrativas publicas
+X623,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: areas de deporte y atletismo
+X624,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: calles y carreteras
+X625,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: comercio y areas de servicio
+X626,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: area industrial y de la construccion
+X627,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: granja
+X628,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: otro lugar especificado
+X629,Envenenamiento autoinfligido intencionalmente por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificados en otra parte: lugar no especificado
+X63,Envenenamiento autoinflingido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo
+X630,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: vivienda
+X631,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: institucion residencial
+X632,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: escuelas, otras instituciones y areas administrativas publicas
+X633,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: areas de deporte y atletismo
+X634,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: calles y carreteras
+X635,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: comercio y areas de servicio
+X636,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: area industrial y de la construccion
+X637,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: granja
+X638,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: otro lugar especificado
+X639,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo: lugar no especificado
+X64,Envenenamiento autoinflingido intencionalmente por, y exposicion a otras drogas, medicamentos y sustancias biologicas y los no especificados
+X640,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: vivienda
+X641,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: institucion residencial
+X642,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: escuelas, otras instituciones y areas administrativas publicas
+X643,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: areas de deporte y atletismo
+X644,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: calles y carreteras
+X645,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: comercio y areas de servicio
+X646,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: area industrial y de la construccion
+X647,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: granja
+X648,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: otro lugar especificado
+X649,Envenenamiento autoinfligido intencionalmente por, y exposicion a otras drogas medicamentos y sustancias biologicas, y los no especificados: lugar no especificado
+X65,Envenenamiento autoinflingido intencionalm por, y exposicion a alcohol
+X650,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: vivienda
+X651,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: institucion residencial
+X652,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: escuelas, otras instituciones y areas administrativas publicas
+X653,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: areas de deporte y atletismo
+X654,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: calles y carreteras
+X655,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: comercio y areas de servicio
+X656,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: area industrial y de la construccion
+X657,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: granja
+X658,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: otro lugar especificado
+X659,Envenenamiento autoinfligido intencionalmente por, y exposicion al alcohol: lugar no especificado
+X66,Envenenamiento autoinflingido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores
+X660,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: vivienda
+X661,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: institucion residencial
+X662,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: escuelas, otras instituciones y areas administrativas publicas
+X663,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: areas de deporte y atletismo
+X664,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: calles y carreteras
+X665,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: comercio y areas de servicio
+X666,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: area industrial y de la construccion
+X667,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: granja
+X668,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: otro lugar especificado
+X669,Envenenamiento autoinfligido intencionalmente por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores: lugar no especificado
+X67,Envenenamiento autoinflingido intencionalmente por, y exposicion a otros gases y vapores
+X670,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: vivienda
+X671,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: institucion residencial
+X672,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: escuelas, otras instituciones y areas administrativas publicas
+X673,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: areas de deporte y atletismo
+X674,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: calles y carreteras
+X675,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: comercio y areas de servicio
+X676,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: area industrial y de la construccion
+X677,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: granja
+X678,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: otro lugar especificado
+X679,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros gases y vapores: lugar no especificado
+X68,Envenenamiento autoinflingido intencionalmente por, y exposicion a plaguicidas
+X680,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: vivienda
+X681,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: institucion residencial
+X682,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: escuelas, otras instituciones y areas administrativas publicas
+X683,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: areas de deporte y atletismo
+X684,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: calles y carreteras
+X685,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: comercio y areas de servicio
+X686,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: area industrial y de la construccion
+X687,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: granja
+X688,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: otro lugar especificado
+X689,Envenenamiento autoinfligido intencionalmente por, y exposicion a plaguicidas: lugar no especificado
+X69,Envenenamiento autoinflingido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas y los no especificados
+X690,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: vivienda
+X691,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: institucion residencial
+X692,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: escuelas, otras instituciones y areas administrativas publicas
+X693,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: areas de deporte y atletismo
+X694,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: calles y carreteras
+X695,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: comercio y areas de servicio
+X696,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: area industrial y de la construccion
+X697,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: granja
+X698,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: otro lugar especificado
+X699,Envenenamiento autoinfligido intencionalmente por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados: lugar no especificado
+X70,Lesion autoinflingida intencionalmente por ahorcamiento, estrangulamiento o sofocacion
+X700,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: vivienda
+X701,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: institucion residencial
+X702,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: escuelas, otras instituciones y areas administrativas publicas
+X703,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: areas de deporte y atletismo
+X704,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: calles y carreteras
+X705,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: comercio y areas de servicio
+X706,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: area industrial y de la construccion
+X707,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: granja
+X708,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: otro lugar especificado
+X709,Lesion autoinfligida intencionalmente por ahorcamiento, estrangulamiento o sofocacion: lugar no especificado
+X71,Lesion autoinflingida intencionalmente por ahogamiento y sumersion
+X710,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: vivienda
+X711,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: institucion residencial
+X712,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: escuelas, otras instituciones y areas administrativas publicas
+X713,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: areas de deporte y atletismo
+X714,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: calles y carreteras
+X715,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: comercio y areas de servicio
+X716,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: area industrial y de la construccion
+X717,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: granja
+X718,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: otro lugar especificado
+X719,Lesion autoinfligida intencionalmente por ahogamiento y sumersion: lugar no especificado
+X72,Lesionion autoinflingida intencionalmente por disparo de arma corta
+X720,Lesion autoinfligida intencionalmente por disparo de arma corta: vivienda
+X721,Lesion autoinfligida intencionalmente por disparo de arma corta: institucion residencial
+X722,Lesion autoinfligida intencionalmente por disparo de arma corta: escuelas, otras instituciones y areas administrativas publicas
+X723,Lesion autoinfligida intencionalmente por disparo de arma corta: areas de deporte y atletismo
+X724,Lesion autoinfligida intencionalmente por disparo de arma corta: calles y carreteras
+X725,Lesion autoinfligida intencionalmente por disparo de arma corta: comercio y areas de servicio
+X726,Lesion autoinfligida intencionalmente por disparo de arma corta: area industrial y de la construccion
+X727,Lesion autoinfligida intencionalmente por disparo de arma corta: granja
+X728,Lesion autoinfligida intencionalmente por disparo de arma corta: otro lugar especificado
+X729,Lesion autoinfligida intencionalmente por disparo de arma corta: lugar no especificado
+X73,Lesion autoinflingida intencionalmente por disparo de rifle, escopeta y arma larga
+X730,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: vivienda
+X731,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: institucion residencial
+X732,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: escuelas, otras instituciones y areas administrativas publicas
+X733,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: areas de deporte y atletismo
+X734,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: calles y carreteras
+X735,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: comercio y areas de servicio
+X736,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: area industrial y de la construccion
+X737,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: granja
+X738,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: otro lugar especificado
+X739,Lesion autoinfligida intencionalmente por disparo de rifle, escopeta y arma larga: lugar no especificado
+X74,Lesion autoinflingida intencionalmente por disparo de otras armas de fuego, y las no especificadas
+X740,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: vivienda
+X741,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: institucion residencial
+X742,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: escuelas, otras instituciones y areas administrativas publicas
+X743,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: areas de deporte y atletismo
+X744,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: calles y carreteras
+X745,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: comercio y areas de servicio
+X746,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: area industrial y de la construccion
+X747,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: granja
+X748,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: otro lugar especificado
+X749,Lesion autoinfligida intencionalmente por disparo de otras armas de fuego, y las no especificadas: lugar no especificado
+X75,Lesion autoinflingida intencionalmente por material explosivo
+X750,Lesion autoinfligida intencionalmente por material explosivo: vivienda
+X751,Lesion autoinfligida intencionalmente por material explosivo: institucion residencial
+X752,Lesion autoinfligida intencionalmente por material explosivo: escuelas, otras instituciones y areas administrativas publicas
+X753,Lesion autoinfligida intencionalmente por material explosivo: areas de deporte y atletismo
+X754,Lesion autoinfligida intencionalmente por material explosivo: calles y carreteras
+X755,Lesion autoinfligida intencionalmente por material explosivo: comercio y areas de servicio
+X756,Lesion autoinfligida intencionalmente por material explosivo: area industrial y de la construccion
+X757,Lesion autoinfligida intencionalmente por material explosivo: granja
+X758,Lesion autoinfligida intencionalmente por material explosivo: otro lugar especificado
+X759,Lesion autoinfligida intencionalmente por material explosivo: lugar no especificado
+X76,Lesion autoinflingida intencionalmente por humo, fuego y llamas
+X760,Lesion autoinfligida intencionalmente por humo, fuego y llamas: vivienda
+X761,Lesion autoinfligida intencionalmente por humo, fuego y llamas: institucion residencial
+X762,Lesion autoinfligida intencionalmente por humo, fuego y llamas: escuelas, otras instituciones y areas administrativas publicas
+X763,Lesion autoinfligida intencionalmente por humo, fuego y llamas: areas de deporte y atletismo
+X764,Lesion autoinfligida intencionalmente por humo, fuego y llamas: calles y carreteras
+X765,Lesion autoinfligida intencionalmente por humo, fuego y llamas: comercio y areas de servicio
+X766,Lesion autoinfligida intencionalmente por humo, fuego y llamas: area industrial y de la construccion
+X767,Lesion autoinfligida intencionalmente por humo, fuego y llamas: granja
+X768,Lesion autoinfligida intencionalmente por humo, fuego y llamas: otro lugar especificado
+X769,Lesion autoinfligida intencionalmente por humo, fuego y llamas: lugar no especificado
+X77,Lesion autoinflingida intencionalmente por vapor de agua, vapores y objetos calientes
+X770,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: vivienda
+X771,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: institucion residencial
+X772,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: escuelas, otras instituciones y areas administrativas publicas
+X773,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: areas de deporte y atletismo
+X774,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: calles y carreteras
+X775,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: comercio y areas de servicio
+X776,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: area industrial y de la construccion
+X777,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: granja
+X778,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: otro lugar especificado
+X779,Lesion autoinfligida intencionalmente por vapor de agua, vapores y objetos calientes: lugar no especificado
+X78,Lesion autoinflingida intencionalmente por objeto cortante
+X780,Lesion autoinfligida intencionalmente por objeto cortante: vivienda
+X781,Lesion autoinfligida intencionalmente por objeto cortante: institucion residencial
+X782,Lesion autoinfligida intencionalmente por objeto cortante: escuelas, otras instituciones y areas administrativas publicas

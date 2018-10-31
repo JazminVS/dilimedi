@@ -1,0 +1,1089 @@
+﻿codigo,descripcion,campo
+R465,Suspicacia y evasividad marcadas
+R466,Preocupacion indebida por sucesos que causan tension
+R467,Verbosidad y detalles circunstanciales que oscurecen la razon de la consulta o el contacto
+R468,Otros sintomas y signos que involucran la apariencia y el comportamiento
+R47,Alteraciones del habla no clasificadas en otra parte
+R470,Disfasia y afasia
+R471,Disartria y anartria
+R478,Otras alteraciones del habla y las no especificadas
+R48,Dislexia y otras disfunciones simbolicas no clasificadas en otra parte
+R480,Dislexia y alexia
+R481,Agnosia
+R482,Apraxia
+R488,Otras disfunciones simbolicas y las no especificadas
+R49,Alteraciones de la voz
+R490,Disfonia
+R491,Afonia
+R492,Hipernasalidad e hiponasalidad
+R498,Otras alteraciones de la voz y las no especificadas
+R50,Fiebre de origen desconocido
+R500,Fiebre con escalofrio
+R501,Fiebre persistente
+R509,Fiebre, no especificada
+R51,Cefalea
+R52,Dolor no clasificadas en otra parte
+R520,Dolor agudo
+R521,Dolor cronico intratable
+R522,Otro dolor cronico
+R529,Dolor, no especificado
+R53,Malestar y fatiga
+R54,Senilidad
+R55,Sincope y colapso
+R56,Convulsiones no clasificadas en otra parte
+R560,Convulsiones febriles
+R568,Otras convulsiones y las no especificadas
+R57,Choque no clasificado en otra parte
+R570,Choque cardiogenico
+R571,Choque hipovolemico
+R578,Otras formas de choque
+R579,Choque , no especificado
+R58,Hemorragia no clasificadas en otra parte
+R59,Adenomegalia
+R590,Adenomegalia localizada
+R591,Adenomegalia generalizada
+R599,Adenomegalia, no especificada
+R60,Edema no clasificado en otra parte
+R600,Edema localizado
+R601,Edema generalizado
+R609,Edema, no especificado
+R61,Hiperhidrosis
+R610,Hiperhidrosis localizada
+R611,Hiperhidrosis generalizada
+R619,Hiperhidrosis, no especificada
+R62,Falta del desarrollo fisiologico normal esperado
+R620,Retardo en desarrollo
+R628,Otras faltas del desarrollo fisiologico normal esperado
+R629,Falta del desarrollo fisiologico normal esperado sin otra especificacion
+R63,Sintomas y signos que involucran concernientes a la alimentacion e ingestion de liquidos
+R630,Anorexia
+R631,Polidipsia
+R632,Polifagia
+R633,Dificultades y mala administracion de la alimentacion
+R634,Perdida anormal de peso
+R635,Aumento anormal de peso
+R638,Otros sintomas y signos concernientes a la alimentacion y a la ingestion de liquidos
+R64,Caquexia
+R68,Otros sintomas y signos generales
+R680,Hipotermia no asociada con baja temperatura del ambiente
+R681,Sintomas no especificos propios de la infancia
+R682,Boca seca, no especificada
+R683,Dedos de la mano deformes
+R688,Otros sintomas y signos generales especificados
+R69,Causas de morbilidad desconocidas y no especificadas
+R70,Velocidad de eritrosedimentacion elevada y otras anormalidades de la viscosidad del plasma
+R700,Velocidad de eritrosedimentacion elevada
+R701,Viscosidad plasmatica anormal
+R71,Anormalidad de los eritrocitos
+R72,Anormalidades de los leucocitos no clasificadas en otra parte
+R73,Nivel elevado de glucosa en sangre
+R730,Anormalidades en la prueba de tolerancia a la glucosa
+R739,Hiperglicemia, no especificada
+R74,Nivel anormal de enzimas en suero
+R740,Elevacion de los niveles de transaminasas o deshidrogenasa lactica [dhl]
+R748,Niveles anormales de otras enzimas en suero
+R749,Nivel anormal de enzimas en suero, no especificado
+R75,Evidencias de laboratorio del virus de la inmunodeficiencia humana [vih]
+R76,Otros hallazgos inmunologicos anormales en suero
+R760,Titulacion elevada de anticuerpos
+R761,Reaccion anormal a la prueba con tuberculina
+R762,Falso positivo en la prueba serologica para sifilis
+R768,Otros hallazgos inmunologicos anormales especificados en suero
+R769,Hallazgos inmunologicos anormales especificados en suero
+R77,Otras anormalidades de las proteinas plasmaticas
+R770,Anormalidad de la albumina
+R771,Anormalidad de la globulina
+R772,Anormalidad de la alfafetoproteina
+R778,Otras anormalidades especificadas de las proteinas plasmaticas
+R779,Anormalidades no especificadas de las proteinas plasmaticas
+R78,Hallazgos de drogas y otras sustancias que normalmente no se encuentran en la sangre
+R780,Hallazgo de alcohol en la sangre
+R781,Hallazgo de drogas opiaceas en la sangre
+R782,Hallazgo de cocaina en la sangre
+R783,Hallazgo de alucinogenos en la sangre
+R784,Hallazgo de otras drogas potencialmente adictivas en la sangre
+R785,Hallazgo de drogas psicotropicas en la sangre
+R786,Hallazgo de agentes esteroides en la sangre
+R787,Hallazgo de niveles anormales de metales pesados en la sangre
+R788,Hallazgo de otras sustancias especificas que normalmente no se encuentran en la sangre
+R789,Hallazgo de sustancia no especifica que normalmente no se encuentran en la sangre
+R79,Otros hallazgos anormales en la quimica sanguinea
+R790,Nivel anormal de mineral en la sangre
+R798,Otros hallazgos anormales especificados en la quimica sanguinea
+R799,Hallazgo anormal en la quimica sanguinea, sin otra especificacion
+R80,Proteinuria aislada
+R81,Glucosuria
+R82,Otros hallazgos anormales en la orina
+R820,Quiluria
+R821,Mioglobinuria
+R822,Biliuria
+R823,Hemoglobinuria
+R824,Acetonuria
+R825,Elevacion de los niveles de drogas, medicamentos y sustancias biologicas en la orina
+R826,Niveles anormales en la orina de sustancias de origen principalmente no medicinal
+R827,Hallazgos anormales en el examen microbiologico de la orina
+R828,Hallazgos anormales en el examen citologico e histologico de la orina
+R829,Otros hallazgos anormales en la orina y los no especificados
+R83,Hallazgos anormales en el liquido cefalorraquideo
+R830,Hallazgos anormales en el liquido cefalorraquideo: nivel anormal de enzimas
+R831,Hallazgos anormales en el liquido cefalorraquideo: nivel anormal de hormonas
+R832,Hallazgos anormales en el liquido cefalorraquideo: nivel anormal de otras drogas, medicamentos y sustancias biologicas
+R833,Hallazgos anormales en el liquido cefalorraquideo: nivel anormal de sustancias de origen fundamentalmente no medicinal
+R834,Hallazgos anormales en el liquido cefalorraquideo: hallazgos inmunologicos anormales
+R835,Hallazgos anormales en el liquido cefalorraquideo: hallazgos microbiologicos anormales hallazgos positivos en el cultivo
+R836,Hallazgos anormales en el liquido cefalorraquideo: hallazgos citologicos anormales, frotis anormal de papanicolaou
+R837,Hallazgos anormales en el liquido cefalorraquideo: hallazgos histologicos anormales
+R838,Hallazgos anormales en el liquido cefalorraquideo: otros hallazgos anormales, hallazgos cromosomicos anormales
+R839,Hallazgos anormales en el liquido cefalorraquideo: hallazgos anormales, no especificados
+R84,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicoss
+R840,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: nivel anormal de enzimas
+R841,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: nivel anormal de hormonas
+R842,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: nivel anormal de otras drogas, medicamentos y sustancias biologicas
+R843,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: nivel anormal de sustancias de origen fundamentalmente no medicinal
+R844,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: hallazgos inmunologicos anormales
+R845,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: hallazgos microbiologicos anormales, hallazgos positivos en el cultivo
+R846,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: hallazgos citologicos anormales, frotis anormal de papanicolaou
+R847,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: hallazgos histologicos anormales
+R848,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: otros hallazgos anormales, hallazgos cromosomicos anormales
+R849,Hallazgos anormales en muestras tomadas de organos respiratorios y toracicos: hallazgos anormales, no especificados
+R85,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal
+R850,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: nivel anormal de enzimas
+R851,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: nivel anormal de hormonas
+R852,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: nivel anormal de otras drogas, medicamentos y sustancias biologicas
+R853,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: nivel anormal de sustancias de origen fundamentalmente no medicinal
+R854,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: hallazgos inmunologicos anormales
+R855,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: hallazgos microbiologicos anormales, hallazgos positivos en el cultivo
+R856,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: hallazgos citologicos anormales, frotis anormal de papanicolaou
+R857,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: hallazgos histologicos anormales
+R858,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: otros hallazgos anormales, hallazgos cromosomicos anormales
+R859,Hallazgos anormales en muestras tomadas de organos digestivos y de la cavidad abdominal: hallazgos anormales, no especificados
+R86,Hallazgos anormales en muestras tomadas de organos genitales masculinos
+R860,Hallazgos anormales en muestras tomadas de organos genitales masculinos: nivel anormal de enzimas
+R861,Hallazgos anormales en muestras tomadas de organos genitales masculinos: nivel anormal de hormonas
+R862,Hallazgos anormales en muestras tomadas de organos genitales masculinos : nivel anormal de otras drogas, medicamentos y sustancias biologicas
+R863,Hallazgos anormales en muestras tomadas de organos genitales masculinos: nivel anormal de sustancias de origen fundamentalmente no medicinal
+R864,Hallazgos anormales en muestras tomadas de organos genitales masculinos: hallazgos inmunologicos anormales
+R865,Hallazgos anormales en muestras tomadas de organos genitales masculinos: hallazgos microbiologicos anormales, hallazgos positivos en el cultivo
+R866,Hallazgos anormales en muestras tomadas de organos genitales masculinos: hallazgos citologicos anormales, frotis anormal de papanicolaou
+R867,Hallazgos anormales en muestras tomadas de organos genitales masculinos: hallazgos histologicos anormales
+R868,Hallazgos anormales en muestras tomadas de organos genitales masculinos: otros hallazgos anormales, hallazgos cromosomicos anormales
+R869,Hallazgos anormales en muestras tomadas de organos genitales masculinos: hallazgos anormales, no especificados
+R87,Hallazgos anormales en muestras tomadas de organos genitales femeninos
+R870,Hallazgos anormales en muestras tomadas de organos genitales femeninos: nivel anormal de enzimas
+R871,Hallazgos anormales en muestras tomadas de organos genitales femeninos: nivel anormal de hormonas
+R872,Hallazgos anormales en muestras tomadas de organos genitales femeninos: nivel anormal de otras drogas, medicamentos y sustancias biologicas
+R873,Hallazgos anormales en muestras tomadas de organos genitales femeninos: nivel anormal de sustancias de origen fundamentalmente no medicinal
+R874,Hallazgos anormales en muestras tomadas de organos genitales femeninos: hallazgos inmunologicos anormales
+R875,Hallazgos anormales en muestras tomadas de organos genitales femeninos: hallazgos microbiologicos anormales, hallazgos positivos en el cultivo
+R876,Hallazgos anormales en muestras tomadas de organos genitales femeninos: hallazgos citologicos anormales
+R877,Hallazgos anormales en muestras tomadas de organos genitales femeninos: hallazgos histologicos anormales
+R878,Hallazgos anormales en muestras tomadas de organos genitales femeninos: otros hallazgos anormales, hallazgos cromosomicos anormales
+R879,Hallazgos anormales en muestras tomadas de organos genitales femeninos: hallazgos anormales, no especificados
+R89,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos
+R890,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: nivel anormal de enzimas
+R891,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: nivel anormal de hormonas
+R892,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: nivel anormal de otras drogas, medicamentos y sustancias biologicas
+R893,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: nivel anormal de sustancias de origen fundamentalmente no medicinal
+R894,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: hallazgos inmunologicos anormales
+R895,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: hallazgos microbiologicos anormales, hallazgos positivos en el cultivo
+R896,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: hallazgos citologicos anormales, frotis anormal de papanicolaou
+R897,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: hallazgos histologicos anormales
+R898,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: otros hallazgos anormales, hallazgos cromosomicos anormales
+R899,Hallazgos anormales en muestras tomadas de otros organos, sistemas y tejidos: hallazgos anormales, no especificados
+R90,Hallazgos anormales en diagnostico por imagen del sistema nervioso central
+R900,Lesion que ocupa el espacio intracraneal
+R908,Otros hallazgos anormales en diagnostico por imagen y del sistema nervioso central
+R91,Hallazgos anormales en diagnostico por imagen del pulmon
+R92,Hallazgos anormales en diagnostico por imagen de la mama
+R93,Hallazgos anormales en diagnostico por imagen de otras estructuras del cuerpo
+R930,Hallazgos anormales en diagnostico por imagen del craneo y de la cabeza, no clasificados en otra parte
+R931,Hallazgos anormales en diagnostico por imagen del corazon y de la circulacion coronaria
+R932,Hallazgos anormales en diagnostico por imagen del higado y de las vias biliares
+R933,Hallazgos anormales en diagnostico por imagen de otras partes de las vias digestivas
+R934,Hallazgos anormales en diagnostico por imagen de los organos urinarios
+R935,Hallazgos anormales en diagnostico por imagen de otras regiones abdominales, incluido el retroperitoneo
+R936,Hallazgos anormales en diagnostico por imagen de los miembros
+R937,Hallazgos anormales en diagnostico por imagen de otras partes del sistema osteomuscular
+R938,Hallazgos anormales en diagnostico por imagen de otras estructuras especificadas del cuerpo
+R94,Resultados anormales de estudios funcionales
+R940,Resultados anormales en estudios funcionales del sistema nervioso central
+R941,Resultados anormales en estudios funcionales del sistema nervioso periferico y sentidos especiales
+R942,Resultados anormales en estudios funcionales del pulmon
+R943,Resultados anormales en estudios funcionales cardiovasculares
+R944,Resultados anormales en estudios funcionales del riñon
+R945,Resultados anormales en estudios funcionales del higado
+R946,Resultados anormales en estudios funcionales de la tiroides
+R947,Resultados anormales en otros estudios funcionales endocrinos
+R948,Resultados anormales en los estudios funcionales de otros organos y sistemas
+R95,Sindrome de la muerte subita infantil
+R96,Otras muertes subitas de causa desconocida
+R960,Muerte instantanea
+R961,Muerte que ocurre en menos de 24 horas del inicio de los sintomas, no explicada de otra forma
+R98,Muerte sin asistencia
+R99,Otras causas mal definidas y las no especificadas de mortalidad
+S00,Traumatismo superficial de la cabeza
+S000,Traumatismo superficial del cuero cabelludo
+S001,Contusion de los parpados y de la region periocular
+S002,Otros traumatismos superficiales del parpado y de la region periocular
+S003,Traumatismo superficial de la nariz
+S004,Traumatismo superficial del oido
+S005,Traumatismo superficial del labio y de la cavidad bucal
+S007,Traumatismos superficiales multiples de la cabeza
+S008,Traumatismo superficial de otras partes de la cabeza
+S009,Traumatismo superficial de la cabeza, parte no especificada
+S01,Herida de la cabeza
+S010,Herida del cuero cabelludo
+S011,Herida del parpado y de la region periocular
+S012,Herida de la nariz
+S013,Herida del oido
+S014,Herida de la mejilla y de la region temporomandibular
+S015,Herida del labio y de la cavidad bucal
+S017,Heridas multiples de la cabeza
+S018,Herida de otras partes de la cabeza
+S019,Herida de la cabeza, parte no especificada
+S02,Fractura de huesos del craneo y de la cara
+S020,Fractura de la boveda del craneo
+S021,Fractura de la base del craneo
+S022,Fractura de los huesos de la nariz
+S023,Fractura del suelo de la orbita
+S024,Fractura del malar y del hueso maxilar superior
+S025,Fractura de los dientes
+S026,Fractura del maxilar inferior
+S027,Fracturas multiples que comprometen el craneo y los huesos de la cara
+S028,Fractura de otros huesos del craneo y de la cara
+S029,Fractura del craneo y de los huesos de la cara, parte no especificada
+S03,Luxacion, esguince y torcedura de articulaciones y de ligamentos de la cabeza
+S030,Luxacion del maxilar
+S031,Luxacion del cartilago septal de la nariz
+S032,Luxacion de diente
+S033,Luxacion de otras partes y de las no especificadas de la cabeza
+S034,Esguinces y torceduras del maxilar
+S035,Esguinces y torceduras de articulaciones y ligamentos de otras partes y las no especificadas de la cabeza
+S04,Traumatismo de nervios craneales
+S040,Traumatismo del nervio optico [ii par] y de las vias opticas
+S041,Traumatismo del nervio motor ocular comun [iii par]
+S042,Traumatismo del nervio patetico [iv par]
+S043,Traumatismo del nervio trigemino [v par]
+S044,Traumatismo del nervio motor ocular externo [vi par]
+S045,Traumatismo del nervio facial [vii par]
+S046,Traumatismo del nervio acustico [viii par]
+S047,Traumatismo del nervio espinal [xi par]
+S048,Traumatismo de otros nervios craneales
+S049,Traumatismo del nervios craneales, no especificado
+S05,Traumatismo del ojo y de la orbita
+S050,Traumatismo de la conjuntiva y abrasion corneal sin mencion de cuerpo extraño
+S051,Contusion del globo ocular y del tejido orbitario
+S052,Laceracion y ruptura ocular con prolapso o perdida del tejido intraocular
+S053,Laceracion ocular sin prolapso o perdida del tejido intraocular
+S054,Herida penetrante de la orbita con o sin cuerpo extraño
+S055,Herida penetrante del globo ocular con cuerpo extraño
+S056,Herida penetrante del globo ocular sin cuerpo extraño
+S057,Avulsion del ojo
+S058,Otros traumatismos del ojo y de la orbita
+S059,Traumatismo del ojo y de la orbita, no especificado
+S06,Traumatismo intracraneal
+S060,Concusion
+S061,Edema cerebral traumatico
+S062,Traumatismo cerebral difuso
+S063,Traumatismo cerebral focal
+S064,Hemorragia epidural
+S065,Hemorragia subdural traumatica
+S066,Hemorragia subaracnoidea traumatica
+S067,Traumatismo intracraneal con coma prolongado
+S068,Otros traumatismos intracraneales
+S069,Traumatismo intracraneal, no especificado
+S07,Traumatismo por aplastamiento de la cabeza
+S070,Traumatismo por aplastamiento de la cara
+S071,Traumatismo por aplastamiento del craneo
+S078,Traumatismo por aplastamiento de otras partes de la cabeza
+S079,Traumatismo por aplastamiento de la cabeza, parte no especificada
+S08,Amputacion traumatica de parte de la cabeza
+S080,Avulsion del cuero cabelludo
+S081,Amputacion traumatica de la oreja
+S088,Amputacion traumatica de otras partes de la cabeza
+S089,Amputacion traumatica de parte no especificada de la cabeza
+S09,Otros traumatismo y los no especificados de cabeza
+S090,Traumatismo de los vasos sanguineos de la cabeza no clasificados en otra parte
+S091,Traumatismo de tendon y musculos de la cabeza
+S092,Ruptura traumatica del timpano del oido
+S097,Traumatismos multiples de la cabeza
+S098,Otros traumatismos de la cabeza, especificados
+S099,Traumatismo de la cabeza, no especificado
+S10,Traumatismo superficial del cuello
+S100,Contusion de la garganta
+S101,Otros traumatismos superficiales y los no especificados de la garganta
+S107,Traumatismo superficial multiple del cuello
+S108,Traumatismo superficial de otras partes del cuello
+S109,Traumatismo superficial del cuello, parte no especificada
+S11,Herida del cuello
+S110,Herida que compromete la laringe y la traquea
+S111,Herida que compromete la glandula tiroides
+S112,Herida que compromete la faringe y el esofago cervical
+S117,Heridas multiples del cuello
+S118,Heridas de otras partes del cuello
+S119,Herida de cuello, parte no especificada
+S12,Fractura del cuello
+S120,Fractura de la primera vertebra cervical
+S121,Fractura de la segunda vertebra cervical
+S122,Fractura de otras vertebras cervicales especificadas
+S127,Fracturas multiples de columna cervical
+S128,Fractura de otras partes del cuello
+S129,Fractura del cuello, parte no especificada
+S13,Luxacion, esguince y torcedura de articulaciones y de ligamentos del cuello
+S130,Ruptura traumatica de disco cervical intervertebral
+S131,Luxacion de vertebra cervical
+S132,Luxaciones de otras partes y de las no especificadas del cuello
+S133,Luxaciones multiples del cuello
+S134,Esguinces y torceduras de la columna cervical
+S135,Esguinces y torceduras de la region tiroidea
+S136,Esguinces y torceduras de articulaciones y ligamentos de otros sitios especificados y de los no especificados del cuello
+S14,Traumatismo de la medula espinal y de nervios a nivel del cuello
+S140,Concusion y edema de la medula espinal cervical
+S141,Otros traumatismos de la medula espinal cervical y los no especificados
+S142,Traumatismo de raiz nerviosa de columna cervical
+S143,Traumatismo de plexo braquial
+S144,Traumatismo de nervios perifericos del cuello
+S145,Traumatismo de nervios cervicales simpaticos
+S146,Traumatismo de otros nervios y de los no especificados del cuello
+S15,Traumatismo de vasos sanguineos a nivel del cuello
+S150,Traumatismo de la arteria carotida
+S151,Traumatismo de la arteria vertebral
+S152,Traumatismo de la vena yugular externa
+S153,Traumatismo de la vena yugular interna
+S157,Traumatismo de multiples vasos sanguineos a nivel del cuello
+S158,Traumatismo de otros vasos sanguineos a nivel del cuello
+S159,Traumatismo de vasos sanguineos no especificados a nivel del cuello
+S16,Traumatismo de tendon y musculos a nivel del cuello
+S17,Traumatismo por aplastamiento del cuello
+S170,Traumatismo por aplastamiento de la laringe y de la traquea
+S178,Traumatismo por aplastamiento de otras partes del cuello
+S179,Traumatismo por aplastamiento del cuello, parte no especificada
+S18,Amputacion traumatica a nivel del cuello
+S19,Otros traumatismos y los no especificados del cuello
+S197,Traumatismos multiples del cuello
+S198,Otros traumatismos del cuello, especificados
+S199,Traumatismo del cuello, no especificado
+S20,Traumatismo superficial del torax
+S200,Contusion de la mama
+S201,Otros traumatismos superficiales y los no especificados de la mama
+S202,Contusion del torax
+S203,Otros traumatismos superficiales de la pared anterior del torax
+S204,Otros traumatismos superficiales de la pared posterior del torax
+S207,Traumatismos superficiales multiples del torax
+S208,Traumatismo superficial de otras partes y de las no especificadas del torax
+S21,Herida del torax
+S210,Herida de la mama
+S211,Herida de la pared anterior del torax
+S212,Herida de la pared posterior del torax
+S217,Herida multiple de la pared toracica
+S218,Heridas de otras partes del torax
+S219,Heridas del torax, parte no especificada
+S22,Fractura de las costillas, del esternon y de la columna toracica [dorsal]
+S220,Fractura de vertebra toracica
+S221,Fracturas multiples de columna toracica
+S222,Fractura de esternon
+S223,Fractura de costilla
+S224,Fracturas multiples de costilla
+S225,Torax azotado
+S228,Fractura de otras partes del torax oseo
+S229,Fractura del torax oseo, parte no especificada
+S23,Luxacion, esguince y torcedura de articulaciones y ligamentos del torax
+S230,Ruptura traumatica de disco intervertebral toracico
+S231,Luxacion de vertebra toracica
+S232,Luxacion de otras partes y de las no especificadas del torax
+S233,Esguinces y torceduras de columna toracica
+S234,Esguinces y torceduras de costillas y esternon
+S235,Esguinces y torceduras de otras partes y de las no especificadas del torax
+S24,Traumatismo de nervios y de la medula espinal a nivel de torax
+S240,Concusion y edema de la medula espinal toracica
+S241,Otros traumatismos y los no especificados de la medula espinal toracica
+S242,Traumatismo de raices nerviosas de la columna toracica
+S243,Traumatismo de nervios perifericos del torax
+S244,Traumatismo de nervios simpaticos toracicos
+S245,Traumatismo de otros nervios del torax
+S246,Traumatismo de nervio no especificado del torax
+S25,Traumatismo de los vasos sanguineos del torax
+S250,Traumatismo de la aorta toracica
+S251,Traumatismo de la arteria innominada o subclavia
+S252,Traumatismo de la vena cava superior
+S253,Traumatismo de la vena innominada o subclavia
+S254,Traumatismo de vasos sanguineos pulmonares
+S255,Traumatismo de vasos sanguineos intercostales
+S257,Traumatismo de multiples vasos sanguineos del torax
+S258,Traumatismo de otros vasos sanguineos del torax
+S259,Traumatismo de vasos sanguineos no especificados del torax
+S26,Traumatismo del corazon
+S260,Traumatismo del corazon con hemopericardio
+S268,Otros traumatismos del corazon
+S269,Traumatismos del corazon, no especificado
+S27,Traumatismode otros organos intratoracicos y de los no especados
+S270,Neumotorax traumatico
+S271,Hemotorax traumatico
+S272,Hemoneumotorax traumatico
+S273,Otros traumatismos del pulmon
+S274,Traumatismo de los bronquios
+S275,Traumatismo de la traquea toracica
+S276,Traumatismo de la pleura
+S277,Traumatismo de multiples de organos intratoracicos
+S278,Traumatismo de otros organos intratoracicos, especificados
+S279,Traumatismo de organo intratoracico, no especificados
+S28,Traumatismo por aplastamiento del torax y amputacion traumatica de parte del torax
+S280,Aplastamiento del torax
+S281,Amputacion traumatica de parte del torax
+S29,Otros traumatismos y los no especificados del torax
+S290,Traumatismo del tendon y musculos a nivel del torax
+S297,Traumatismos multiples del torax
+S298,Otros traumatismos del torax, especificados
+S299,Traumatismo del torax, no especificado
+S30,Traumatismo superficial del abdomen, de la region lumbosacra y de la pelvis
+S300,Contusion de la region lumbosacra y de la pelvis
+S301,Contusion de la pared abdominal
+S302,Contusion de los organos genitales externos
+S307,Traumatismos superficiales multiples del abdomen, de la region lumbosacra y de la pelvis
+S308,Otros traumatismos superficiales del abdomen, de la region lumbosacra y de la pelvis
+S309,Traumatismo superficial del abdomen, de la region lumbosacra y de la pelvis, parte no especificada
+S31,Herida del abdomen, de la region lumbosacra y de la pelvis
+S310,Herida de la region lumbosacra y de la pelvis
+S311,Herida de la pared abdominal
+S312,Herida del pene
+S313,Herida del escroto y de los testiculos
+S314,Herida de la vagina y de la vulva
+S315,Herida de otros organos genitales externos y de los no especificados
+S317,Heridas multiples del abdomen, de la region lumbosacra y de la pelvis
+S318,Heridas de otras partes y de las no especificadas del abdomen
+S32,Fractura de la columna lumbar y de la pelvis
+S320,Fractura de vertebra lumbar
+S321,Fractura del sacro
+S322,Fractura del coccix
+S323,Fractura del hueso iliaco
+S324,Fractura del acetabulo
+S325,Fractura del pubis
+S327,Fracturas multiples de la columna lumbar y de la pelvis
+S328,Fractura de otras partes y de las no especificadas de la columna lumbar y de la pelvis
+S33,Luxacion, esguince y torcedura de articulaciones y ligamentos de la columna lumbar y de la pelvis
+S330,Ruptura traumatica de disco intervertebral lumbar
+S331,Luxacion de vertebra lumbar
+S332,Luxacion de articulacion sacrococcigea y sacroiliaca
+S333,Luxacion de otras partes y de las no especificadas de la columna lumbar y de la pelvis
+S334,Ruptura traumatica de la sinfisis del pubis
+S335,Esguinces y torceduras de la columna lumbar
+S336,Esguinces y torceduras de la articulacion sacroiliaca
+S337,Esguinces y torceduras de otras partes y de las no especificadas de la columna lumbar y de la pelvis
+S34,Traumatismode los nervios y de la medula espinal lumbar, a nivel del abdomen, de la region lumbosacra y de la pelvis
+S340,Concusion y edema de la medula espinal lumbar
+S341,Otro traumatismo de la medula espinal lumbar
+S342,Traumatismo de raiz nerviosa de la columna lumbar y sacra
+S343,Traumatismo de la cola de caballo
+S344,Traumatismo del plexo lumbosacro
+S345,Traumatismo de nervio(s) simpatico(s) lumbar(es), sacro(s) y pelvico(s)
+S346,Traumatismo de nervio(s) periferico(s) del abdomen, de la region lumbosacra y de la pelvis
+S348,Traumatismo de otros nervios a nivel del abdomen, de la region lumbosacra y de la pelvis y de los no especificados
+S35,Traumatismo de los vasos sanguineos a nivel del abdomen, de la region lumbosacra y de la pelvis
+S350,Traumatismo de la aorta abdominal
+S351,Traumatismo de la vena cava inferior
+S352,Traumatismo de las arterias celiacas y mesentericas
+S353,Traumatismo de venas porta y esplenica
+S354,Traumatismo de vasos sanguineos renales
+S355,Traumatismo de vasos sanguineos iliacos
+S357,Traumatismo de multiples vasos sanguineos a nivel del abdomen, de la region lumbosacra y de la pelvis
+S358,Traumatismo de otros vasos sanguineos a nivel del abdomen, de la region lumbosacra y de la pelvis
+S359,Traumatismo de vasos sanguineos no especificados del abdomen, de la region lumbosacra y de la pelvis
+S36,Traumatismo de organos intraabdominales
+S360,Traumatismo del bazo
+S361,Traumatismo del higado y de la vesicula biliar
+S362,Traumatismo del pancreas
+S363,Traumatismo del estomago
+S364,Traumatismo del intestino delgado
+S365,Traumatismo del colon
+S366,Traumatismo del recto
+S367,Traumatismo de multiples organos intraabdominales
+S368,Traumatismo de otros organos intraabdominales
+S369,Traumatismo de organo intraabdominal no especificado
+S37,Traumatismo del aparato urinario y de los organos pelvicos
+S370,Traumatismo del riñon
+S371,Traumatismo del ureter
+S372,Traumatismo de la vejiga
+S373,Traumatismo de la uretra
+S374,Traumatismo del ovario
+S375,Traumatismo de la trompa de falopio
+S376,Traumatismo del utero
+S377,Traumatismo de multiples organos pelvicos
+S378,Traumatismo de otros organos pelvicos
+S379,Traumatismo de organo pelvico no especificado
+S38,Traumatismo por aplastamiento y amputacion traumatica de parte del abdomen, de la region lumbosacra y de la pelvis
+S380,Traumatismo por aplastamiento de organos genitales externos
+S381,Traumatismo por aplastamiento de otras partes y de las no especificadas del abdomen, de la region lumbosacra y de la pelvis
+S382,Amputacion traumatica de organos genitales externos
+S383,Amputacion traumatica de otras partes y de las no especificadas del abdomen, region lumbosacra y pelvis
+S39,Otros traumatismos y los no especificados del abdomen, de la region lumbosacra y de la pelvis
+S390,Traumatismo del tendon y de musculos del abdomen, de la region lumbosacra y de la pelvis
+S396,Traumatismo de organo(s) intraabdominal(es) con organo(s) pelvico(s)
+S397,Otros traumatismos multiples del abdomen, de la region lumbosacra y de la pelvis
+S398,Otros traumatismos especificados del abdomen, de la region lumbosacra y de la pelvis
+S399,Traumatismo no especificado del abdomen, de la region lumbosacra y de la pelvis
+S40,Traumatismo superficial del hombro y del brazo
+S400,Contusion del hombro y del brazo
+S407,Traumatismos superficiales multiples del hombro y del brazo
+S408,Otros traumatismos superficiales del hombro y del brazo
+S409,Traumatismo superficial no especificado del hombro y del brazo
+S41,Herida del hombro y del brazo
+S410,Herida del hombro
+S411,Herida del brazo
+S417,Heridas multiples del hombro y del brazo
+S418,Heridas de otras partes y de las no especificadas del hombro y del brazo
+S42,Fractura del hombro y del brazo
+S420,Fractura de la clavicula
+S421,Fractura del omoplato
+S422,Fractura de la epifisis superior del humero
+S423,Fractura de la diafisis del humero
+S424,Fractura de la epifisis inferior del humero
+S427,Fracturas multiples de la clavicula, del omoplato y del humero
+S428,Fractura de otras partes del hombro y del brazo
+S429,Fractura del hombro y del brazo, parte no especificada
+S43,Luxacion, esguince y torcedura de articulaciones y ligamentos de la cintura escapular
+S430,Luxacion de la articulacion del hombro
+S431,Luxacion de la articulacion acromioclavicular
+S432,Luxacion de la articulacion esternoclavicular
+S433,Luxacion de otras partes de la cintura escapular y de las no especificadas
+S434,Esguinces y torceduras de la articulacion del hombro
+S435,Esguinces y torceduras de la articulacion acromioclavicular
+S436,Esguinces y torceduras de la articulacion esternoclavicular
+S437,Esguinces y torceduras de otras partes y de las no especificadas de la cintura escapular
+S44,Traumatismo de nervios a nivel del hombro y del brazo
+S440,Traumatismo del nervio cubital a nivel del brazo
+S441,Traumatismo del nervio mediano a nivel del brazo
+S442,Traumatismo del nervio radial a nivel del brazo
+S443,Traumatismo del nervio axilar
+S444,Traumatismo del nervio musculocutaneo
+S445,Traumatismo del nervio sensitivo cutaneo a nivel del hombro y del brazo
+S447,Traumatismo del multiples nervios a nivel del hombro y del brazo
+S448,Traumatismo de otros nervios a nivel del hombro y del brazo
+S449,Traumatismo de nervio no especificado a nivel del hombro y del brazo
+S45,Traumatismo de vasos sanguineos a nivel del hombro y del brazo
+S450,Traumatismo de la arteria axilar
+S451,Traumatismo de la arteria braquial
+S452,Traumatismo de la vena axilar o braquial
+S453,Traumatismo de venas superficial a nivel del hombro y del brazo
+S457,Traumatismo de multiples vasos sanguineos a nivel del hombro y del brazo
+S458,Traumatismo de otros vasos sanguineos a nivel del hombro y del brazo
+S459,Traumatismo de vaso sanguineo no especificado a nivel del hombro y del brazo
+S46,Traumatismo tendon y musculo a nivel del hombro y del brazo
+S460,Traumatismo de tendon del manguito rotatorio del hombro
+S461,Traumatismo de tendon y musculo de la cabeza larga del biceps
+S462,Traumatismo de tendon y musculo de otras partes del biceps
+S463,Traumatismo de tendon y musculo del triceps
+S467,Traumatismo de multiples tendones y musculos a nivel del hombro y del brazo
+S468,Traumatismo de otros tendones y musculos a nivel del hombro y del brazo
+S469,Traumatismo de tendon y musculo no especificado nivel del hombro y del brazo
+S47,Traumatismo por aplastamiento del hombro y del brazo
+S48,Amputacion traumatica del hombro y del brazo
+S480,Amputacion traumatica en la articulacion del hombro y del brazo
+S481,Amputacion traumatica a nivel entre el hombro y el codo
+S489,Amputacion traumatica del hombro y del brazo, nivel no especificado
+S49,Otros traumatismos y los no especificados del hombro y del brazo
+S497,Traumatismos multiples del hombro y del brazo
+S498,Otros traumatismos especificados del hombro y del brazo
+S499,Traumatismos no especificados del hombro y del brazo
+S50,Traumatismo superficial del antebrazo y del codo
+S500,Contusion del codo
+S501,Contusion de otras partes del antebrazo y de las no especificadas
+S507,Traumatismos superficiales multiples del antebrazo
+S508,Otros traumatismos superficiales del antebrazo
+S509,Traumatismo superficial del antebrazo, no especificado
+S51,Herida del antebrazo y del codo
+S510,Herida del codo
+S517,Heridas multiples del antebrazo
+S518,Heridas de otras partes del antebrazo
+S519,Heridas del antebrazo, parte no especificada
+S52,Fractura del antebrazo
+S520,Fractura de la epifisis superior del cubito
+S521,Fractura de la epifisis superior del radio
+S522,Fractura de la diafisis del cubito
+S523,Fractura de la diafisis del radio
+S524,Fractura de la diafisis del cubito y del radio
+S525,Fractura de la epifisis inferior del radio
+S526,Fractura de la epifisis inferior del cubito y del radio
+S527,Fracturas multiples del antebrazo
+S528,Fractura de otras partes del antebrazo
+S529,Fractura del antebrazo, parte no especificada
+S53,Luxacion, esguince y torcedura de articulaciones y ligamentos del codo
+S530,Luxacion de la cabeza del radio
+S531,Luxacion del codo, no especificada
+S532,Ruptura traumatica del ligamento lateral del radio
+S533,Ruptura traumatica del ligamento lateral del cubito
+S534,Esguinces y torceduras del codo
+S54,Traumatismo de nervios a nivel del antebrazo
+S540,Traumatismo del nervio cubital a nivel del antebrazo
+S541,Traumatismo del nervio mediano a nivel del antebrazo
+S542,Traumatismo del nervio radial a nivel del antebrazo
+S543,Traumatismo del nervio sensorial cutaneo a nivel del antebrazo
+S547,Traumatismo del multiples nervios a nivel del antebrazo
+S548,Traumatismo de otros nervios a nivel del antebrazo
+S549,Traumatismo de nervio no especificado a nivel del antebrazo
+S55,Traumatismo de los vasos sanguin a nivel del antebrazo
+S550,Traumatismo de la arteria cubital a nivel del antebrazo
+S551,Traumatismo de la arteria radial a nivel del antebrazo
+S552,Traumatismo de vena a nivel del antebrazo
+S557,Traumatismo de multiples vasos sanguineos a nivel del antebrazo
+S558,Traumatismo de otros vasos sanguineos a nivel del antebrazo
+S559,Traumatismo de vaso sanguineo no especificado a nivel del antebrazo
+S56,Traumatismo del tendon y musculo a nivel del antebrazo
+S560,Traumatismo del tendon y musculo flexor del pulgar a nivel del antebrazo
+S561,Traumatismo del tendon y musculo flexor de otro(s) dedo(s) a nivel del antebrazo
+S562,Traumatismo del otro tendon y musculo flexor a nivel del antebrazo
+S563,Traumatismo de tendones y musculos abductores y extensores del pulgar a nivel del antebrazo
+S564,Traumatismo del tendon y musculo extensor de otro(s) dedo(s) a nivel del antebrazo
+S565,Traumatismo de otro tendon y musculo extensor a nivel del antebrazo
+S567,Traumatismo de multiples tendones y musculos a nivel del antebrazo
+S568,Traumatismo de otros tendones y musculos y de los no especificados, a nivel del antebrazo
+S57,Traumatismo por aplastamiento del antebrazo
+S570,Traumatismo por aplastamiento del codo
+S578,Traumatismo por aplastamiento de otras partes del antebrazo
+S579,Traumatismo por aplastamiento del antebrazo, parte no especificada
+S58,Amputacion traumatica del antebrazo
+S580,Amputacion traumatica a nivel del codo
+S581,Amputacion traumatica a nivel entre el codo y la muñeca
+S589,Amputacion traumatica del antebrazo, nivel no especificado
+S59,Otros traumatismos y los no especificados del antebrazo
+S597,Traumatismos multiples del antebrazo
+S598,Otros traumatismos especificados del antebrazo
+S599,Traumatismos no especificados del antebrazo
+S60,Traumatismo superficial de la muneca y de la mano
+S600,Contusion de dedo(s) de la mano, sin daño de la(s) uña(s)
+S601,Contusion de dedo(s) de la mano, con daño de la(s) uña(s)
+S602,Contusion de otras partes de la muñeca y de la mano
+S607,Traumatismos superficiales multiples de la muñeca y de la mano
+S608,Otros traumatismos superficiales de la muñeca y de la mano
+S609,Traumatismo superficial de la muñeca y de la mano, no especificado
+S61,Herida de la muneca y de la mano
+S610,Herida de dedo(s) de la mano, sin daño de la(s) uña(s)
+S611,Herida de dedo(s) de la mano, con daño de la(s) uña(s)
+S617,Heridas multiples de la muñeca y de la mano
+S618,Heridas de otras partes de la muñeca y de la mano
+S619,Herida de la muñeca y de la mano, parte no especificada
+S62,Fractura a nivel de la muneca y de la mano
+S620,Fractura del hueso escafoides [navicular] de la mano
+S621,Fractura de otro(s) hueso(s) del carpo
+S622,Fractura del primer metacarpiano
+S623,Fractura de otros huesos metacarpianos
+S624,Fracturas multiples de huesos metacarpianos
+S625,Fractura del pulgar
+S626,Fractura de otro dedo de la mano
+S627,Fracturas multiples de los dedos de la mano
+S628,Fractura de otras partes y de las no especificadas de la muñeca y de la mano
+S63,Luxacion, esguince y torcedura de articulaciones y ligamentos a nivel de la muneca y de la mano
+S630,Luxacion de la muñeca
+S631,Luxacion de dedos de la mano
+S632,Luxaciones multiples de dedos de la mano
+S633,Ruptura traumatica de ligamentos de la muñeca y del carpo
+S634,Ruptura traumatica de ligamentos del dedo de la mano en la(s) articulacion(es) metacarpofalangica e interfalangica
+S635,Esguinces y torceduras de la muñeca
+S636,Esguinces y torceduras de dedo(s) de la mano
+S637,Esguinces y torceduras de otras partes y de las no especificadas de la muñeca y de la mano
+S64,Traumatismo de nervios a nivel de la muneca y de la mano
+S640,Traumatismo del nervio cubital a nivel de la muñeca y de la mano
+S641,Traumatismo del nervio mediano a nivel de la muñeca y de la mano
+S642,Traumatismo del nervio radial a nivel de la muñeca y de la mano
+S643,Traumatismo del nervio digital del pulgar
+S644,Traumatismo del nervio digital de otro dedo
+S647,Traumatismo de multiples nervios a nivel de la muñeca y de la mano
+S648,Traumatismo de otros nervios a nivel de la muñeca y de la mano
+S649,Traumatismo de nervio no especificado a nivel de la muñeca y de la mano
+S65,Traumatismo de los vasos sanguineos a nivel de la muneca y de la mano
+S650,Traumatismo de la arteria cubital a nivel de la muñeca y de la mano
+S651,Traumatismo de la arteria radial a nivel de la muñeca y de la mano
+S652,Traumatismo del arco palmar superficial
+S653,Traumatismo del arco palmar profundo
+S654,Traumatismo de vaso(s) sanguineo(s) del pulgar
+S655,Traumatismo de vaso(s) sanguineo(s) de otro dedo
+S657,Traumatismo de multiples vasos sanguineos a nivel de la muñeca y de la mano
+S658,Traumatismo de otros vasos sanguineos a nivel de la muñeca y de la mano
+S659,Traumatismo de vaso sanguineo no especificado a nivel de la muñeca y de la mano
+S66,Traumatismo de tendon y musculo a nivel de la muneca y de la mano
+S660,Traumatismo del tendon y musculo flexor largo del pulgar a nivel de la muñeca y de la mano
+S661,Traumatismo del tendon y musculo flexor de otro dedo a nivel de la muñeca y de la mano
+S662,Traumatismo del tendon y musculo extensor del pulgar a nivel de la muñeca y de la mano
+S663,Traumatismo del tendon y musculo extensor de otro(s) dedo(s) a nivel de la muñeca y de la mano
+S664,Traumatismo del musculo y tendon intrinseco del pulgar a nivel de la muñeca y de la mano
+S665,Traumatismo del musculo y tendon intrinseco de otro(s) dedo(s) a nivel de la muñeca y de la mano
+S666,Traumatismo de multiples tendones y musculos flexores a nivel de la muñeca y de la mano
+S667,Traumatismo de multiples tendones y musculos extensores a nivel de la muñeca y de la mano
+S668,Traumatismo de otros tendones y musculos a nivel de la muñeca y de la mano
+S669,Traumatismo de tendon y musculo no especificado, a nivel de la muñeca y de la mano
+S67,Traumatismo por aplastamiento de la muneca y de la mano
+S670,Traumatismo por aplastamiento del pulgar y otro(s) dedo(s)
+S678,Traumatismo por aplastamiento de otras partes y de las no especificadas de la muñeca y de la mano
+S68,Amputacion traumatica de la muneca y de la mano
+S680,Amputacion traumatica del pulgar (completa) (parcial)
+S681,Amputacion traumatica de otro dedo unico (completa) (parcial)
+S682,Amputacion traumatica de dos o mas dedos solamente (completa) (parcial)
+S683,Amputacion traumatica combinada (de parte) de dedo(s) con otras partes de la muñeca y de la mano
+S684,Amputacion traumatica de la mano a nivel de la muñeca
+S688,Amputacion traumatica de otras partes de la muñeca y de la mano
+S689,Amputacion traumatica de la muñeca y de la mano, nivel no especificado
+S69,Otros traumatismo y no especificados de la muneca y de la mano
+S697,Traumatismos multiples de la muñeca y de la mano
+S698,Otros traumatismos especificados de la muñeca y de la mano
+S699,Traumatismo no especificado de la muñeca y de la mano
+S70,Traumatismo superficial de la cadera y del muslo
+S700,Contusion de la cadera
+S701,Contusion del muslo
+S707,Traumatismos superficiales multiples de la cadera y del muslo
+S708,Otros traumatismos superficiales de la cadera y del muslo
+S709,Traumatismo superficial de la cadera y del muslo, no especificado
+S71,Herida de la cadera y del muslo
+S710,Herida de la cadera
+S711,Herida del muslo
+S717,Heridas multiples de la cadera y del muslo
+S718,Heridas de otras partes y de las no especificadas de la cintura pelvica
+S72,Fractura del femur
+S720,Fractura del cuello del femur
+S721,Fractura pertrocanteriana
+S722,Fractura subtrocanteriana
+S723,Fractura de la diafisis del femur
+S724,Fractura de la epifisis inferior del femur
+S727,Fracturas multiples del femur
+S728,Fractura de otras partes del femur
+S729,Fractura del femur, parte no especificada
+S73,Luxacion, esguince y torcedura de la articulacion y de los ligamentos de la cadera
+S730,Luxacion de cadera
+S731,Esguinces y torceduras de la cadera
+S74,Traumatismo de nervios a nivel de la cadera y del muslo
+S740,Traumatismo del nervio ciatico a nivel de la cadera y del muslo
+S741,Traumatismo del nervio femorocutaneo a nivel de la cadera y del muslo
+S742,Traumatismo del nervio sensorial cutaneo a nivel de la cadera y del muslo
+S747,Traumatismo de nervios multiples a nivel de la cadera y del muslo
+S748,Traumatismo de otros nervios a nivel de la cadera y del muslo
+S749,Traumatismo de nervio no especificado a nivel de la cadera y del muslo
+S75,Traumatismo de vasos sanguineos a de la nivel cadera y del muslo
+S750,Traumatismo de la arteria femoral
+S751,Traumatismo de la vena femoral a nivel de la cadera y del muslo
+S752,Traumatismo de la gran vena safena a nivel de la cadera y del muslo
+S757,Traumatismo de multiples vasos sanguineos a nivel de la cadera y del muslo
+S758,Traumatismo de otros vasos sanguineos a nivel de la cadera y del muslo
+S759,Traumatismo de vaso sanguineo no especificado a nivel de la cadera y del muslo
+S76,Traumatismo de tendon y musculo a nivel de la cadera y del muslo
+S760,Traumatismo del tendon y musculo de la cadera
+S761,Traumatismo del tendon y musculo cuadriceps
+S762,Traumatismo del tendon y musculo aductor mayor del muslo
+S763,Traumatismo del tendon y musculo del grupo muscular posterior a nivel del muslo
+S764,Traumatismo de otros tendones y musculos y los no especificados a nivel del muslo
+S767,Traumatismo de multiples tendones y musculos y los no especificados a nivel de la cadera y del muslo
+S77,Traumatismo aplastamiento de la cadera y del muslo
+S770,Traumatismo por aplastamiento de la cadera
+S771,Traumatismo por aplastamiento del muslo
+S772,Traumatismo por aplastamiento de la cadera con el muslo
+S78,Amputacion traumatica de la cadera y del muslo
+S780,Amputacion traumatica de la articulacion de la cadera
+S781,Amputacion traumatica en algun nivel entre la cadera y la rodilla
+S789,Amputacion traumatica de cadera y muslo, nivel no especificado
+S79,Otros traumatismo y los no especificados de la cadera y del muslo
+S797,Traumatismos multiples de la cadera y del muslo
+S798,Otros traumatismos especificados de la cadera y del muslo
+S799,Traumatismo no especificado de la cadera y del muslo
+S80,Traumatismo superficial de la pierna
+S800,Contusion de la rodilla
+S801,Contusion de otras partes y las no especificadas de la pierna
+S807,Traumatismos superficiales multiples de la pierna
+S808,Otros traumatismos superficiales de la pierna
+S809,Traumatismo superficial de la pierna, no especificado
+S81,Herida de la pierna
+S810,Herida de la rodilla
+S817,Heridas multiples de la pierna
+S818,Herida de otras partes de la pierna
+S819,Herida de la pierna, parte no especificada
+S82,Fractura pierna, inclusive el tobillo
+S820,Fractura de la rotula
+S821,Fractura de la epifisis superior de la tibia
+S822,Fractura de la diafisis de la tibia
+S823,Fractura de la epifisis inferior de la tibia
+S824,Fractura del perone solamente
+S825,Fractura del maleolo interno
+S826,Fractura del maleolo externo
+S827,Fracturas multiples de la pierna
+S828,Fractura de otras partes de la pierna
+S829,Fractura de la pierna, parte no especificada
+S83,Luxacion, esguince y torcedura de articulaciones y ligamentos de la rodilla
+S830,Luxacion de la rotula
+S831,Luxacion de la rodilla
+S832,Desgarro de meniscos, presente
+S833,Desgarro del cartilago articular de la rodilla, presente
+S834,Esguinces y torceduras que comprometen los ligamentos laterales (externo) (interno) de la rodilla
+S835,Esguinces y torceduras que comprometen el ligamento cruzado (anterior) (posterior) de la rodilla
+S836,Esguinces y torceduras de otras partes y las no especificadas de la rodilla
+S837,Traumatismo de estructuras multiples de la rodilla
+S84,Traumatismo de nervios a nivel de la pierna
+S840,Traumatismo del nervio tibial a nivel de la pierna
+S841,Traumatismo del nervio peroneo a nivel de la pierna
+S842,Traumatismo del nervio sensorial cutaneo a nivel de la pierna
+S847,Traumatismo de nervios multiples a nivel de la pierna
+S848,Traumatismo de otros nervios a nivel de la pierna
+S849,Traumatismo de nervio no especificado a nivel de la pierna
+S85,Traumatismo de vasos sanguineos a nivel de la pierna
+S850,Traumatismo de la arteria poplitea
+S851,Traumatismo de la arteria tibial (anterior) (posterior)
+S852,Traumatismo de la arteria peronea
+S853,Traumatismo de la gran vena safena a nivel de la pierna
+S854,Traumatismo de la vena safena externa nivel de la pierna
+S855,Traumatismo de la vena poplitea
+S857,Traumatismo de vasos sanguineos multiples a nivel de la pierna
+S858,Traumatismo de otros vasos sanguineos a nivel de la pierna
+S859,Traumatismo de vaso sanguineo no especificado a nivel de la pierna
+S86,Traumatismo de tendon y musculo a nivel de la pierna
+S860,Traumatismo del tendon de aquiles
+S861,Traumatismo de otro tendon(es) y musculo(s) del grupo muscular posterior a nivel de la pierna
+S862,Traumatismo del tendon(es) y musculo(s) del grupo muscular anterior a nivel de la pierna
+S863,Traumatismo del tendon(es) y musculo(s) del grupo muscular peroneo a nivel de la pierna
+S867,Traumatismo de multiples tendones y musculos a nivel de la pierna
+S868,Traumatismo de otros tendones y musculos a nivel de la pierna
+S869,Traumatismo de tendon y musculo no especificados a nivel de la pierna
+S87,Traumatismo por aplastamiento de la pierna
+S870,Traumatismo por aplastamiento de la rodilla
+S878,Traumatismo por aplastamiento de otras partes y de las no especificadas de la pierna
+S88,Amputacion traumatica de la pierna
+S880,Amputacion traumatica a nivel de la rodilla
+S881,Amputacion traumatica en algun nivel entre la rodilla y el tobillo
+S889,Amputacion traumatica de la pierna, nivel no especificado
+S89,Otros traumatismos y los no especificados de la pierna
+S897,Traumatismos multiples de la pierna
+S898,Otros traumatismos de la pierna, especificados
+S899,Traumatismo de la pierna, no especificado
+S90,Traumatismo superficial del tobillo y del pie
+S900,Contusion del tobillo
+S901,Contusion de dedo(s) del pie, sin daño de la(s) uña(s)
+S902,Contusion de dedo(s) del pie, con daño de la(s) uña(s)
+S903,Contusion de otras partes y de las no especificadas del pie
+S907,Traumatismos superficiales multiples del pie y del tobillo
+S908,Otros traumatismos superficiales del pie y del tobillo
+S909,Traumatismo superficial del pie y del tobillo, no especificado
+S91,Herida del tobillo y del pie
+S910,Herida del tobillo
+S911,Herida de dedo(s) del pie sin daño de la(s) uña(s)
+S912,Herida de dedo(s) del pie con daño de la(s) uña(s)
+S913,Heridas de otras partes del pie
+S917,Heridas multiples del tobillo y del pie
+S92,Fractura del pie, excepto del tobillo
+S920,Fractura del calcaneo
+S921,Fractura del astragalo
+S922,Fractura de otro(s) hueso(s) del tarso
+S923,Fractura de hueso del metatarso
+S924,Fractura de los huesos del dedo gordo del pie
+S925,Fractura de los huesos de otro(s) dedo(s) del pie
+S927,Fracturas multiples del pie
+S929,Fractura del pie, no especificada
+S93,Luxacion, esguince y torcedura de articulaciones y ligamentos del tobillo y del pie
+S930,Luxacion de la articulacion del tobillo
+S931,Luxacion de dedo(s) del pie
+S932,Ruptura de ligamentos a nivel del tobillo y del pie
+S933,Luxacion de otros sitios y los no especificados del pie
+S934,Esguinces y torceduras del tobillo
+S935,Esguinces y torceduras de dedo(s) del pie
+S936,Esguinces y torceduras de otros sitios y de los no especificados del pie
+S94,Traumatismo nervioso a nivel del pie y del tobillo
+S940,Traumatismo del nervio plantar externo
+S941,Traumatismo del nervio plantar interno
+S942,Traumatismo del nervio peroneal profundo a nivel del pie y del tobillo
+S943,Traumatismo del nervio sensorial cutaneo a nivel del pie y del tobillo
+S947,Traumatismo de multiples nervios a nivel del pie y del tobillo
+S948,Traumatismo de otros nervios a nivel del pie y del tobillo
+S949,Traumatismo de nervio no especificado a nivel del pie y del tobillo
+S95,Traumatismo de vasos sanguineos a nivel del tobillo y del pie
+S950,Traumatismo de la arteria dorsal del pie
+S951,Traumatismo de la arteria plantar del pie
+S952,Traumatismo de la vena dorsal del pie
+S957,Traumatismo de multiples vasos sanguineos a nivel del pie y del tobillo
+S958,Traumatismo de otros vasos sanguineos a nivel del pie y del tobillo
+S959,Traumatismo de vaso sanguineo no especificado a nivel del pie y del tobillo
+S96,Traumatismo de tendon y musculo a nivel del tobillo y del pie
+S960,Traumatismo del tendon y musculo del flexor largo del dedo a nivel del pie y del tobillo
+S961,Traumatismo del tendon y musculo del extensor largo del (de los) dedo(s) a nivel del pie y del tobillo
+S962,Traumatismo de tendones y musculos intrinsecos a nivel del pie y del tobillo
+S967,Traumatismo de multiples tendones y musculos a nivel del pie y del tobillo
+S968,Traumatismo de otros tendones y musculos a nivel del pie y del tobillo
+S969,Traumatismo de tendones y musculos no especificados a nivel del pie y del tobillo
+S97,Traumatismo por aplastamiento del pie y del tobillo
+S970,Traumatismo por aplastamiento del tobillo
+S971,Traumatismo por aplastamiento de dedo(s) del pie
+S978,Traumatismo por aplastamiento de otras partes del pie y del tobillo
+S98,Amputacion traumatica del pie y del tobillo
+S980,Amputacion traumatica del pie a nivel del tobillo
+S981,Amputacion traumatica de un dedo del pie
+S982,Amputacion traumatica de dos o mas dedos del pie
+S983,Amputacion traumatica de otras partes del pie
+S984,Amputacion del pie, nivel no especificado
+S99,Otros traumatismo y los no especificados del tobillo y del pie
+S997,Traumatismos multiples del pie y del tobillo
+S998,Otros traumatismos del pie y del tobillo, especificados
+S999,Traumatismo del pie y del tobillo, no especificado
+T00,Traumatismos superficiales que afectan multiples regiones del cuerpo
+T000,Traumatismos superficiales que afectan la cabeza con el cuello
+T001,Traumatismos superficiales que afectan el torax con el abdomen, la region lumbosacra y la pelvis
+T002,Traumatismos superficiales que afectan multiples regiones del(os) miembro(s) superior(es)
+T003,Traumatismos superficiales que afectan multiples regiones del(os) miembro(s) inferior(es)
+T006,Traumatismos superficiales que afectan multiples regiones del(os) miembro(s) superior(es) con miembro(s) inferior(es)
+T008,Traumatismos superficiales que afectan otras combinaciones de regiones del cuerpo
+T009,Traumatismos superficiales multiples, no especificados
+T01,Heridas que afectan multiples regiones del cuerpo
+T010,Heridas que afectan la cabeza con el cuello
+T011,Heridas que afectan el torax con el abdomen, la region lumbosacra y la pelvis
+T012,Heridas que afectan multiples regiones del(de los) miembro(s) superior(es)
+T013,Heridas que afectan multiples regiones del(de los) miembro(s) inferior(es)
+T016,Heridas que afectan multiples regiones del(de los) miembro(s) superior(es) con miembro(s) inferior(es)
+T018,Heridas que afectan otras combinaciones de regiones del cuerpo
+T019,Heridas multiples, no especificados
+T02,Fracturas que afectan multiples regiones del cuerpo
+T020,Fracturas que afectan la cabeza con el cuello
+T021,Fracturas que afectan el torax con el abdomen, la region lumbosacra y la pelvis
+T022,Fracturas que afectan multiples regiones de un miembro superior
+T023,Fracturas que afectan multiples regiones de un miembro inferior
+T024,Fracturas que afectan multiples regiones de ambos miembros superiores
+T025,Fracturas que afectan multiples regiones de ambos miembros inferiores
+T026,Fracturas que afectan multiples regiones de miembro(s) superior(es) con miembro(s) inferior(es)
+T027,Fracturas que afectan el torax con la region lumbosacra y la pelvis con miembro(s)
+T028,Fracturas que afectan otras combinaciones de regiones del cuerpo
+T029,Fracturas multiples, no especificados
+T03,Luxaciones, torceduras y esguinces que afectan multiples regiones del cuerpo
+T030,Luxaciones, torceduras y esguinces que afectan la cabeza con el cuello
+T031,Luxaciones, torceduras y esguinces que afectan el torax con la region lumbosacra y la pelvis
+T032,Luxaciones, torceduras y esguinces que afectan multiples regiones del(de los) miembro(s) superior(es)
+T033,Luxaciones, torceduras y esguinces que afectan multiples regiones del(de los) miembro(s) inferior(es)
+T034,Luxaciones, torceduras y esguinces que afectan multiples regiones del(de los) miembro(s) superior(es) con miembro(s) inferior(es)
+T038,Luxaciones, torceduras y esguinces que afectan otras combinaciones de regiones del cuerpo
+T039,Luxaciones, torceduras y esguinces multiples, no especificados
+T04,Traumatismos por aplastamiento que afectan multiples regiones del cuerpo
+T040,Traumatismos por aplastamiento que afectan la cabeza con el cuello
+T041,Traumatismos por aplastamiento que afectan el torax con el abdomen, la region lumbosacra y la pelvis
+T042,Traumatismos por aplastamiento que afectan multiples regiones del(de los) miembro(s) superior(es)
+T043,Traumatismos por aplastamiento que afectan multiples regiones del(de los) miembro(s) inferior(es)
+T044,Traumatismos por aplastamiento que afectan multiples regiones del(de los) miembro(s) superior(es) con miembro(s) inferior(es)
+T047,Traumatismos por aplastamiento del torax con el abdomen, de la region lumbosacra y de la pelvis con miembro(s)
+T048,Traumatismos por aplastamiento que afectan otras combinaciones de regiones del cuerpo
+T049,Traumatismos por aplastamiento multiples, no especificados
+T05,Amputaciones traumaticas que afectan multiples regiones del cuerpo
+T050,Amputacion traumatica de ambas manos
+T051,Amputacion traumatica de una mano y el otro brazo [cualquier nivel, excepto mano]
+T052,Amputacion traumatica de ambos brazos [cualquier nivel]
+T053,Amputacion traumatica de ambos pies
+T054,Amputacion traumatica de un pie y la otra pierna [cualquier nivel, excepto pie]
+T055,Amputacion traumatica de ambas piernas [cualquier nivel]
+T056,Amputacion traumatica de miembros superior(es) e inferior(es), cualquier combinacion [cualquier nivel]
+T058,Amputacion traumatica que afecta otras combinaciones de regiones del cuerpo
+T059,Amputacion traumatica multiples, no especificadas
+T06,Otros traumatismos que afectan multiples regiones del cuerpo no clasificadas en otra parte
+T060,Traumatismos del encefalo y de los nervios craneales con traumatismo de nervios y medula espinal a nivel del cuello
+T061,Traumatismos de nervios y medula espinal que afectan otras multiples regiones del cuerpo
+T062,Traumatismos de nervios que afectan multiples regiones del cuerpo
+T063,Traumatismos de vasos sanguineos que afectan multiples regiones del cuerpo
+T064,Traumatismos de tendones y musculos que afectan multiples regiones del cuerpo
+T065,Traumatismos de organos intratoracicos con organos intraabdominales y pelvicos
+T068,Otros traumatismos especificados que afectan multiples regiones del cuerpo
+T07,Traumatismos multiples no especificados
+T08,Fractura de la columna vertebral, nivel no especificado
+T09,Otros traumatismos de la columna vertebral y del tronco, nivel no especificado
+T090,Traumatismos superficial del tronco, nivel no especificado
+T091,Herida del tronco, nivel no especificado
+T092,Luxacion, esguince o torcedura de articulacion y ligamentos del tronco, no especificado
+T093,Traumatismo de la medula espinal, nivel no especificado
+T094,Traumatismo de nervios, raiz de nervio espinal y plexos del tronco no especificados
+T095,Traumatismo de tendones y musculos del tronco no especificados
+T096,Amputacion traumatica del tronco, nivel no especificado
+T098,Otros traumatismos especificados del tronco, nivel no especificado
+T099,Traumatismo no especificado del tronco, nivel no especificado
+T10,Fractura de miembro superior, nivel no especificado
+T11,Otros traumatismos de miembro superior, nivel no especificado
+T110,Traumatismos superficial de miembro superior, nivel no especificado
+T111,Herida de miembro superior, nivel no especificado
+T112,Luxacion, esguince o torcedura de articulacion o ligamento no especificado de miembro superior, nivel no especificado
+T113,Traumatismo de nervio no especificado de miembro superior, nivel no especificado
+T114,Traumatismo de vasos sanguineos no especificados de miembro superior, nivel no especificado
+T115,Traumatismo de tendon y musculo no especificados de miembro superior, nivel no especificado
+T116,Amputacion traumatica de miembro superior, nivel no especificado
+T118,Otros traumatismos especificados de miembro superior, nivel no especificado
+T119,Traumatismo no especificado de miembro superior, nivel no especificado
+T12,Fractura de miembro inferior, nivel no especificado
+T13,Otros traumatismos de miembro inferior, nivel no especificado
+T130,Traumatismo superficial de miembro inferior, nivel no especificado
+T131,Herida de miembro inferior, nivel no especificado
+T132,Luxacion, esguince o torcedura de articulacion y ligamentos no especificados de miembro inferior, nivel no especificado
+T133,Traumatismo de nervios no especificados de miembro inferior, nivel no especificado
+T134,Traumatismo de vasos sanguineos no especificados de miembro inferior, nivel no especificado
+T135,Traumatismo de tendones y musculos no especificados de miembro inferior, nivel no especificado
+T136,Amputacion traumatica de miembro inferior, nivel no especificado
+T138,Otros traumatismos especificados de miembro inferior, nivel no especificado
+T139,Traumatismo no especificado de miembro inferior, nivel no especificado
+T14,Traumatismo de regiones no especificadas del cuerpo
+T140,Traumatismos superficial de region no especificada del cuerpo
+T141,Herida de region no especificada del cuerpo
+T142,Fractura de region no especificada del cuerpo
+T143,Luxacion, esguince o torcedura de region no especificada del cuerpo
+T144,Traumatismo de nervio(s) de region no especificada del cuerpo
+T145,Traumatismo de vaso(s) sanguineo(s) de region no especificada del cuerpo
+T146,Traumatismo de tendones y musculos de region no especificada del cuerpo
+T147,Traumatismo por aplastamiento y amputacion traumatica de regiones no especificadas del cuerpo
+T148,Otros traumatismos de region no especificada del cuerpo
+T149,Traumatismo, no especificado
+T15,Cuerpo extrano en parte externa del ojo
+T150,Cuerpo extraño en la cornea
+T151,Cuerpo extraño en el saco conjuntival
+T158,Cuerpo extraño en otras y en multiples partes de la parte externa del ojo
+T159,Cuerpo extraño en parte externa del ojo, sitio no especificado
+T16,Cuerpo extrano en el oido
+T17,Cuerpo extrano en las vias respiratorias
+T170,Cuerpo extraño en seno paranasal
+T171,Cuerpo extraño en el orificio nasal
+T172,Cuerpo extraño en la faringe
+T173,Cuerpo extraño en la laringe
+T174,Cuerpo extraño en la traquea
+T175,Cuerpo extraño en bronquios
+T178,Cuerpo extraño en otras y en multiples partes de las vias respiratorias
+T179,Cuerpo extraño en las vias respiratorias, parte no especificada
+T18,Cuerpo extrano en el tubo digestivo
+T180,Cuerpo extraño en la boca
+T181,Cuerpo extraño en el esofago
+T182,Cuerpo extraño en el estomago
+T183,Cuerpo extraño en el intestino delgado
+T184,Cuerpo extraño en el colon
+T185,Cuerpo extraño en el ano y en el recto
+T188,Cuerpo extraño en otras y en multiples partes del tubo digestivo
+T189,Cuerpo extraño en el tubo digestivo, parte no especificada
+T19,Cuerpo extrano en las vias genitourinarias
+T190,Cuerpo extraño en la uretra
+T191,Cuerpo extraño en la vejiga
+T192,Cuerpo extraño en la vulva y en la vagina
+T193,Cuerpo extraño en el utero [cualquier parte]
+T198,Cuerpo extraño en otras y en multiples partes de las vias genitourinarias
+T199,Cuerpo extraño en las vias genitourinarias, parte no especificada
+T20,Quemadura y corrosion de la cabeza y cuello
+T200,Quemadura de la cabeza y del cuello, grado no especificado
+T201,Quemadura de la cabeza y del cuello, de primer grado
+T202,Quemadura de la cabeza y del cuello, de segundo grado
+T203,Quemadura de la cabeza y del cuello, de tercer grado
+T204,Corrosion de la cabeza y del cuello, grado no especificado
+T205,Corrosion de la cabeza y del cuello, de primer grado
+T206,Corrosion de la cabeza y del cuello, de segundo grado
+T207,Corrosion de la cabeza y del cuello, de tercer grado
+T21,Quemadura y corrosion del tronco
+T210,Quemadura del tronco, grado no especificado
+T211,Quemadura del tronco, de primer grado
+T212,Quemadura del tronco, de segundo grado
+T213,Quemadura del tronco, de tercer grado
+T214,Corrosion del tronco, grado no especificado
+T215,Corrosion del tronco, de primer grado
+T216,Corrosion del tronco, de segundo grado
+T217,Corrosion del tronco, de tercer grado
+T22,Quemadura y corrosion del hombro y del miembro superior, excepto de la muñeca y de la mano
+T220,Quemadura del hombro y miembro superior, grado no especificado, excepto de la muñeca y de la mano
+T221,Quemadura del hombro y miembro superior, de primer grado, excepto de la muñeca y de la mano
+T222,Quemadura del hombro y miembro superior, de segundo grado, excepto de la muñeca y de la mano
+T223,Quemadura del hombro y miembro superior, de tercer grado, excepto de la muñeca y de la mano
+T224,Corrosion del hombro y miembro superior, grado no especificado, excepto de la muñeca y de la mano
+T225,Corrosion del hombro y miembro superior, de primer grado, excepto de la muñeca y de la mano
+T226,Corrosion del hombro y miembro superior, de segundo grado, excepto de la muñeca y de la mano
+T227,Corrosion del hombro y miembro superior, de tercer grado, excepto de la muñeca y de la mano
+T23,Quemadura y corrosion de la muneca y de la mano
+T230,Quemadura de la muñeca y de la mano, grado no especificado
+T231,Quemadura de la muñeca y de la mano, de primer grado
+T232,Quemadura de la muñeca y de la mano, de segundo grado
+T233,Quemadura de la muñeca y de la mano, de tercer grado
+T234,Corrosion de la muñeca y de la mano, grado no especificado
+T235,Corrosion de la muñeca y de la mano, de primer grado

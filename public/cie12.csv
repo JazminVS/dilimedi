@@ -1,0 +1,1089 @@
+﻿codigo,descripcion,campo
+X783,Lesion autoinfligida intencionalmente por objeto cortante: areas de deporte y atletismo
+X784,Lesion autoinfligida intencionalmente por objeto cortante: calles y carreteras
+X785,Lesion autoinfligida intencionalmente por objeto cortante: comercio y areas de servicio
+X786,Lesion autoinfligida intencionalmente por objeto cortante: area industrial y de la construccion
+X787,Lesion autoinfligida intencionalmente por objeto cortante: granja
+X788,Lesion autoinfligida intencionalmente por objeto cortante: otro lugar especificado
+X789,Lesion autoinfligida intencionalmente por objeto cortante: lugar no especificado
+X79,Lesion autoinflingida intencionalmente por objeto romo o sin filo
+X790,Lesion autoinfligida intencionalmente por objeto romo o sin filo: vivienda
+X791,Lesion autoinfligida intencionalmente por objeto romo o sin filo: institucion residencial
+X792,Lesion autoinfligida intencionalmente por objeto romo o sin filo: escuelas, otras instituciones y areas administrativas publicas
+X793,Lesion autoinfligida intencionalmente por objeto romo o sin filo: areas de deporte y atletismo
+X794,Lesion autoinfligida intencionalmente por objeto romo o sin filo: calles y carreteras
+X795,Lesion autoinfligida intencionalmente por objeto romo o sin filo: comercio y areas de servicio
+X796,Lesion autoinfligida intencionalmente por objeto romo o sin filo: area industrial y de la construccion
+X797,Lesion autoinfligida intencionalmente por objeto romo o sin filo: granja
+X798,Lesion autoinfligida intencionalmente por objeto romo o sin filo: otro lugar especificado
+X799,Lesion autoinfligida intencionalmente por objeto romo o sin filo: lugar no especificado
+X80,Lesion autoinflingida intencionalmente al saltar desde un lugar elevado
+X800,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: vivienda
+X801,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: institucion residencial
+X802,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: escuelas, otras instituciones y areas administrativas publicas
+X803,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: areas de deporte y atletismo
+X804,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: calles y carreteras
+X805,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: comercio y areas de servicio
+X806,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: area industrial y de la construccion
+X807,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: granja
+X808,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: otro lugar especificado
+X809,Lesion autoinfligida intencionalmente al saltar desde un lugar elevado: lugar no especificado
+X81,Lesion autoinflingida intencionalmente por arrojarse o colocarse delante de objeto en movimiento
+X810,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: vivienda
+X811,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: institucion residencial
+X812,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: escuelas, otras instituciones y areas administrativas publicas
+X813,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: areas de deporte y atletismo
+X814,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: calles y carreteras
+X815,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: comercio y areas de servicio
+X816,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: area industrial y de la construccion
+X817,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: granja
+X818,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: otro lugar especificado
+X819,Lesion autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento: lugar no especificado
+X82,Lesion autoinflingida intencionalmente por colision de vehiculo de motor
+X820,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: vivienda
+X821,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: institucion residencial
+X822,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: escuelas, otras instituciones y areas administrativas publicas
+X823,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: areas de deporte y atletismo
+X824,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: calles y carreteras
+X825,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: comercio y areas de servicio
+X826,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: area industrial y de la construccion
+X827,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: granja
+X828,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: otro lugar especificado
+X829,Lesion autoinfligida intencionalmente por colision de vehiculo de motor: lugar no especificado
+X83,Lesion autoinflingida intencionalmente por otros medios especificados
+X830,Lesion autoinfligida intencionalmente por otros medios especificados: vivienda
+X831,Lesion autoinfligida intencionalmente por otros medios especificados: institucion residencial
+X832,Lesion autoinfligida intencionalmente por otros medios especificados: escuelas, otras instituciones y areas administrativas publicas
+X833,Lesion autoinfligida intencionalmente por otros medios especificados: areas de deporte y atletismo
+X834,Lesion autoinfligida intencionalmente por otros medios especificados: calles y carreteras
+X835,Lesion autoinfligida intencionalmente por otros medios especificados: comercio y areas de servicio
+X836,Lesion autoinfligida intencionalmente por otros medios especificados: area industrial y de la construccion
+X837,Lesion autoinfligida intencionalmente por otros medios especificados: granja
+X838,Lesion autoinfligida intencionalmente por otros medios especificados: otro lugar especificado
+X839,Lesion autoinfligida intencionalmente por otros medios especificados: lugar no especificado
+X84,Lesion autoinflingida intencionalmente por medios no especificados
+X840,Lesion autoinfligida intencionalmente por medios no especificados: vivienda
+X841,Lesion autoinfligida intencionalmente por medios no especificados: institucion residencial
+X842,Lesion autoinfligida intencionalmente por medios no especificados: escuelas, otras instituciones y areas administrativas publicas
+X843,Lesion autoinfligida intencionalmente por medios no especificados: areas de deporte y atletismo
+X844,Lesion autoinfligida intencionalmente por medios no especificados: calles y carreteras
+X845,Lesion autoinfligida intencionalmente por medios no especificados: comercio y areas de servicio
+X846,Lesion autoinfligida intencionalmente por medios no especificados: area industrial y de la construccion
+X847,Lesion autoinfligida intencionalmente por medios no especificados: granja
+X848,Lesion autoinfligida intencionalmente por medios no especificados: otro lugar especificado
+X849,Lesion autoinfligida intencionalmente por medios no especificados: lugar no especificado
+X85,Agresion con drogas, medicamentos y sustancias biologicas
+X850,Agresion con drogas, medicamentos y sustancias biologicas: vivienda
+X851,Agresion con drogas, medicamentos y sustancias biologicas: institucion residencial
+X852,Agresion con drogas, medicamentos y sustancias biologicas: escuelas, otras instituciones y areas administrativas publicas
+X853,Agresion con drogas, medicamentos y sustancias biologicas: areas de deporte y atletismo
+X854,Agresion con drogas, medicamentos y sustancias biologicas: calles y carreteras
+X855,Agresion con drogas, medicamentos y sustancias biologicas: comercio y areas de servicio
+X856,Agresion con drogas, medicamentos y sustancias biologicas: area industrial y de la construccion
+X857,Agresion con drogas, medicamentos y sustancias biologicas: granja
+X858,Agresion con drogas, medicamentos y sustancias biologicas: otro lugar especificado
+X859,Agresion con drogas, medicamentos y sustancias biologicas: lugar no especificado
+X86,Agresion con sustancia corrosiva
+X860,Agresion con sustancia corrosiva: vivienda
+X861,Agresion con sustanciacorrosiva: institucion residencial
+X862,Agresion con sustancia corrosiva: escuelas, otras instituciones y areas administrativas publicas
+X863,Agresion con sustanciacorrosiva: areas de deporte y atletismo
+X864,Agresion con sustancia corrosiva: calles y carreteras
+X865,Agresion con sustancia corrosiva: comercio y areas de servicio
+X866,Agresion con sustancia corrosiva: area industrial y de la construccion
+X867,Agresion con sustancia corrosiva: granja
+X868,Agresion con sustanciacorrosiva: otro lugar especificado
+X869,Agresion con sustancia corrosiva: lugar no especificado
+X87,Agresion con plaguicidas
+X870,Agresion con plaguicidas: vivienda
+X871,Agresion con plaguicidas: institucion residencial
+X872,Agresion con plaguicidas: escuelas, otras instituciones y areas administrativas publicas
+X873,Agresion con plaguicidas: areas de deporte y atletismo
+X874,Agresion con plaguicidas: calles y carreteras
+X875,Agresion con plaguicidas: comercio y areas de servicio
+X876,Agresion con plaguicidas: area industrial y de la construccion
+X877,Agresion con plaguicidas: granja
+X878,Agresion con plaguicidas: otro lugar especificado
+X879,Agresion con plaguicidas: lugar no especificado
+X88,Agresion con gases y vapores
+X880,Agresion con gases y vapores: vivienda
+X881,Agresion con gases y vapores: institucion residencial
+X882,Agresion con gases y vapores: escuelas, otras instituciones y areas administrativas publicas
+X883,Agresion con gases y vapores: areas de deporte y atletismo
+X884,Agresion con gases y vapores: calles y carreteras
+X885,Agresion con gases y vapores: comercio y areas de servicio
+X886,Agresion con gases y vapores: area industrial y de la construccion
+X887,Agresion con gases y vapores: granja
+X888,Agresion con gases y vapores: otro lugar especificado
+X889,Agresion con gases y vapores: lugar no especificado
+X89,Agresion con otros productos quimicos y sustancias nocivas especificadas
+X890,Agresion con otros productos quimicos y sustancias nocivas especificadas: vivienda
+X891,Agresion con otros productos quimicos y sustancias nocivas especificadas: institucion residencial
+X892,Agresion con otros productos quimicos y sustancias nocivas especificadas: escuelas, otras instituciones y areas administrativas publicas
+X893,Agresion con otros productos quimicos y sustancias nocivas especificadas: areas de deporte y atletismo
+X894,Agresion con otros productos quimicos y sustancias nocivas especificadas: calles y carreteras
+X895,Agresion con otros productos quimicos y sustancias nocivas especificadas: comercio y areas de servicio
+X896,Agresion con otros productos quimicos y sustancias nocivas especificadas: area industrial y de la construccion
+X897,Agresion con otros productos quimicos y sustancias nocivas especificadas: granja
+X898,Agresion con otros productos quimicos y sustancias nocivas especificadas: otro lugar especificado
+X899,Agresion con otros productos quimicos y sustancias nocivas especificadas: lugar no especificado
+X90,Agresion con productos quimicos y sustancias nocivas no especificados
+X900,Agresion con productos quimicos y sustancias nocivas no especificadas: vivienda
+X901,Agresion con productos quimicos y sustancias nocivas no especificadas: institucion residencial
+X902,Agresion con productos quimicos y sustancias nocivas no especificadas: escuelas, otras instituciones y areas administrativas publicas
+X903,Agresion con productos quimicos y sustancias nocivas no especificadas: areas de deporte y atletismo
+X904,Agresion con productos quimicos y sustancias nocivas no especificadas: calles y carreteras
+X905,Agresion con productos quimicos y sustancias nocivas no especificadas: comercio y areas de servicio
+X906,Agresion con productos quimicos y sustancias nocivas no especificadas: area industrial y de la construccion
+X907,Agresion con productos quimicos y sustancias nocivas no especificadas: granja
+X908,Agresion con productos quimicos y sustancias nocivas no especificadas: otro lugar especificado
+X909,Agresion con productos quimicos y sustancias nocivas no especificadas: lugar no especificado
+X91,Agresion por ahorcamiento, estrangulamiento y sofocacion
+X910,Agresion por ahorcamiento, estrangulamiento y sofocacion: vivienda
+X911,Agresion por ahorcamiento, estrangulamiento y sofocacion: institucion residencial
+X912,Agresion por ahorcamiento, estrangulamiento y sofocacion: escuelas, otras instituciones y areas administrativas publicas
+X913,Agresion por ahorcamiento, estrangulamiento y sofocacion: areas de deporte y atletismo
+X914,Agresion por ahorcamiento, estrangulamiento y sofocacion: calles y carreteras
+X915,Agresion por ahorcamiento, estrangulamiento y sofocacion: comercio y areas de servicio
+X916,Agresion por ahorcamiento, estrangulamiento y sofocacion: area industrial y de la construccion
+X917,Agresion por ahorcamiento, estrangulamiento y sofocacion: granja
+X918,Agresion por ahorcamiento, estrangulamiento y sofocacion: otro lugar especificado
+X919,Agresion por ahorcamiento, estrangulamiento y sofocacion: lugar no especificado
+X92,Agresion por ahogamiento y sumersion
+X920,Agresion por ahogamiento y sumersion: vivienda
+X921,Agresion por ahogamiento y sumersion: institucion residencial
+X922,Agresion por ahogamiento y sumersion: escuelas, otras instituciones y areas administrativas publicas
+X923,Agresion por ahogamiento y sumersion: areas de deporte y atletismo
+X924,Agresion por ahogamiento y sumersion: calles y carreteras
+X925,Agresion por ahogamiento y sumersion: comercio y areas de servicio
+X926,Agresion por ahogamiento y sumersion: area industrial y de la construccion
+X927,Agresion por ahogamiento y sumersion: granja
+X928,Agresion por ahogamiento y sumersion: otro lugar especificado
+X929,Agresion por ahogamiento y sumersion: lugar no especificado
+X93,Agresion con disparo de arma corta
+X930,Agresion con disparo de arma corta: vivienda
+X931,Agresion con disparo de arma corta: institucion residencial
+X932,Agresion con disparo de arma corta: escuelas, otras instituciones y areas administrativas publicas
+X933,Agresion con disparo de arma corta: areas de deporte y atletismo
+X934,Agresion con disparo de arma corta: calles y carreteras
+X935,Agresion con disparo de arma corta: comercio y areas de servicio
+X936,Agresion con disparo de arma corta: area industrial y de la construccion
+X937,Agresion con disparo de arma corta: granja
+X938,Agresion con disparo de arma corta: otro lugar especificado
+X939,Agresion con disparo de arma corta: lugar no especificado
+X94,Agresion con disparo de rifle, escopeta y arma larga
+X940,Agresion con disparo de rifle, escopeta y arma larga: vivienda
+X941,Agresion con disparo de rifle, escopeta y arma larga: institucion residencial
+X942,Agresion con disparo de rifle, escopeta y arma larga: escuelas, otras instituciones y areas administrativas publicas
+X943,Agresion con disparo de rifle, escopeta y arma larga: areas de deporte y atletismo
+X944,Agresion con disparo de rifle, escopeta y arma larga: calles y carreteras
+X945,Agresion con disparo de rifle, escopeta y arma larga: comercio y areas de servicio
+X946,Agresion con disparo de rifle, escopeta y arma larga: area industrial y de la construccion
+X947,Agresion con disparo de rifle, escopeta y arma larga: granja
+X948,Agresion con disparo de rifle, escopeta y arma larga: otro lugar especificado
+X949,Agresion con disparo de rifle, escopeta y arma larga: lugar no especificado
+X95,Agresion con disparo de otras armas fuego y las no especificadas
+X950,Agresion con disparo de otras armas de fuego, y las no especificadas: vivienda
+X951,Agresion con disparo de otras armas de fuego, y las no especificadas: institucion residencial
+X952,Agresion con disparo de otras armas de fuego, y las no especificadas: escuelas, otras instituciones y areas administrativas publicas
+X953,Agresion con disparo de otras armas de fuego, y las no especificadas: areas de deporte y atletismo
+X954,Agresion con disparo de otras armas de fuego, y las no especificadas: calles y carreteras
+X955,Agresion con disparo de otras armas de fuego, y las no especificadas: comercio y areas de servicio
+X956,Agresion con disparo de otras armas de fuego, y las no especificadas: area industrial y de la construccion
+X957,Agresion con disparo de otras armas de fuego, y las no especificadas: granja
+X958,Agresion con disparo de otras armas de fuego, y las no especificadas: otro lugar especificado
+X959,Agresion con disparo de otras armas de fuego, y las no especificadas: lugar no especificado
+X96,Agresion con material explosivo
+X960,Agresion con material explosivo: vivienda
+X961,Agresion con material explosivo: institucion residencial
+X962,Agresion con material explosivo: escuelas, otras instituciones y areas administrativas publicas
+X963,Agresion con material explosivo: areas de deporte y atletismo
+X964,Agresion con material explosivo: calles y carreteras
+X965,Agresion con material explosivo: comercio y areas de servicio
+X966,Agresion con material explosivo: area industrial y de la construccion
+X967,Agresion con material explosivo: granja
+X968,Agresion con material explosivo: otro lugar especificado
+X969,Agresion con material explosivo: lugar no especificado
+X97,Agresion con humo, fuego y llamas
+X970,Agresion con humo, fuego y llamas: vivienda
+X971,Agresion con humo, fuego y llamas: institucion residencial
+X972,Agresion con humo, fuego y llamas: escuelas, otras instituciones y areas administrativas publicas
+X973,Agresion con humo, fuego y llamas: areas de deporte y atletismo
+X974,Agresion con humo, fuego y llamas: calles y carreteras
+X975,Agresion con humo, fuego y llamas: comercio y areas de servicio
+X976,Agresion con humo, fuego y llamas: area industrial y de la construccion
+X977,Agresion con humo, fuego y llamas: granja
+X978,Agresion con humo, fuego y llamas: otro lugar especificado
+X979,Agresion con humo, fuego y llamas: lugar no especificado
+X98,Agresion con vapor y objetos calientes
+X980,Agresion con vapor de agua, vapores y objetos calientes: vivienda
+X981,Agresion con vapor de agua, vapores y objetos calientes: institucion residencial
+X982,Agresion con vapor de agua, vapores y objetos calientes: escuelas, otras instituciones y areas administrativas publicas
+X983,Agresion con vapor de agua, vapores y objetos calientes: areas de deporte y atletismo
+X984,Agresion con vapor de agua, vapores y objetos calientes: calles y carreteras
+X985,Agresion con vapor de agua, vapores y objetos calientes: comercio y areas de servicio
+X986,Agresion con vapor de agua, vapores y objetos calientes: area industrial y de la construccion
+X987,Agresion con vapor de agua, vapores y objetos calientes: granja
+X988,Agresion con vapor de agua, vapores y objetos calientes: otro lugar especificado
+X989,Agresion con vapor de agua, vapores y objetos calientes: lugar no especificado
+X99,Agresion con objeto cortante
+X990,Agresion con objeto cortante: vivienda
+X991,Agresion con objeto cortante: institucion residencial
+X992,Agresion con objeto cortante: escuelas, otras instituciones y areas administrativas publicas
+X993,Agresion con objeto cortante: areas de deporte y atletismo
+X994,Agresion con objeto cortante: calles y carreteras
+X995,Agresion con objeto cortante: comercio y areas de servicio
+X996,Agresion con objeto cortante: area industrial y de la construccion
+X997,Agresion con objeto cortante: granja
+X998,Agresion con objeto cortante: otro lugar especificado
+X999,Agresion con objeto cortante: lugar no especificado
+XI,Enfermedades del aparato digestivo
+XII,Enfermedades de la piel y el tejido subcutaneo
+XIII,Enfermedades del sistema osteomuscular y del tejido conectivo
+XIV,Enfermedades del aparato genitourinario
+XIX,Traumatismos, envenenamientos y algunas otras consecuencias de causa externa
+XV,Embarazo, parto y puerperio
+XVI,Ciertas afecciones originadas en el periodo perinatal
+XVII,Malformaciones congenitas, deformidades y anomalias cromosomicas
+XVIII,Sintomas, signos y hallazgos anormales clinicos y de laboratorio, no clasificados en otra parte
+XX,Causas extremas de morbilidad y de mortalidad
+XXI,Factores que influyen en el estado de salud y contacto con los servicios de salud
+XXII,Codigos para situaciones especiales
+Y00,Agresion con objeto romo o sin filo
+Y000,Agresion con objeto romo o sin filo: vivienda
+Y001,Agresion con objeto romo o sin filo: institucion residencial
+Y002,Agresion con objeto romo o sin filo: escuelas otras instituciones y areas administrativas
+Y003,Agresion con objeto romo o sin filo: areas de deporte y atletismo
+Y004,Agresion con objeto romo o sin filo: calles y carreteras
+Y005,Agresion con objeto romo o sin filo: comercio y area de servicios
+Y006,Agresion con objeto romo o sin filo: area industrial y de la construccion
+Y007,Agresion con objeto romo o sin filo: granja
+Y008,Agresion con objeto romo o sin filo: otro lugar especificado
+Y009,Agresion con objeto romo o sin filo: lugar no especificado
+Y01,Agresion por empujon desde lugar elevado
+Y010,Agresion por empujon desde un lugar elevado: vivienda
+Y011,Agresion por empujon desde un lugar elevado: institucion residencial
+Y012,Agresion por empujon desde un lugar elevado: escuelas otras instituciones y areas administrativas
+Y013,Agresion por empujon desde un lugar elevado: areas de deporte y atletismo
+Y014,Agresion por empujon desde un lugar elevado: calles y carreteras
+Y015,Agresion por empujon desde un lugar elevado: comercio y area de servicios
+Y016,Agresion por empujon desde un lugar elevado: area industrial y de la construccion
+Y017,Agresion por empujon desde un lugar elevado: granja
+Y018,Agresion por empujon desde un lugar elevado: otro lugar especificado
+Y019,Agresion por empujon desde un lugar elevado: lugar no especificado
+Y02,Agresion empuj o coloc delant objeto movimie
+Y020,Agresion por empujar o colocar a la victima delante de objeto en movimiento: vivienda
+Y021,Agresion por empujar o colocar a la victima delante de objeto en movimiento: institucion residencial
+Y022,Agresion por empujar o colocar a la victima delante de objeto en movimiento: escuelas otras instituciones y areas administrativas
+Y023,Agresion por empujar o colocar a la victima delante de objeto en movimiento: areas de deporte y atletismo
+Y024,Agresion por empujar o colocar a la victima delante de objeto en movimiento: calles y carreteras
+Y025,Agresion por empujar o colocar a la victima delante de objeto en movimiento: comercio y area de servicios
+Y026,Agresion por empujar o colocar a la victima delante de objeto en movimiento: area industrial y de la construccion
+Y027,Agresion por empujar o colocar a la victima delante de objeto en movimiento: granja
+Y028,Agresion por empujar o colocar a la victima delante de objeto en movimiento: otro lugar especificado
+Y029,Agresion por empujar o colocar a la victima delante de objeto en movimiento: lugar no especificado
+Y03,Agresion por colision vehiculo de motor
+Y030,Agresion por colision de vehiculo de motor: vivienda
+Y031,Agresion por colision de vehiculo de motor: institucion residencial
+Y032,Agresion por colision de vehiculo de motor: escuelas, otras instituciones y areas administrativas
+Y033,Agresion por colision de vehiculo de motor: areas de deporte y atletismo
+Y034,Agresion por colision de vehiculo de motor: calles y carreteras
+Y035,Agresion por colision de vehiculo de motor: comercio y area de servicios
+Y036,Agresion por colision de vehiculo de motor: area industrial y de la construccion
+Y037,Agresion por colision de vehiculo de motor: granja
+Y038,Agresion por colision de vehiculo de motor: otro lugar especificado
+Y039,Agresion por colision de vehiculo de motor: lugar no especificado
+Y04,Agresion con fuerza corporal
+Y040,Agresion con fuerza corporal: vivienda
+Y041,Agresion con fuerza corporal: institucion residencial
+Y042,Agresion con fuerza corporal: escuelas, otras instituciones y areas administrativas
+Y043,Agresion con fuerza corporal: areas de deporte y atletismo
+Y044,Agresion con fuerza corporal: calles y carreteras
+Y045,Agresion con fuerza corporal: comercio y area de servicios
+Y046,Agresion con fuerza corporal: area industrial y de la construccion
+Y047,Agresion con fuerza corporal: granja
+Y048,Agresion con fuerza corporal: otro lugar especificado
+Y049,Agresion con fuerza corporal: lugar no especificado
+Y05,Agresion sexual con fuerza corporal
+Y050,Agresion sexual con fuerza corporal: vivienda
+Y051,Agresion sexual con fuerza corporal: institucion residencial
+Y052,Agresion sexual con fuerza corporal: escuelas, otras instituciones y areas administrativas
+Y053,Agresion sexual con fuerza corporal: areas de deporte y atletismo
+Y054,Agresion sexual con fuerza corporal: calles y carreteras
+Y055,Agresion sexual con fuerza corporal: comercio y area de servicios
+Y056,Agresion sexual con fuerza corporal: area industrial y de la construccion
+Y057,Agresion sexual con fuerza corporal: granja
+Y058,Agresion sexual con fuerza corporal: otro lugar especificado
+Y059,Agresion sexual con fuerza corporal: lugar no especificado
+Y06,Negligencia y abandono
+Y060,Neglicencia y abandono: por esposo o pareja
+Y061,Neglicencia y abandono: por padre o madre
+Y062,Neglicencia y abandono: por conocido o amigo
+Y068,Neglicencia y abandono: por otra persona especificada
+Y069,Neglicencia y abandono: por persona no especificada
+Y07,Otros sindromes de maltrato
+Y070,Otros sindromes de maltrato: por esposo o pareja
+Y071,Otros sindromes de maltrato: por padre o madre
+Y072,Otros sindromes de maltrato: por conocido o amigo
+Y073,Otros sindromes de maltrato: por autoridades oficiales
+Y078,Otros sindromes de maltrato: por otra persona especificada
+Y079,Otros sindromes de maltrato: por persona no especificada
+Y08,Agresion por otros medios especificados
+Y080,Agresion por otros medios especificados: vivienda
+Y081,Agresion por otros medios especificados: institucion residencial
+Y082,Agresion por otros medios especificados: escuelas, otras instituciones y areas administrativas
+Y083,Agresion por otros medios especificados: areas de deporte y atletismo
+Y084,Agresion por otros medios especificados: calles y carreteras
+Y085,Agresion por otros medios especificados: comercio y area de servicios
+Y086,Agresion por otros medios especificados: area industrial y de la construccion
+Y087,Agresion por otros medios especificados: granja
+Y088,Agresion por otros medios especificados: otro lugar especificado
+Y089,Agresion por otros medios especificados: lugar no especificado
+Y09,Agresion por medios no especificados
+Y090,Agresion por medios no especificados: vivienda
+Y091,Agresion por medios no especificados: institucion residencial
+Y092,Agresion por medios no especificados: escuelas otras instituciones y areas administrativas
+Y093,Agresion por medios no especificados: areas de deporte y atletismo
+Y094,Agresion por medios no especificados: calles y carreteras
+Y095,Agresion por medios no especificados: comercio y area de servicios
+Y096,Agresion por medios no especificados: area industrial y de la construccion
+Y097,Agresion por medios no especificados: granja
+Y098,Agresion por medios no especificados: otro lugar especificado
+Y099,Agresion por medios no especificados: lugar no especificado
+Y10,Envenenamiento por, y exposicion a analgesicos, antipireticos y antirreumaticos, de intencion no determinada
+Y100,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: vivienda
+Y101,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: institucion residencial
+Y102,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y103,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: areas de deporte y atletismo
+Y104,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: calles y carreteras
+Y105,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: comercio y area de servicios
+Y106,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: area industrial y de la construccion
+Y107,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: granja
+Y108,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: otro lugar especificado
+Y109,Envenenamiento por, y exposicion a analgesicos no narcoticos, antipireticos y antirreumaticos, de intencion no determinada: lugar no especificado
+Y11,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas no clasificadas en otra parte, de intencion no determinada
+Y110,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: vivienda
+Y111,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: institucion residencial
+Y112,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y113,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: areas de deporte y atletismo
+Y114,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: calles y carreteras
+Y115,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: comercio y area de servicios
+Y116,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: area industrial y de la construccion
+Y117,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: granja
+Y118,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: otro lugar especificado
+Y119,Envenenamiento por, y exposicion a drogas antiepilepticas, sedantes, hipnoticas, antiparkinsonianas y psicotropicas, no clasificadas en otra parte, de intencion no determinada: lugar no especificado
+Y12,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada
+Y120,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: vivienda
+Y121,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: institucion residencial
+Y122,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y123,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: areas de deporte y atletismo
+Y124,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: calles y carreteras
+Y125,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: comercio y area de servicios
+Y126,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: area industrial y de la construccion
+Y127,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: granja
+Y128,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: otro lugar especificado
+Y129,Envenenamiento por, y exposicion a narcoticos y psicodislepticos [alucinogenos], no clasificadas en otra parte, de intencion no determinada: lugar no especificado
+Y13,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada
+Y130,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: vivienda
+Y131,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: institucion residencial
+Y132,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y133,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: areas de deporte y atletismo
+Y134,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: calles y carreteras
+Y135,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: comercio y area de servicios
+Y136,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: area industrial y de la construccion
+Y137,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: granja
+Y138,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: otro lugar especificado
+Y139,Envenenamiento por, y exposicion a otras drogas que actuan sobre el sistema nervioso autonomo, de intencion no determinada: lugar no especificado
+Y14,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada
+Y140,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: vivienda
+Y141,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: institucion residencial
+Y142,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y143,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: areas de deporte y atletismo
+Y144,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: calles y carreteras
+Y145,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: comercio y area de servicios
+Y146,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: area industrial y de la construccion
+Y147,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: granja
+Y148,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: otro lugar especificado
+Y149,Envenenamiento por, y exposicion a otras drogas, medicamentos y sustancias biologicas, y las no especificadas, de intencion no determinada: lugar no especificado
+Y15,Envenenamiento por, y exposicion al alcohol intencion no determinada
+Y150,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: vivienda
+Y151,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: institucion residencial
+Y152,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y153,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: areas de deporte y atletismo
+Y154,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: calles y carreteras
+Y155,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: comercio y area de servicios
+Y156,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: area industrial y de la construccion
+Y157,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: granja
+Y158,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: otro lugar especificado
+Y159,Envenenamiento por, y exposicion al alcohol , de intencion no determinada: lugar no especificado
+Y16,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada
+Y160,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: vivienda
+Y161,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: institucion residencial
+Y162,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y163,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: areas de deporte y atletismo
+Y164,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: calles y carreteras
+Y165,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: comercio y area de servicios
+Y166,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: area industrial y de la construccion
+Y167,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: granja
+Y168,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: otro lugar especificado
+Y169,Envenenamiento por, y exposicion a disolventes organicos e hidrocarburos halogenados y sus vapores, de intencion no determinada: lugar no especificado
+Y17,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada
+Y170,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: vivienda
+Y171,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: institucion residencial
+Y172,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y173,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: areas de deporte y atletismo
+Y174,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: calles y carreteras
+Y175,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: comercio y area de servicios
+Y176,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: area industrial y de la construccion
+Y177,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: granja
+Y178,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: otro lugar especificado
+Y179,Envenenamiento por, y exposicion a otros gases y vapores, de intencion no determinada: lugar no especificado
+Y18,Envenenamiento por, y exposicion a plaguicidas de intencion no determinada
+Y180,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: vivienda
+Y181,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: institucion residencial
+Y182,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y183,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: areas de deporte y atletismo
+Y184,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: calles y carreteras
+Y185,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: comercio y area de servicios
+Y186,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: area industrial y de la construccion
+Y187,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: granja
+Y188,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: otro lugar especificado
+Y189,Envenenamiento por, y exposicion a plaguicidas, de intencion no determinada: lugar no especificado
+Y19,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada
+Y190,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: vivienda
+Y191,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: institucion residencial
+Y192,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y193,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: areas de deporte y atletismo
+Y194,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: calles y carreteras
+Y195,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: comercio y area de servicios
+Y196,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: area industrial y de la construccion
+Y197,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: granja
+Y198,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: otro lugar especificado
+Y199,Envenenamiento por, y exposicion a otros productos quimicos y sustancias nocivas, y los no especificados, de intencion no determinada: lugar no especificado
+Y20,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada
+Y200,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: vivienda
+Y201,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: institucion residencial
+Y202,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y203,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: areas de deporte y atletismo
+Y204,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: calles y carreteras
+Y205,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: comercio y area de servicios
+Y206,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: area industrial y de la construccion
+Y207,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: granja
+Y208,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: otro lugar especificado
+Y209,Ahorcamiento, estrangulamiento y sofocacion, de intencion no determinada: lugar no especificado
+Y21,Ahogamiento y sumersion de intencion no determinada
+Y210,Ahogamiento y sumersion, de intencion no determinada: vivienda
+Y211,Ahogamiento y sumersion, de intencion no determinada: institucion residencial
+Y212,Ahogamiento y sumersion, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y213,Ahogamiento y sumersion, de intencion no determinada: areas de deporte y atletismo
+Y214,Ahogamiento y sumersion, de intencion no determinada: calles y carreteras
+Y215,Ahogamiento y sumersion, de intencion no determinada: comercio y area de servicios
+Y216,Ahogamiento y sumersion, de intencion no determinada: area industrial y de la construccion
+Y217,Ahogamiento y sumersion, de intencion no determinada: granja
+Y218,Ahogamiento y sumersion, de intencion no determinada: otro lugar especificado
+Y219,Ahogamiento y sumersion, de intencion no determinada: lugar no especificado
+Y22,Disparo de arma corta de intencion no determinada
+Y220,Disparo de arma corta, de intencion no determinada: vivienda
+Y221,Disparo de arma corta, de intencion no determinada: institucion residencial
+Y222,Disparo de arma corta, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y223,Disparo de arma corta, de intencion no determinada: areas de deporte y atletismo
+Y224,Disparo de arma corta, de intencion no determinada: calles y carreteras
+Y225,Disparo de arma corta, de intencion no determinada: comercio y area de servicios
+Y226,Disparo de arma corta, de intencion no determinada: area industrial y de la construccion
+Y227,Disparo de arma corta, de intencion no determinada: granja
+Y228,Disparo de arma corta, de intencion no determinada: otro lugar especificado
+Y229,Disparo de arma corta, de intencion no determinada: lugar no especificado
+Y23,Disparo de rifle, escopeta y arma larga, de intencion no determinada
+Y230,Disparo de rifle, escopeta y arma larga, de intencion no determinada: vivienda
+Y231,Disparo de rifle, escopeta y arma larga, de intencion no determinada: institucion residencial
+Y232,Disparo de rifle, escopeta y arma larga, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y233,Disparo de rifle, escopeta y arma larga, de intencion no determinada: areas de deporte y atletismo
+Y234,Disparo de rifle, escopeta y arma larga, de intencion no determinada: calles y carreteras
+Y235,Disparo de rifle, escopeta y arma larga, de intencion no determinada: comercio y area de servicios
+Y236,Disparo de rifle, escopeta y arma larga, de intencion no determinada: area industrial y de la construccion
+Y237,Disparo de rifle, escopeta y arma larga, de intencion no determinada: granja
+Y238,Disparo de rifle, escopeta y arma larga, de intencion no determinada: otro lugar especificado
+Y239,Disparo de rifle, escopeta y arma larga, de intencion no determinada: lugar no especificado
+Y24,Disparo de otras armas de fuego y las no especificadas, de intencion no determinada
+Y240,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: vivienda
+Y241,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: institucion residencial
+Y242,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y243,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: areas de deporte y atletismo
+Y244,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: calles y carreteras
+Y245,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: comercio y area de servicios
+Y246,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: area industrial y de la construccion
+Y247,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: granja
+Y248,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: otro lugar especificado
+Y249,Disparo de otras armas de fuego, y las no especificadas, de intencion no determinada: lugar no especificado
+Y25,Contacto traumatico con material explosivo, de intencion no determinada
+Y250,Contacto traumatico con material explosivo, de intencion no determinada: vivienda
+Y251,Contacto traumatico con material explosivo, de intencion no determinada: institucion residencial
+Y252,Contacto traumatico con material explosivo, de intencion no determinada: escuelas otras instituciones y areas administrativas
+Y253,Contacto traumatico con material explosivo, de intencion no determinada: areas de deporte y atletismo
+Y254,Contacto traumatico con material explosivo, de intencion no determinada: calles y carreteras
+Y255,Contacto traumatico con material explosivo, de intencion no determinada: comercio y area de servicios
+Y256,Contacto traumatico con material explosivo, de intencion no determinada: area industrial y de la construccion
+Y257,Contacto traumatico con material explosivo, de intencion no determinada: granja
+Y258,Contacto traumatico con material explosivo, de intencion no determinada: otro lugar especificado
+Y259,Contacto traumatico con material explosivo, de intencion no determinada: lugar no especificado
+Y26,Exposicion a humo, fuego y llamas, de intencion no determinada
+Y260,Exposicion al humo, fuego y llamas, de intencion no determinada: vivienda
+Y261,Exposicion al humo, fuego y llamas, de intencion no determinada: institucion residencial
+Y262,Exposicion al humo, fuego y llamas, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y263,Exposicion al humo, fuego y llamas, de intencion no determinada: areas de deporte y atletismo
+Y264,Exposicion al humo, fuego y llamas, de intencion no determinada: calles y carreteras
+Y265,Exposicion al humo, fuego y llamas, de intencion no determinada: comercio y area de servicios
+Y266,Exposicion al humo, fuego y llamas, de intencion no determinada: area industrial y de la construccion
+Y267,Exposicion al humo, fuego y llamas, de intencion no determinada: granja
+Y268,Exposicion al humo, fuego y llamas, de intencion no determinada: otro lugar especificado
+Y269,Exposicion al humo, fuego y llamas, de intencion no determinada: lugar no especificado
+Y27,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada
+Y270,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: vivienda
+Y271,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: institucion residencial
+Y272,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y273,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: areas de deporte y atletismo
+Y274,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: calles y carreteras
+Y275,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: comercio y area de servicios
+Y276,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: area industrial y de la construccion
+Y277,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: granja
+Y278,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: otro lugar especificado
+Y279,Contacto con vapor de agua, vapores y objetos calientes, de intencion no determinada: lugar no especificado
+Y28,Contacto traumatico con objeto cortante, de intencion no determinada
+Y280,Contacto traumatico con objeto cortante, de intencion no determinada: vivienda
+Y281,Contacto traumatico con objeto cortante, de intencion no determinada: institucion residencial
+Y282,Contacto traumatico con objeto cortante, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y283,Contacto traumatico con objeto cortante, de intencion no determinada: areas de deporte y atletismo
+Y284,Contacto traumatico con objeto cortante, de intencion no determinada: calles y carreteras
+Y285,Contacto traumatico con objeto cortante, de intencion no determinada: comercio y area de servicios
+Y286,Contacto traumatico con objeto cortante, de intencion no determinada: area industrial y de la construccion
+Y287,Contacto traumatico con objeto cortante, de intencion no determinada: granja
+Y288,Contacto traumatico con objeto cortante, de intencion no determinada: otro lugar especificado
+Y289,Contacto traumatico con objeto cortante, de intencion no determinada: lugar no especificado
+Y29,Contacto traumatico con objeto romo sin filo, de intencion no determinada
+Y290,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: vivienda
+Y291,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: institucion residencial
+Y292,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y293,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: areas de deporte y atletismo
+Y294,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: calles y carreteras
+Y295,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: comercio y area de servicios
+Y296,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: area industrial y de la construccion
+Y297,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: granja
+Y298,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: otro lugar especificado
+Y299,Contacto traumatico con objeto romo o sin filo, de intencion no determinada: lugar no especificado
+Y30,Caida, salto o empujon desde lugar elevado, de intencion no determinada
+Y300,Caida, salto o empujon desde lugar elevado, de intencion no determinada: vivienda
+Y301,Caida, salto o empujon desde lugar elevado, de intencion no determinada: institucion residencial
+Y302,Caida, salto o empujon desde lugar elevado, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y303,Caida, salto o empujon desde lugar elevado, de intencion no determinada: areas de deporte y atletismo
+Y304,Caida, salto o empujon desde lugar elevado, de intencion no determinada: calles y carreteras
+Y305,Caida, salto o empujon desde lugar elevado, de intencion no determinada: comercio y area de servicios
+Y306,Caida, salto o empujon desde lugar elevado, de intencion no determinada: area industrial y de la construccion
+Y307,Caida, salto o empujon desde lugar elevado, de intencion no determinada: granja
+Y308,Caida, salto o empujon desde lugar elevado, de intencion no determinada: otro lugar especificado
+Y309,Caida, salto o empujon desde lugar elevado, de intencion no determinada: lugar no especificado
+Y31,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada
+Y310,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: vivienda
+Y311,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: institucion residencial
+Y312,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y313,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: areas de deporte y atletismo
+Y314,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: calles y carreteras
+Y315,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: comercio y area de servicios
+Y316,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: area industrial y de la construccion
+Y317,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: granja
+Y318,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: otro lugar especificado
+Y319,Caida, permanencia o carrera delante o hacia objeto en movimiento, de intencion no determinada: lugar no especificado
+Y32,Colision de vehiculo de motor de intencion no determinadas
+Y320,Colision de vehiculo de motor, de intencion no determinada: vivienda
+Y321,Colision de vehiculo de motor, de intencion no determinada: institucion residencial
+Y322,Colision de vehiculo de motor, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y323,Colision de vehiculo de motor, de intencion no determinada: areas de deporte y atletismo
+Y324,Colision de vehiculo de motor, de intencion no determinada: calles y carreteras
+Y325,Colision de vehiculo de motor, de intencion no determinada: comercio y area de servicios
+Y326,Colision de vehiculo de motor, de intencion no determinada: area industrial y de la construccion
+Y327,Colision de vehiculo de motor, de intencion no determinada: granja
+Y328,Colision de vehiculo de motor, de intencion no determinada: otro lugar especificado
+Y329,Colision de vehiculo de motor, de intencion no determinada: lugar no especificado
+Y33,Otros eventos especificados de intencion no determinada
+Y330,Otros eventos especificados, de intencion no determinada: vivienda
+Y331,Otros eventos especificados, de intencion no determinada: institucion residencial
+Y332,Otros eventos especificados, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y333,Otros eventos especificados, de intencion no determinada: areas de deporte y atletismo
+Y334,Otros eventos especificados, de intencion no determinada: calles y carreteras
+Y335,Otros eventos especificados, de intencion no determinada: comercio y area de servicios
+Y336,Otros eventos especificados, de intencion no determinada: area industrial y de la construccion
+Y337,Otros eventos especificados, de intencion no determinada: granja
+Y338,Otros eventos especificados, de intencion no determinada: otro lugar especificado
+Y339,Otros eventos especificados, de intencion no determinada: lugar no especificado
+Y34,Evento no especificado de intencion no determinada
+Y340,Evento no especificado, de intencion no determinada: vivienda
+Y341,Evento no especificado, de intencion no determinada: institucion residencial
+Y342,Evento no especificado, de intencion no determinada: escuelas, otras instituciones y areas administrativas
+Y343,Evento no especificado, de intencion no determinada: areas de deporte y atletismo
+Y344,Evento no especificado, de intencion no determinada: calles y carreteras
+Y345,Evento no especificado, de intencion no determinada: comercio y area de servicios
+Y346,Evento no especificado, de intencion no determinada: area industrial y de la construccion
+Y347,Evento no especificado, de intencion no determinada: granja
+Y348,Evento no especificado, de intencion no determinada: otro lugar especificado
+Y349,Evento no especificado, de intencion no determinada: lugar no especificado
+Y35,Intervencion legal
+Y350,Intervencion legal con disparo de arma de fuego
+Y351,Intervencion legal con explosivos
+Y352,Intervencion legal con gas
+Y353,Intervencion legal con objetos romos o sin filo
+Y354,Intervencion legal con objetos cortantes
+Y355,Ejecucion legal
+Y356,Intervencion legal con otros medios especificados
+Y357,Intervencion legal, medios no especificados
+Y36,Operaciones de guerra
+Y360,Operaciones de guerra con explosion de armamento naval
+Y361,Operaciones de guerra con destruccion de aeronave
+Y362,Operaciones de guerra con otras explosiones y esquirlas
+Y363,Operaciones de guerra con fuego y sustancias incendiarias y calientes
+Y364,Operaciones de guerra con disparo de arma de fuego y otras formas de guerra convencional
+Y365,Operaciones de guerra con armas nucleares
+Y366,Operaciones de guerra con armas biologicas
+Y367,Operaciones de guerra con armas quimicas y otras formas de guerra no convencional
+Y368,Operaciones de guerra que ocurren despues del cese de hostilidades
+Y369,Operacion de guerra no especificada
+Y40,Efectos adversos de antibioticos sistemicos
+Y400,Efectos adversos de penicilinas
+Y401,Efectos adversos de cefalosporinas y otros antibioticos betalactamicos
+Y402,Efectos adversos del grupo de cloramfenicol
+Y403,Efectos adversos de los macrolidos
+Y404,Efectos adversos de tetraciclinas
+Y405,Efectos adversos de aminoglicosidos
+Y406,Efectos adversos de rifamicinas
+Y407,Efectos adversos de antibioticos antimicoticos usados sistematicamente
+Y408,Efectos adversos de otros antibioticos sistemicos
+Y409,Efectos adversos de antibiotico sistemico no especificado
+Y41,Efectos adversos de otros antiinfecciosos y antiparasitarios sistemicos
+Y410,Efectos adversos de sulfonamidas
+Y411,Efectos adversos de drogas antimicobacterianas
+Y412,Efectos adversos de drogas antipaludicas y agentes que actuan sobre otros protozoarios de la sangre
+Y413,Efectos adversos de otras drogas antiprotozoarias
+Y414,Efectos adversos de antihelminticos
+Y415,Efectos adversos de drogas antivirales
+Y418,Efectos adversos de otros antiinfecciosos y antiparasitarios sistemicos especificados
+Y419,Efectos adversos de antiinfecciosos y antiparasitarios sistemicos no especificados
+Y42,Efectos adversos de hormonas sustitutos sinteticos y antagonistas, no clasificadas en otra parte
+Y420,Efectos adversos de glucocorticoides y analogos sinteticos
+Y421,Efectos adversos de hormonas tiroideas y sustitutos
+Y422,Efectos adversos de drogas antitiroideas
+Y423,Efectos adversos de drogas hipoglucemiantes orales e insulina [antidiabeticas]
+Y424,Efectos adversos de anticonceptivos orales
+Y425,Efectos adversos de otros estrogenos y progestagenos
+Y426,Efectos adversos de antigonadotropinas, antiestrogenos y antiandrogenos, no clasificados en otra parte
+Y427,Efectos adversos de androgenos y congeneres anabolicos
+Y428,Efectos adversos de otras hormonas y sus sustitutos sinteticos, y las no especificadas
+Y429,Efectos adversos de otras hormonas antagonistas, y las no especificadas
+Y43,Efectos adversos de agentes sistemicos primarios
+Y430,Efectos adversos de antialergicos y antiemeticos
+Y431,Efectos adversos de antimetabolitos antineoplasicos
+Y432,Efectos adversos de productos naturales antineoplasicos
+Y433,Efectos adversos de otras drogas antineoplasicas
+Y434,Efectos adversos de agentes inmunosupresores
+Y435,Efectos adversos de agentes acidificantes y alcalinizantes
+Y436,Efectos adversos de enzimas no clasificadas en otra parte
+Y438,Efectos adversos de otros agentes sistemicos primarios no clasificados en otra parte
+Y439,Efectos adversos de agente sistemico primario no especificado
+Y44,Efectos adversos de agent es que afectan primariamente los constituyentes de la sangre
+Y440,Efectos adversos de preparaciones con hierro y otros preparados contra la anemia hipocromica
+Y441,Efectos adversos de vitamina b12, acido folico y otros preparados contra la anemia megaloblastica
+Y442,Efectos adversos de anticoagulantes
+Y443,Efectos adversos de antagonistas de anticoagulantes, vitamina k y otros coagulantes
+Y444,Efectos adversos de drogas antitromboticas [inhibidoras de la agregacion plaquetaria]
+Y445,Efectos adversos de drogas tromboliticas
+Y446,Efectos adversos de sangre natural y productos sanguineos
+Y447,Efectos adversos de los sustitutos del plasma
+Y449,Efectos adversos de otros agentes que afectan los constituyentes de la sangre, y los no especificados
+Y45,Efectos adversos de drogas analgesicas, antipireticas y antiinflamatorias
+Y450,Efectos adversos de opiaceos y analgesicos relacionados
+Y451,Efectos adversos de salicilatos
+Y452,Efectos adversos de derivados del acido propionico
+Y453,Efectos adversos de otras drogas antiinflamatorias no esteroides [daine]
+Y454,Efectos adversos de los antirreumaticos
+Y455,Efectos adversos de los derivados del 4
+Y458,Efectos adversos de otros analgesicos y antipireticos
+Y459,Efectos adversos de drogas analgesicas, antipireticas y antiinflamatorias no especificadas
+Y46,Efectos adversos de drogas antiepilepticas y antiparkinsonianas
+Y460,Efectos adversos de succinamidas
+Y461,Efectos adversos de oxazolidinadionas
+Y462,Efectos adversos de derivados de la hidantoina
+Y463,Efectos adversos de desoxibarbituricos
+Y464,Efectos adversos de iminoestilbenos
+Y465,Efectos adversos del acido valproico
+Y466,Efectos adversos de otros antiepilepticos, y los no especificados
+Y467,Efectos adversos de drogas antiparkinsonianas
+Y468,Efectos adversos de drogas antiespasticas
+Y47,Efectos adversos de drogas sedantes, hipnoticas y ansioliticas
+Y470,Efectos adversos de barbituricos, no clasificados en otra parte
+Y471,Efectos adversos de benzodiazepinas
+Y472,Efectos adversos de derivados clorales
+Y473,Efectos adversos de paraldehido
+Y474,Efectos adversos de compuestos de bromo
+Y475,Efectos adversos de mezclas sedantes e hipnoticas, no clasificadas en otra parte
+Y478,Efectos adversos de otras drogas sedantes, hipnoticas y ansioliticas
+Y479,Efectos adversos de drogas sedantes, hipnoticas y ansioliticas no especificadas
+Y48,Efectos adversos de gases anestesicos y terapeuticos
+Y480,Efectos adversos de gases anestesicos por inhalacion
+Y481,Efectos adversos de gases anestesicos parenterales
+Y482,Efectos adversos de otros gases anestesicos generales, y los no especificados
+Y483,Efectos adversos de gases anestesicos locales
+Y484,Efectos adversos de anestesicos no especificados
+Y485,Efectos adversos de gases terapeuticos
+Y49,Efectos adversos de drogas psicotropicas no clasificadas en otra parte
+Y490,Efectos adversos de antidepresivos triciclicos y tetraciclicos
+Y491,Efectos adversos de antidepresivos inhibidores de la monoaminooxidasa
+Y492,Efectos adversos de otros antidepresivos y los no especificados
+Y493,Efectos adversos de antipsicoticos y neurolepticos fenotiazinicos
+Y494,Efectos adversos de neurolepticos de la butirofenona y tioxantina
+Y495,Efectos adversos de otros antipsicoticos y neurolepticos
+Y496,Efectos adversos de psicodislepticos [alucinogenos]
+Y497,Efectos adversos de psicoestimulantes con abuso potencial
+Y498,Efectos adversos de otras drogas psicotropicas, no clasificadas en otra parte
+Y499,Efectos adversos de drogas psicotropicas no especificadas
+Y50,Efectos adversos de estimulantes del sistema nervioso central, no clasificadas en otra parte
+Y500,Efectos adversos de analepticos
+Y501,Efectos adversos de antagonistas de opiaceos
+Y502,Efectos adversos de metilxantinas, no clasificadas en otra parte
+Y508,Efectos adversos de otros estimulantes del sistema nervioso central
+Y509,Efectos adversos de estimulante no especificado del sistema nervioso central
+Y51,Efectos adversos de drogas que afectan primariamente el sistema nervioso autonomo
+Y510,Efectos adversos de agentes anticolinesterasa
+Y511,Efectos adversos de otros parasimpaticomimeticos [colinergicos]
+Y512,Efectos adversos de drogas bloqueadoras ganglionares, no clasificadas en otra parte
+Y513,Efectos adversos de otros parasimpaticoliticos [anticolinergicos y antimuscarinicos] y espasmoliticos, no clasificados en otra parte
+Y514,Efectos adversos de agonistas [estimulantes] predominantemente alfa
+Y515,Efectos adversos de agonistas [estimulantes] predominantemente beta
+Y516,Efectos adversos de antagonistas [bloqueadores] alfa
+Y517,Efectos adversos de antagonistas [bloqueadores] beta
+Y518,Efectos adversos de agentes bloqueadores neuro
+Y519,Efectos adversos de otras drogas que afectan primariamente el sistema nervioso autonomo, y las no especificadas
+Y52,Efectos adversos de agentes que afectan el sistema cardiovascular
+Y520,Efectos adversos de glucosidos cardiotonicos y drogas de accion similar
+Y521,Efectos adversos de bloqueadores del canal del calcio
+Y522,Efectos adversos de otras drogas antiarritmicas, no clasificadas en otras partes
+Y523,Efectos adversos de vasodilatadores coronarios, no clasificados en otras partes
+Y524,Efectos adversos de inhibidores de la enzima convertidora de angiotensina
+Y525,Efectos adversos de otras drogas antihipertensivas, no clasificadas en otra parte
+Y526,Efectos adversos de drogas antihiperlipidemicas y antiarterioscleroticas
+Y527,Efectos adversos de vasodilatadores perifericos
+Y528,Efectos adversos de drogas antivaricosas, inclusive agentes esclerosantes
+Y529,Efectos adversos de otros agentes que afectan primariamente el sistema cardiovascular, y los no especificados
+Y53,Efectos adversos de agentes que afectan primariamente el sistema gastrointestinal
+Y530,Efectos adversos de bloqueadores de los receptores h2 de histamina
+Y531,Efectos adversos de otras drogas antiacidas e inhibidoras de la secrecion gastrica
+Y532,Efectos adversos de laxantes estimulantes
+Y533,Efectos adversos de laxantes salinos y osmoticos
+Y534,Efectos adversos de otros laxantes
+Y535,Efectos adversos de digestivos
+Y536,Efectos adversos de drogas antidiarreicas
+Y537,Efectos adversos de emeticos
+Y538,Efectos adversos de otros agentes que afectan primariamente el sistema gastrointestinal
+Y539,Efectos adversos de agentes que afectan primariamente el sistema gastrointestinal, no especificados
+Y54,Efectos adversos de agentes que afectan primariamente el equilibrio hidrico y el metabolismo mineral y del acido urico
+Y540,Efectos adversos de mineralocorticoides
+Y541,Efectos adversos de los bloqueadores de mineralocorticoides [antagonistas de la aldosterona]
+Y542,Efectos adversos de los inhibidores de la anhidrasa carbonica
+Y543,Efectos adversos de los derivados de la benzotiadiazina
+Y544,Efectos adversos de diureticos de asa [high
+Y545,Efectos adversos de otros diureticos
+Y546,Efectos adversos de agentes electroliticos, caloricos y del equilibrio hidrico
+Y547,Efectos adversos de agentes que afectan la calcificacion
+Y548,Efectos adversos de agentes que afectan el metabolismo del acido urico
+Y549,Efectos adversos de sales minerales no clasificadas en otra parte
+Y55,Efectos adversos de agentes topicos que actuan primariamente sobre los musculos lisos y estriados y sobre el sistema respiratorio
+Y550,Efectos adversos de drogas oxitocicas
+Y551,Efectos adversos de relajantes de los musculos estriados [agentes bloqueadores neuromusculares]
+Y552,Efectos adversos de otros agentes que actuan primariamente sobre los musculos, y los no especificados
+Y553,Efectos adversos de antitusigenos
+Y554,Efectos adversos de expectorantes
+Y555,Efectos adversos de drogas contra el resfriado comun
+Y556,Efectos adversos de antiasmaticos, no clasificados en otra parte
+Y557,Efectos adversos de otros agentes que actuan primariamente sobre el sistema respiratorio, y los no especificados
+Y56,Efectos adversos de agentes topicos que afectan primariamente la piel y las membranas mucosas, y drogas oftalmologicas, otorrinolaringologicas y dentales
+Y560,Efectos adversos de drogas antimicoticas, antiinfecciosas y antiinflamatorias de uso local, no clasificadas en otra parte
+Y561,Efectos adversos de antipruriginosos
+Y562,Efectos adversos de astringentes y detergentes locales
+Y563,Efectos adversos de emolientes, demulcentes y protectores
+Y564,Efectos adversos de drogas y preparados queratoliticos, queratoplasticos y otros para el tratamiento del cabello
+Y565,Efectos adversos de drogas y preparados oftalmologicos
+Y566,Efectos adversos de drogas y preparados otorrinolaringologicos
+Y567,Efectos adversos de drogas dentales, de aplicacion topica
+Y568,Efectos adversos de otros agentes topicos
+Y569,Efectos adversos de otros agentes topicos no especificados
+Y57,Efectos adversos de otras drogas y medicamentos, y no especificados
+Y570,Efectos adversos de depresores del apetito [anorexicos]
+Y571,Efectos adversos de drogas lipotropicas
+Y572,Efectos adversos de antidotos y agentes quelantes, no clasificados en otra parte
+Y573,Efectos adversos de disuasivos del alcohol
+Y574,Efectos adversos de excipientes farmaceuticos
+Y575,Efectos adversos de medios de contraste para rayos x
+Y576,Efectos adversos de otros agentes diagnosticos
+Y577,Efectos adversos de vitaminas, no clasificadas en otra parte
+Y578,Efectos adversos de otras drogas y medicamentos
+Y579,Efectos adversos de drogas y medicamentos no especificados
+Y58,Efectos adversos de vacunas bacterianas
+Y580,Efectos adversos de la vacuna bcg
+Y581,Efectos adversos de la vacuna tifoidea y paratifoidea
+Y582,Efectos adversos de la vacuna contra el colera
+Y583,Efectos adversos de la vacuna contra la peste
+Y584,Efectos adversos de la vacuna contra el tetanos
+Y585,Efectos adversos de la vacuna contra la difteria
+Y586,Efectos adversos de la vacuna contra la tos ferina, inclusive combinaciones con un componente pertusis
+Y588,Efectos adversos de vacunas bacterianas mixtas, excepto combinaciones con un componente pertusis
+Y589,Efectos adversos de otras vacunas bacterianas, y las no especificadas
+Y59,Efectos adversos de otras vacunas y sustancias biologicas y las no especificadas
+Y590,Efectos adversos de vacunas virales
+Y591,Efectos adversos de vacunas contra rickettsias
+Y592,Efectos adversos de vacunas antiprotozoarias
+Y593,Efectos adversos de la inmunoglobulina
+Y598,Efectos adversos de otras vacunas y sustancias biologicas especificadas
+Y599,Efectos adversos de otras vacunas o sustancias biologicas no especificadas
+Y60,Corte, puncion, perforacion o hemorragia no intencional durante la atencion medica y quirurgica
+Y600,Incidente durante operacion quirurgica
+Y601,Incidente durante infusion o transfusion
+Y602,Incidente durante dialisis renal u otra perfusion
+Y603,Incidente durante inyeccion o inmunizacion
+Y604,Incidente durante examen endoscopico
+Y605,Incidente durante cateterizacion cardiaca
+Y606,Incidente durante aspiracion, puncion y otra cateterizacion
+Y607,Incidente durante administracion de enema
+Y608,Incidente durante otras atenciones medicas y quirurgicas
+Y609,Incidente durante atencion medica y quirurgica no especificada
+Y61,Objeto extraño dejado accidentalmente en el cuerpo durante la atencion medica y quirurgica
+Y610,Objeto extraño dejado accidentalmente en el cuerpo durante operacion quirurgica
+Y611,Objeto extraño dejado accidentalmente en el cuerpo durante infusion o transfusion
+Y612,Objeto extraño dejado accidentalmente en el cuerpo durante dialisis renal u otra perfusion
+Y613,Objeto extraño dejado accidentalmente en el cuerpo durante inyeccion o inmunizacion
+Y614,Objeto extraño dejado accidentalmente en el cuerpo durante examen endoscopico
+Y615,Objeto extraño dejado accidentalmente en el cuerpo durante cateterizacion cardiaca
+Y616,Objeto extraño dejado accidentalmente en el cuerpo durante aspiracion, puncion y otra cateterizacion
+Y617,Objeto extraño dejado accidentalmente en el cuerpo durante remocion de cateter o taponamiento
+Y618,Objeto extraño dejado accidentalmente en el cuerpo durante otras atenciones medicas y quirurgicas
+Y619,Objeto extraño dejado accidentalmente en el cuerpo durante atencion medica y quirurgica no especificada
+Y62,Fallas en la esterilizacion durante la atencion medica y quirurgica
+Y620,Fallas en la esterilizacion durante operacion quirurgica
+Y621,Fallas en la esterilizacion durante infusion o transfusion
+Y622,Fallas en la esterilizacion durante dialisis renal u otra perfusion
+Y623,Fallas en la esterilizacion durante inyeccion o inmunizacion
+Y624,Fallas en la esterilizacion durante examen endoscopico
+Y625,Fallas en la esterilizacion durante cateterizacion cardiaca
+Y626,Fallas en la esterilizacion durante aspiracion, puncion y otra cateterizacion
+Y628,Fallas en la esterilizacion durante otras atenciones medicas y quirurgicas
+Y629,Fallas en la esterilizacion durante atencion medica y quirurgica no especificada
+Y63,Falla en dosificacion durante la atencion medica y quirurgica
+Y630,Excesiva cantidad de sangre u otro liquido administrado durante una infusion o transfusion
+Y631,Dilucion incorrecta de liquido durante una infusion
+Y632,Sobredosis de radiacion administrada durante terapia
+Y633,Exposicion inadvertida del paciente a radiacion durante la atencion medica
+Y634,Falla en la dosificacion en electrochoque o en choque insulinico
+Y635,Falla en el control de la temperatura, en taponamientos y aplicaciones locales
+Y636,No administracion de drogas, medicamentos o sustancias biologicas necesarias
+Y638,Falla en la dosificacion durante otras atenciones medicas y quirurgicas
+Y639,Falla en la dosificacion durante atencion medica y quirurgica no especificada
+Y64,Medicamentos y sustancias biologicas contaminados
+Y640,Medicamento o sustancia biologica contaminado en infusion o transfusion
+Y641,Medicamento o sustancia biologica contaminado, inyectado o usado para inmunizacion
+Y648,Medicamento o sustancia biologica contaminado, administrado por otros medios
+Y649,Medicamento o sustancia biologica contaminado, administrado por medios no especificados
+Y65,Otros incidentes durante la atencion medica y quirurgica
+Y650,Sangre incompatible usada en transfusion
+Y651,Liquido erroneo usado en infusion
+Y652,Falla en la sutura o ligadura durante operacion quirurgica
+Y653,Tubo endotraqueal colocado erroneamente durante procedimiento anestesico
+Y654,Falla en la introduccion o remocion de otro tubo o instrumento
+Y655,Realizacion de una operacion inadecuada
+Y658,Otros incidentes especificados durante la atencion medica y quirurgica
+Y66,No administracion de la atencion medica y quirurgica
+Y69,Incidentes no especificados durante la atencion medica y quirurgica
+Y70,Dispositivos de anestesiologia, asociados con incidentes adversos
+Y700,Dispositivos de anestesiologia asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y701,Dispositivos de anestesiologia asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y702,Dispositivos de anestesiologia asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y703,Dispositivos de anestesiologia asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y708,Dispositivos de anestesiologia asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y71,Dispositivos cardiovasculares, asociados con incidentes adversos
+Y710,Dispositivos cardiovasculares asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y711,Dispositivos cardiovasculares asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y712,Dispositivos cardiovasculares asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y713,Dispositivos cardiovasculares asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y718,Dispositivos cardiovasculares asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y72,Dispositivos otorrinolaringologicos, asociados con incidentes adversos
+Y720,Dispositivos otorrinolaringologicos asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y721,Dispositivos otorrinolaringologicos asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y722,Dispositivos otorrinolaringologicos asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y723,Dispositivos otorrinolaringologicos asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y728,Dispositivos otorrinolaringologicos asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y73,Dispositivos de gastroenterologia y urologia, asociados con incidentes adversos
+Y730,Dispositivos de gastroenterologia y urologia asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y731,Dispositivos de gastroenterologia y urologia asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y732,Dispositivos de gastroenterologia y urologia asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y733,Dispositivos de gastroenterologia y urologia asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y738,Dispositivos de gastroenterologia y urologia asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y74,Dispositivos para uso hospitalario general y personal, asociados con incidentes adversos
+Y740,Dispositivos para uso hospitalario general y personal asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y741,Dispositivos para uso hospitalario general y personal asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y742,Dispositivos para uso hospitalario general y personal asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y743,Dispositivos para uso hospitalario general y personal asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y748,Dispositivos para uso hospitalario general y personal asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y75,Dispositivos os neurologicos asociados con incidentes adversos
+Y750,Dispositivos neurologicos asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y751,Dispositivos neurologicos asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y752,Dispositivos neurologicos asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y753,Dispositivos neurologicos asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y758,Dispositivos neurologicos asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y76,Dispositivos ginecologicos y obstetricos, asociados con incidentes adversos
+Y760,Dispositivos ginecologicos y obstetricos asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y761,Dispositivos ginecologicos y obstetricos asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y762,Dispositivos ginecologicos y obstetricos asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y763,Dispositivos ginecologicos y obstetricos asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y768,Dispositivos ginecologicos y obstetricos asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y77,Dispositivos oftalmicos, asociados con incidentes adversos
+Y770,Dispositivos oftalmicos asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y771,Dispositivos oftalmicos asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y772,Dispositivos oftalmicos asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y773,Dispositivos oftalmicos asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y778,Dispositivos oftalmicos asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y78,Aparatos radiologicos, asociados con incidentes adversos
+Y780,Aparatos radiologicos asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y781,Aparatos radiologicos asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y782,Aparatos radiologicos asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y783,Aparatos radiologicos asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y788,Aparatos radiologicos asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y79,Dispositivos ortopedicos, asociados con incidentes adversos
+Y790,Dispositivos ortopedicos asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y791,Dispositivos ortopedicos asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y792,Dispositivos ortopedicos asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y793,Dispositivos ortopedicos asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y798,Dispositivos ortopedicos asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y80,Aparatos de medicina fisica, asociados con incidentes adversos
+Y800,Aparatos de medicina fisica asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y801,Aparatos de medicina fisica asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y802,Aparatos de medicina fisica asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y803,Aparatos de medicina fisica asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y808,Aparatos de medicina fisica asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y81,Dispositivos de cirugia general y plastica, asociados con incidentes adversos
+Y810,Dispositivos de cirugia general y plastica asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y811,Dispositivos de cirugia general y plastica asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y812,Dispositivos de cirugia general y plastica asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y813,Dispositivos de cirugia general y plastica asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y818,Dispositivos de cirugia general y plastica asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y82,Otros dispositivos medicos y los no especificados, asociados con incidentes adversos
+Y820,Otros dispositivos medicos, y los no especificados, asociados con incidentes adversos: dispositivos de diagnostico y monitoreo
+Y821,Otros dispositivos medicos, y los no especificados, asociados con incidentes adversos: dispositivos terapeuticos (no quirurgicos) y de rehabilitacion
+Y822,Otros dispositivos medicos, y los no especificados, asociados con incidentes adversos: dispositivos protesicos y otros implantes, materiales y accesorios
+Y823,Otros dispositivos medicos, y los no especificados, asociados con incidentes adversos: instrumentos quirurgicos, dispositivos y materiales (inclusive suturas)
+Y828,Otros dispositivos medicos, y los no especificados, asociados con incidentes adversos: dispositivos diversos, no clasificados en otra parte
+Y83,Cirugia y otros procedimientos quirurgicos, como la causa de reaccion anormal del paciente o de complicacion posterior, sin mencion de incidente en el momento de efectuar el procedimiento
+Y830,Operacion quirurgica con trasplante de un organo completo
+Y831,Operacion quirurgica con implante de un dispositivo artificial interno
+Y832,Operacion quirurgica con anastomosis, derivacion o injerto
+Y833,Operacion quirurgica con formacion de estoma externo
+Y834,Otra cirugia reconstructiva
+Y835,Amputacion de miembro(s)
+Y836,Remocion de otro organo (parcial) (total)
+Y838,Otros procedimientos quirurgicos
+Y839,Procedimiento quirurgico no especificado
+Y84,Otros procedimientos medicos, como la causa de reaccion anormal del paciente o de complicacion posterior, sin mencion de incidente en el momento de efectuar le procedimiento
+Y840,Cateterizacion cardiaca
+Y841,Dialisis renal
+Y842,Procedimiento radiologico y radioterapia
+Y843,Terapia por choque
+Y844,Aspiracion de liquidos
+Y845,Insercion de sonda gastrica o duodenal
+Y846,Cateterizacion urinaria
+Y847,Muestra de sangre
+Y848,Otros procedimientos medicos
+Y849,Procedimiento medico no especificado
+Y85,Secuelas de accidente de transporte
+Y850,Secuelas de accidente de vehiculo de motor
+Y859,Secuelas de otros accidentes de transporte, y los no especificados
+Y86,Secuelas de otros accidentes
+Y87,Secuelas de lesiones autoinfligidas intencionalmente, agresiones y eventos de intencion no determinada
+Y870,Secuelas de lesiones autoinfligidas
+Y871,Secuelas de agresiones
+Y872,Secuelas de eventos de intencion no determinada
+Y88,Secuelas con atencion medica y quirurgica como causa externa
+Y880,Secuelas de efectos adversos causados por drogas, medicamentos y sustancias biologicas en su uso terapeutico
+Y881,Secuelas de incidentes ocurridos al paciente durante procedimientos medicos y quirurgicos
+Y882,Secuelas de incidentes adversos asociados con dispositivos medicos en uso diagnostico y terapeutico
+Y883,Secuelas de procedimientos medicos y quirurgicos como la causa de reaccion anormal del paciente o de complicacion posterior, sin mencion de incidente en el momento de efectuar el procedimiento
+Y89,Secuelas de otras causas externas
+Y890,Secuelas de intervencion legal
+Y891,Secuelas de operaciones de guerra
+Y899,Secuelas de causa externa no especificada
+Y90,Evidencia alcoholismo determinada por el nivel de alcohol en la sangre
+Y900,Nivel de alcohol en la sangre menor de 20 mg/100 ml
+Y901,Nivel de alcohol en la sangre de 20 a 39 mg/100 ml
+Y902,Nivel de alcohol en la sangre de 40 a 59 mg/100 ml
+Y903,Nivel de alcohol en la sangre de 60 a 79 mg/100 ml
+Y904,Nivel de alcohol en la sangre de 80 a 99 mg/100 ml
+Y905,Nivel de alcohol en la sangre de 100 a 119 mg/100 ml
+Y906,Nivel de alcohol en la sangre de 120 a 199 mg/100 ml
+Y907,Nivel de alcohol en la sangre de 200 a 239 mg/100 ml
+Y908,Nivel de alcohol en la sangre de 240 mg/100 ml o mas
+Y909,Presencia de alcohol en la sangre, nivel no especificado
+Y91,Evidencia de alcoholismo determinada por el nivel de intoxicacion
+Y910,Intoxicacion alcoholica leve
+Y911,Intoxicacion alcoholica moderada
+Y912,Intoxicacion alcoholica severa
+Y913,Intoxicacion alcoholica muy severa
+Y919,Alcoholismo, nivel de intoxicacion no especificado
+Y95,Afeccion nosocomial
+Y96,Afeccion relacionada con el trabajo
+Y97,Afeccion relacionada con la contaminacion ambiental
+Y98,Afeccion relacionada con el estilo de vida
+Z00,Examen general e investigacion de personas sin quejas o sin diagnostico informado
+Z000,Examen medico general
+Z001,Control de salud de rutina del niño
+Z002,Examen durante el periodo de crecimiento rapido en la infancia
+Z003,Examen del estado de desarrollo del adolescente
+Z004,Examen psiquiatrico general, no clasificado en otra parte
+Z005,Examen de donante potencial de organo o tejido
+Z006,Examen para comparacion y control normales en programa de investigacion clinica
+Z008,Otros examenes generales
+Z01,Otros examenes especiales personas sin quejas o sin diagnostico informado
+Z010,Examen de ojos y de la vision
+Z011,Examen de oidos y de la audicion
+Z012,Examen odontologico
+Z013,Examen de la presion sanguinea
+Z014,Examen ginecologico (general) (de rutina)
+Z015,Pruebas de sensibilizacion y diagnostico cutaneo
+Z016,Examen radiologico, no clasificado en otra parte
+Z017,Examen de laboratorio
+Z018,Otros examenes especiales especificados
+Z019,Examen especial no especificado
+Z02,Examenes y contactos fines administrativos
+Z020,Examen para admision a instituciones educativas
+Z021,Examen preempleo
+Z022,Examen para admision a instituciones residenciales
+Z023,Examen para reclutamiento en las fuerzas armadas
+Z024,Examen para obtencion de licencia de conducir
+Z025,Examen para participacion en competencias deportivas
+Z026,Examen para fines de seguros
+Z027,Extension de certificado medico
+Z028,Otros examenes para fines administrativos
+Z029,Examen para fines administrativos, no especificado
+Z03,Observacion y evaluacion medicas por sospecha de enfermedades y afecciones
+Z030,Observacion por sospecha de tuberculosis
+Z031,Observacion por sospecha de tumor maligno
+Z032,Observacion por sospecha de trastorno mental y del comportamiento
+Z033,Observacion por sospecha de trastorno del sistema nervioso
+Z034,Observacion por sospecha de infarto de miocardio
+Z035,Observacion por sospecha de otras enfermedades cardiovasculares
+Z036,Observacion por sospecha de efectos toxicos de sustancias ingeridas
+Z038,Observacion por sospecha de otras enfermedades y afecciones
+Z039,Observacion por sospecha de enfermedad o afeccion no especificada
+Z04,Examen y observacion por otras razones
+Z040,Prueba de alcohol o drogas en la sangre
+Z041,Examen y observacion consecutivos a accidente de transporte
+Z042,Examen y observacion consecutivos a accidente de trabajo
+Z043,Examen y observacion consecutivos a otro accidente
+Z044,Examen y observacion consecutivos a denuncia de violacion y seduccion
+Z045,Examen y observacion consecutivos a otra lesion infligida
+Z046,Examen psiquiatrico general, solicitado por una autoridad
+Z048,Examen y observacion por otras razones especificadas
+Z049,Examen y observacion por razones no especificadas
+Z08,Examen de seguimiento consecutivo a tratamiento por tumor maligno
+Z080,Examen de seguimiento consecutivo a cirugia por tumor maligno

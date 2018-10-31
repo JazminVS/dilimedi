@@ -1,0 +1,1089 @@
+﻿codigo,descripcion,campo
+I312,Hemopericardio, no clasificado en otra parte
+I313,Derrame pericardico (no inflamatorio)
+I318,Otras enfermedades especificadas del pericardio
+I319,Enfermedad del pericardio, no especificada
+I32,Pericarditis en enfermedades clasificadas en otra parte
+I320,Pericarditis en enfermedades bacterianas clasificadas en otra parte
+I321,Pericarditis en otras enfermedades infecciosas y parasitarias clasificadas en otra parte
+I328,Pericarditis en otras enfermedades clasificadas en otra parte
+I33,Endocarditis aguda y subaguda
+I330,Endocarditis infecciosa aguda y subaguda
+I339,Endocarditis aguda, no especificada
+I34,Trastornos no reumaticos de la valvula mitral
+I340,Insuficiencia (de la valvula) mitral
+I341,Prolapso (de la valvula) mitral
+I342,Estenosis (de la valvula) mitral, no reumatica
+I348,Otros trastornos no reumaticos de la valvula mitral
+I349,Trastorno mitral no reumatico, no especificado
+I35,Trastornos no reumaticos de la valvula aortica
+I350,Estenosis (de la valvula) aortica
+I351,Insuficiencia (de la valvula) aortica
+I352,Estenosis (de la valvula) aortica con insuficiencia
+I358,Otros trastornos de la valvula aortica
+I359,Trastorno de la valvula aortica, no especificado
+I36,Trastornos no reumaticos de la valvula tricuspide
+I360,Estenosis no reumatica (de la valvula) tricuspide)
+I361,Insuficiencia no reumatica (de la valvula) tricuspide
+I362,Estenosis con insuficiencia no reumatica (de la valvula) tricuspide
+I368,Otros trastornos no reumaticos de la valvula tricuspide
+I369,Trastorno no reumatico de la valvula tricuspide, no especificado
+I37,Trastornos de la valvula pulmonar
+I370,Estenosis de la valvula pulmonar
+I371,Insuficiencia de la valvula pulmonar
+I372,Estenosis de la valvula pulmonar con insuficiencia
+I378,Otros trastornos de la valvula pulmonar
+I379,Trastorno de la valvula pulmonar, no especificado
+I38,Endocarditis, valvula no especificada
+I39,Endocarditis y trastornos valvulares en enfermedades clasificadas en otra parte
+I390,Trastornos de la valvula mitral en enfermedades clasificadas en otra parte
+I391,Trastornos de la valvula aortica en enfermedades clasificadas en otra parte
+I392,Trastornos de la valvula tricuspide en enfermedades clasificadas en otra parte
+I393,Trastornos de la valvula pulmonar en enfermedades clasificadas en otra parte
+I394,Trastornos de la valvulares multiples en enfermedades clasificadas en otra parte
+I398,Endocarditis, valvula no especificada, en enfermedades clasificadas en otra parte
+I40,Miocarditis aguda
+I400,Miocarditis infecciosa
+I401,Miocarditis aislada
+I408,Otras miocarditis agudas
+I409,Miocarditis aguda, no especificada
+I41,Miocarditis en enfermedades clasificadas en otra parte
+I410,Miocarditis en enfermedades bacterianas clasificadas en otra parte
+I411,Miocarditis en enfermedades virales clasificadas en otra parte
+I412,Miocarditis en otras enfermedades infecciosas y parasitarias clasificadas en otra parte
+I418,Miocarditis en otras enfermedades clasificadas en otra parte
+I42,Cardiomiopatia
+I420,Cardiomiopatia dilatada
+I421,Cardiomiopatia hipertrofica obstructiva
+I422,Otras cardiomiopatia hipertroficas
+I423,Enfermedad endomiocardica (eosinofilica)
+I424,Fibroelastosis endocardica
+I425,Otras cardiomiopatias restrictivas
+I426,Cardiomiopatia alcoholica
+I427,Cardiomiopatia debida a drogas y a otros agentes externos
+I428,Otras cardiomiopatia
+I429,Cardiomiopatia, no especificada
+I43,Cardiomiopatia en enfermedades clasificadas en otra parte
+I430,Cardiomiopatia en enfermedades infecciosas y parasitarias clasificadas en otra parte
+I431,Cardiomiopatia en enfermedades metabolicas
+I432,Cardiomiopatia en enfermedades nutricionales
+I438,Cardiomiopatia en otras enfermedades clasificadas en otra parte
+I44,Bloqueo auriculoventricular y de rama izquierda del haz
+I440,Bloqueo auriculoventricular de primer grado
+I441,Bloqueo auriculoventricular de segundo grado
+I442,Bloqueo auriculoventricular completo
+I443,Otros tipos de bloqueo auriculoventricular y los no especificados
+I444,Bloqueo fascicular anterior izquierdo
+I445,Bloqueo fascicular posterior izquierdo
+I446,Otros tipos de bloqueo fascicular y los no especificados
+I447,Bloqueo de rama izquierda del haz, sin otra especificacion
+I45,Otros trastornos de la conduccion
+I450,Bloqueo fascicular derecho
+I451,Otros tipos de bloqueo de rama derecha del haz y los no especificados
+I452,Bloqueo bifascicular
+I453,Bloqueo trifascicular
+I454,Bloqueo intraventricular no especificado
+I455,Otros tipos especificados de bloqueo del corazon
+I456,Sindrome de preexcitacion
+I458,Otros trastornos especificados de la conduccion
+I459,Trastorno de la conduccion, no especificado
+I46,Paro cardiaco
+I460,Paro cardiaco con resucitacion exitosa
+I461,Muerte cardiaca subita, asi descrita
+I469,Paro cardiaco, no especificado
+I47,Taquicardia paroxistica
+I470,Arritmia por reentrada ventricular
+I471,Taquicardia supraventricular
+I472,Taquicardia ventricular
+I479,Taquicardia paroxistica, no especificada
+I48,Fibrilacion y aleteo auricular
+I49,Otras arritmias cardiacas
+I490,Fibrilacion y aleteo ventricular
+I491,Despolarizacion auricular prematura
+I492,Despolarizacion prematura nodal
+I493,Despolarizacion ventricular prematura
+I494,Otros tipos de despolarizacion prematura y los no especificados
+I495,Sindrome del seno enfermo
+I498,Otras arritmias cardiacas especificadas
+I499,Arritmia cardiaca, no especificada
+I50,Insuficiencia cardiaca
+I500,Insuficiencia cardiaca congestiva
+I501,Insuficiencia ventricular izquierda
+I509,Insuficiencia cardiaca, no especificada
+I51,Complicaciones y descripciones mal definidas en enfermedades cardiacas
+I510,Defecto del tabique cardiaco, adquirido
+I511,Ruptura de cuerda tendinosa, no clasificada en otra parte
+I512,Ruptura del musculo papilar, no clasificada en otra parte
+I513,Trombosis intracardiaca, no clasificada en otra parte
+I514,Miocarditis, no especificada
+I515,Degeneracion miocardica
+I516,Enfermedad cardiovascular, no especificada
+I517,Cardiomegalia
+I518,Otras enfermedades cardiacas mal definidas
+I519,Enfermedad cardiaca, no especificada
+I52,Otros trastornos cardiacos en enfermedades clasificadas en otra parte
+I520,Otros trastornos cardiacos en enfermedades bacterianas clasificadas en otra parte
+I521,Otros trastornos cardiacos en otras enfermedades infecciosas y parasitarias clasificadas en otra parte
+I528,Otros trastornos cardiacos en otras enfermedades clasificadas en otra parte
+I60,Hemorragia subaracnoidea
+I600,Hemorragia subaracnoidea de sifon y bifurcacion carotidea
+I601,Hemorragia subaracnoidea de arteria cerebral media
+I602,Hemorragia subaracnoidea de arteria comunicante anterior
+I603,Hemorragia subaracnoidea de arteria comunicante posterior
+I604,Hemorragia subaracnoidea de arteria basilar
+I605,Hemorragia subaracnoidea de arteria vertebral
+I606,Hemorragia subaracnoidea de otras arterias intracraneales
+I607,Hemorragia subaracnoidea de arteria intracraneal no especificada
+I608,Otras hemorragias subaracnoideas
+I609,Hemorragia subaracnoidea, no especificada
+I61,Hemorragia intraencefalica
+I610,Hemorragia intracerebral en hemisferio, subcortical
+I611,Hemorragia intracerebral en hemisferio, cortical
+I612,Hemorragia intracerebral en hemisferio, no especificada
+I613,Hemorragia intraencefalica en tallo cerebral
+I614,Hemorragia intraencefalica en cerebelo
+I615,Hemorragia intraencefalica, intraventricular
+I616,Hemorragia intraencefalica de localizaciones multiples
+I618,Otras hemorragias intraencefalicas
+I619,Hemorragia intraencefalica, no especificada
+I62,Otras hemorrag intracraneales no traumaticas
+I620,Hemorragia subdural (aguda) (no traumatica)
+I621,Hemorragia extradural no traumatica
+I629,Hemorragia intracraneal (no traumatica), no especificada
+I63,Infarto cerebral
+I630,Infarto cerebral debido a trombosis de arterias precerebrales
+I631,Infarto cerebral debido a embolia de arterias precerebrales
+I632,Infarto cerebral debido a oclusion o estenosis no especificada de arterias precerebrales
+I633,Infarto cerebral debido a trombosis de arterias cerebrales
+I634,Infarto cerebral debido a embolia de arterias cerebrales
+I635,Infarto cerebral debido a oclusion o estenosis no especificada de arterias cerebrales
+I636,Infarto cerebral debido a trombosis de venas cerebrales, no piogeno
+I638,Otros infartos cerebrales
+I639,Infarto cerebral, no especificado
+I64,Accidente vascular encefalico agudo no especificado como hemorragico o isquemico
+I65,Oclusion y estenosis en arterias precerebrales sin ocasionar infarto cerebral
+I650,Oclusion y estenosis de arteria vertebral
+I651,Oclusion y estenosis de arteria basilar
+I652,Oclusion y estenosis de arteria carotida
+I653,Oclusion y estenosis multiple bilateral de arterias precerebrales
+I658,Oclusion y estenosis de otras arterias precerebrales
+I659,Oclusion y estenosis de arteria precerebral no especificada
+I66,Oclusion y estenosis en arterias cerebrales sin ocasionar infarto cerebral
+I660,Oclusion y estenosis de la arteria cerebral media
+I661,Oclusion y estenosis de la arteria cerebral anterior
+I662,Oclusion y estenosis de la arteria cerebral posterior
+I663,Oclusion y estenosis de arterias cerebelosas
+I664,Oclusion y estenosis multiple bilateral de arterias cerebrales
+I668,Oclusion y estenosis de otras arterias cerebrales
+I669,Oclusion y estenosis de arteria cerebral no especificada
+I67,Otras enfermedades cerebrovasculares
+I670,Diseccion de arterias cerebrales, sin ruptura
+I671,Aneurisma cerebral, sin ruptura
+I672,Aterosclerosis cerebral
+I673,Leucoencefalopatia vascular progresiva
+I674,Encefalopatia hipertensiva
+I675,Enfermedad de moyamoya
+I676,Trombosis apiogena del sistema venoso intracraneal
+I677,Arteritis cerebral, no clasificada en otra parte
+I678,Otras enfermedades cerebrovasculares especificadas
+I679,Enfermedad cerebrovascular, no especificada
+I68,Trastornos cerebrovasculares en enfermedades clasificadas en otra parte
+I680,Angiopatia cerebral amiloide (e85.
+I681,Arteritis cerebral en enfermedades infecciosas y parasitarias clasificada en otra parte
+I682,Arteritis cerebral en otras enfermedades clasificada en otra parte
+I688,Otros trastornos cerebrovasculares en enfermedades clasificadas en otra parte
+I69,Secuelas de enfermedades cerebrovascular
+I690,Secuelas de hemorragia subaracnoidea
+I691,Secuelas de hemorragia intraencefalica
+I692,Secuelas de otras hemorragias intracraneales no traumaticas
+I693,Secuelas de infarto cerebral
+I694,Secuelas de accidente vascular encefalico, no especificado como hemorragico o isquemico
+I698,Secuelas de otras enfermedades cerebrovasculares y de las no especificadas
+I70,Aterosclerosis
+I700,Aterosclerosis de la aorta
+I701,Aterosclerosis de la arteria renal
+I702,Aterosclerosis de las arterias de los miembros
+I708,Aterosclerosis de otras arterias
+I709,Aterosclerosis generalizada y la no especificada
+I71,Aneurisma y diseccion aorticos
+I710,Diseccion de aorta (cualquier parte)
+I711,Ruptura de aneurisma de la aorta toracica
+I712,Aneurisma de la aorta toracica, sin mencion de ruptura
+I713,Ruptura de aneurisma de la aorta abdominal
+I714,Aneurisma de la aorta abdominal, sin mencion de ruptura
+I715,Ruptura de aneurisma de la aorta toracoabdominal
+I716,Aneurisma de la aorta toracoabdominal, sin mencion de ruptura
+I718,Ruptura de aneurisma aortico, sitio no especificado
+I719,Aneurisma de la aorta, sitio no especificado, sin mencion de ruptura
+I72,Otros aneurismas
+I720,Aneurisma de la arteria carotida
+I721,Aneurisma de la arteria del miembro superior
+I722,Aneurisma de arteria renal
+I723,Aneurisma de arteria iliaca
+I724,Aneurisma de arteria del miembro inferior
+I728,Aneurisma de otras arterias especificadas
+I729,Aneurisma de sitio no especificado
+I73,Otras enfermedades vasculares perifericas
+I730,Sindrome de raynaud
+I731,Tromboangeitis obliterante [buerger]
+I738,Otras enfermedades vasculares perifericas especificadas
+I739,Enfermedad vascular periferica, no especificada
+I74,Embolia y trombosis arteriales
+I740,Embolia y trombosis de la aorta abdominal
+I741,Embolia y trombosis de otras porciones y las no especificadas de la aorta
+I742,Embolia y trombosis de arterias de los miembros superiores
+I743,Embolia y trombosis de arterias de los miembros inferiores
+I744,Embolia y trombosis de arterias de los miembros, no especificadas
+I745,Embolia y trombosis de arteria iliaca
+I748,Embolia y trombosis de otras arterias
+I749,Embolia y trombosis de arteria no especificada
+I77,Otros trastornos arteriales o arteriolares
+I770,Fistula arteriovenosa, adquirida
+I771,Estrechez arterial
+I772,Ruptura arterial
+I773,Displasia fibromuscular arterial
+I774,Sindrome de compresion del tronco celiaco
+I775,Necrosis arterial
+I776,Arteritis, no especificada
+I778,Otros trastornos especificados de arterias y arteriolas
+I779,Trastornos de arterias y arteriolas, no especificado
+I78,Enfermedades de los vasos capilares
+I780,Telangiectasia hemorragica hereditaria
+I781,Nevo, no neoplasico
+I788,Otras enfermedades de los capilares
+I789,Enfermedad de los vasos capilares, no especificada
+I79,Trastornos de las arterias, de las arteriolas y de los vasos capilares en enfermedades clasificadas en otra parte
+I790,Aneurisma de la aorta en enfermedades clasificadas en otra parte
+I791,Aortitis en enfermedades clasificadas en otra parte
+I792,Angiopatia periferica en enfermedades clasificadas en otra parte
+I798,Otros trastornos de arterias, arteriolas y vasos capilares en enfermedades clasificadas en otra parte
+I80,Flebitis y tromboflebitis
+I800,Flebitis y tromboflebitis de vasos superficiales de los miembros inferiores
+I801,Flebitis y tromboflebitis de la vena femoral
+I802,Flebitis y tromboflebitis de otros vasos profundos de los miembros inferiores
+I803,Flebitis y tromboflebitis de los miembros inferiores, no especificada
+I808,Flebitis y tromboflebitis de otros sitios
+I809,Flebitis y tromboflebitis de sitio no especificado
+I81,Trombosis de la vena porta
+I82,Otras embolias y trombosis venosas
+I820,Sindrome de budd
+I821,Tromboflebitis migratoria
+I822,Embolia y trombosis de vena cava
+I823,Embolia y trombosis de vena renal
+I828,Embolia y trombosis de otras venas especificadas
+I829,Embolia y trombosis de vena no especificada
+I83,Venas varicosas de los miembros inferiores
+I830,Venas varicosas de los miembros inferiores con ulcera
+I831,Venas varicosas de los miembros inferiores con inflamacion
+I832,Venas varicosas de los miembros inferiores con ulcera e inflamacion
+I839,Venas varicosas de los miembros inferiores sin ulcera ni inflamacion
+I84,Hemorroides
+I840,Hemorroides internas trombosadas
+I841,Hemorroides internas con otras complicaciones
+I842,Hemorroides internas sin complicacion
+I843,Hemorroides externas trombosadas
+I844,Hemorroides externas con otras complicaciones
+I845,Hemorroides externas sin complicacion
+I846,Prominencias cutaneas, residuo de hemorroides
+I847,Hemorroides trombosadas no especificadas
+I848,Hemorroides no especificadas, con otras complicaciones
+I849,Hemorroides no especificadas, sin complicacion
+I85,Varices esofagicas
+I850,Varices esofagicas con hemorragia
+I859,Varices esofagicas sin hemorragia
+I86,Varices de otros sitios
+I860,Varices sublinguales
+I861,Varices escrotales
+I862,Varices pelvicas
+I863,Varices de la vulva
+I864,Varices gastricas
+I868,Varices en otros sitios especificados
+I87,Otros trastornos de las venas
+I870,Sindrome postflebitico
+I871,Compresion de vena
+I872,Insuficiencia venosa (cronica) (periferica)
+I878,Otros trastornos venosos especificados
+I879,Trastorno venoso, no especificado
+I88,Linfadenitis inespecifica
+I880,Linfadenitis mesenterica inespecifica
+I881,Linfadenitis cronica, excepto la mesenterica
+I888,Otras linfadenitis inespecificas
+I889,Linfadenitis inespecifica no especificada
+I89,Otros trastornos no infecciosos de los vasos y ganglios linfaticos
+I890,Linfedema, no clasificado en otra parte
+I891,Linfangitis
+I898,Otros trastornos especificados no infecciosos de los vasos y ganglios linfaticos
+I899,Trastorno no infeccioso de vasos y ganglios linfaticos, no especificado
+I95,Hipotension
+I950,Hipotension idiopatica
+I951,Hipotension ortostatica
+I952,Hipotension debida a drogas
+I958,Otros tipos de hipotension
+I959,Hipotension, no especificada
+I97,Trastornos del sistema circulatorio consecutivos a procedimientos no clasificados en otra parte
+I970,Sindrome de postcardiotomia
+I971,Otras alteraciones funcionales consecutivas a cirugia cardiaca
+I972,Sindrome de linfedema postmastectomia
+I978,Otros trastornos del sistema circulatorio consecutivos a procedimientos, no clasificados en otra parte
+I979,Trastorno no especificado del sistema circulatorio consecutivo a procedimientos
+I98,Otros trastornos del sistema circulatorio en enfermedades clasificadas en otra parte
+I980,Sifilis cardiovascular
+I981,Trastornos cardiovasculares en otras enfermedades infecciosas y parasitarias clasificadas en otra parte
+I982,Varices esofagicas en enfermedades clasificadas en otra parte
+I988,Otros trastornos especificados del aparato circulatorio en enfermedades clasificadas en otra parte
+I99,Otros trastornos y los no especificados del sistema circulatorio
+II,Neoplasias
+III,Enfermedades de la sangre y de los organos hematopoyeticos y otros trastornos que afectan el mecanismo de la inmunidad
+IV,Enfermedades endocrinas, nutricionales y metabolicas
+IX,Enfermedades del sistema circulatorio
+J00,Rinofaringitis aguda
+J01,Sinusitis aguda
+J010,Sinusitis maxilar aguda
+J011,Sinusitis frontal aguda
+J012,Sinusitis etmoidal aguda
+J013,Sinusitis esfenoidal aguda
+J014,Pansinusitis aguda
+J018,Otras sinusitis agudas
+J019,Sinusitis aguda, no especificada
+J02,Faringitis aguda
+J020,Faringitis estreptococica
+J028,Faringitis aguda debida a otros microorganismos especificados
+J029,Faringitis aguda, no especificada
+J03,Amigdalitis aguda
+J030,Amigdalitis estreptococica
+J038,Amigdalitis aguda debida a otros microorganismos especificados
+J039,Amigdalitis aguda, no especificada
+J04,Laringitis y traqueitis agudas
+J040,Laringitis aguda
+J041,Traqueitis aguda
+J042,Laringotraqueitis aguda
+J05,Laringitis obstructiva aguda [crup] y epiglotitis
+J050,Laringitis obstructiva, aguda [crup]
+J051,Epiglotitis aguda
+J06,Infecciones agudas de las vias respiratorias superiores, de sitios multiples o no especificados
+J060,Laringofaringitis aguda
+J068,Otras infecciones agudas de sitios multiples de las vias respiratorias superiores
+J069,Infeccion aguda de las vias respiratorias superiores, no especificada
+J10,Influenza debida a virus de la influenza identificado
+J100,Influenza con neumonia, debida a virus de la influenza identificado
+J101,Influenza con otras manifestaciones respiratorias, debida a virus de la influenza identificado
+J108,Influenza, con otras manifestaciones, debida a virus de la influenza identificado
+J11,Influenza debida a virus no identificado
+J110,Influenza con neumonia, virus no identificado
+J111,Influenza con otras manifestaciones respiratorias, virus no identificado
+J118,Influenza con otras manifestaciones, virus no identificado
+J12,Neumonia viral no clasificada en otra parte
+J120,Neumonia debida a adenovirus
+J121,Neumonia debida a virus sincitial respiratorio
+J122,Neumonia debida a virus parainfluenza
+J128,Neumonia debida a otros virus
+J129,Neumonia viral, no especificada
+J13,Neumonia debida a streptococcus pneumoniae
+J14,Neumonia debida a haemophilus influensae
+J15,Neumonia bacteriana no clasificada en otra parte
+J150,Neumonia debida a klebsiella pneumoniae
+J151,Neumonia debida a pseudomonas
+J152,Neumonia debida a estafilococos
+J153,Neumonia debida a estreptococos del grupo b
+J154,Neumonia debida a otros estreptococos
+J155,Neumonia debida a escherichia coli
+J156,Neumonia debida a otras bacterias aerobicas gramnegativas
+J157,Neumonia debida a mycoplasma pneumoniae
+J158,Otras neumonias bacterianas
+J159,Neumonia bacteriana, no especificada
+J16,Neumonia debida a otros microorganismos infecciosos, no clasificados en otra parte
+J160,Neumonia debida a clamidias
+J168,Neumonia debida a otros microorganismos infecciosos especificados
+J17,Neumonia en enfermedades clasificadas en otra parte
+J170,Neumonia en enfermedades bacterianas clasificadas en otra parte
+J171,Neumonia en enfermedades virales clasificadas en otra parte
+J172,Neumonia en micosis
+J173,Neumonia en enfermedades parasitarias
+J178,Neumonia en otras enfermedades clasificadas en otra parte
+J18,Neumonia organismo no especificado
+J180,Bronconeumonia, no especificada
+J181,Neumonia lobar, no especificada
+J182,Neumonia hipostatica, no especificada
+J188,Otras neumonias, de microorganismo no especificado
+J189,Neumonia, no especificada
+J20,Bronquitis aguda
+J200,Bronquitis aguda debida a mycoplasma pneumoniae
+J201,Bronquitis aguda debida a haemophilus influenzae
+J202,Bronquitis aguda debida a estreptococos
+J203,Bronquitis aguda debida a virus coxsackie
+J204,Bronquitis aguda debida a virus parainfluenza
+J205,Bronquitis aguda debida a virus sincitial respiratorio
+J206,Bronquitis aguda debida a rinovirus
+J207,Bronquitis aguda debida a virus echo
+J208,Bronquitis aguda debida a otros microorganismos especificados
+J209,Bronquitis aguda, no especificada
+J21,Bronquiolitis aguda
+J210,Bronquiolitis aguda debida a virus sincitial respiratorio
+J218,Bronquiolitis aguda debida a otros microorganismos especificados
+J219,Bronquiolitis aguda, no especificada
+J22,Infec agud no especificada de las vias respiratorias inferiores
+J30,Rinitis alergica y vasomotora
+J300,Rinitis vasomotora
+J301,Rinitis alergica debida al polen
+J302,Otra rinitis alergica estacional
+J303,Otras rinitis alergicas
+J304,Rinitis alergica, no especificada
+J31,Rinitis, rinofaringitis y faringitis cronica
+J310,Rinitis cronica
+J311,Rinofaringitis cronica
+J312,Faringitis cronica
+J32,Sinusitis cronica
+J320,Sinusitis maxilar cronica
+J321,Sinusitis frontal cronica
+J322,Sinusitis etmoidal cronica
+J323,Sinusitis esfenoidal cronica
+J324,Pansinusitis cronica
+J328,Otras sinusitis cronicas
+J329,Sinusitis cronica, no especificada
+J33,Polipo nasal
+J330,Polipo de la cavidad nasal
+J331,Degeneracion polipoide de seno paranasal
+J338,Otros polipos de los senos paranasales
+J339,Polipo nasal, no especificado
+J34,Otros trastornos de la nariz y de los senos paranasales
+J340,Absceso, furunculo y antrax de la nariz
+J341,Quiste y mucocele de la nariz y del seno paranasal
+J342,Desviacion del tabique nasal
+J343,Hipertrofia de los cornetes nasales
+J348,Otros trastornos especificados de la nariz y de los senos paranasales
+J35,Enfermedades cronicas de las amigdalas y de las adenoides
+J350,Amigdalitis cronica
+J351,Hipertrofia de las amigdalas
+J352,Hipertrofia de las adenoides
+J353,Hipertrofia de las amigdalas con hipertrofia de las adenoides
+J358,Otras enfermedades cronicas de las amigdalas y de las adenoides
+J359,Enfermedad cronicas de las amigdalas y de las adenoides, no especificada
+J36,Absceso periamigdalino
+J37,Laringitis y laringotraqueitis cronicas
+J370,Laringitis cronica
+J371,Laringotraqueitis cronica
+J38,Enfermedades de las cuerdas vocales y de la laringe no clasificadas en otra parte
+J380,Paralisis de las cuerdas vocales y de la laringe
+J381,Polipo de las cuerdas vocales y de la laringe
+J382,Nodulos de las cuerdas vocales
+J383,Otras enfermedades de las cuerdas vocales
+J384,Edema de laringe
+J385,Espasmo laringeo
+J386,Estenosis laringea
+J387,Otras enfermedades de la laringe
+J39,Otras enfermedades de las vias respiratorias superiores
+J390,Absceso retrofaringeo y parafaringeo
+J391,Otros abscesos de la faringe
+J392,Otras enfermedades de la faringe
+J393,Reaccion de hipersensibilidad de las vias respiratorias superiores, sitio no especificado
+J398,Otras enfermedades especificadas de las vias respiratorias superiores
+J399,Enfermedad de las vias respiratorias superiores, no especificada
+J40,Bronquitis no especificada como aguda o cronica
+J41,Bronquitis cronica simple y mucopurulenta
+J410,Bronquitis cronica simple
+J411,Bronquitis cronica mucopurulenta
+J418,Bronquitis cronica mixta simple y mucopurulenta
+J42,Bronquitis cronica no especificada
+J43,Enfisema
+J430,Sindrome de macleod
+J431,Enfisema panlobular
+J432,Enfisema centrolobular
+J438,Otros tipos de enfisema
+J439,Enfisema, no especificado
+J44,Otras enfermedades pulmonares obstructivas cronicas
+J440,Enfermedad pulmonar obstructiva cronica con infeccion aguda de las vias respiratorias inferiores
+J441,Enfermedad pulmonar obstructiva cronica con exacerbacion aguda, no especificada
+J448,Otras enfermedades pulmonares obstructivas cronicas especificadas
+J449,Enfermedad pulmonar obstructiva cronica, no especificada
+J45,Asma
+J450,Asma predominantemente alergica
+J451,Asma no alergica
+J458,Asma mixta
+J459,Asma, no especificada
+J46,Estado asmatico
+J47,Bronquiectasia
+J60,Neumoconiosis de los mineros de del carbon
+J61,Neumoconiosis debida al asbesto y a otras fibras minerales
+J62,Neumoconiosis debidas a polvo de silice
+J620,Neumoconiosis debida a polvo de talco
+J628,Neumoconiosis debida a otros polvos que contienen silice
+J63,Neumoconiosis debida a otros polvos inorganicos
+J630,Aluminosis (del pulmon)
+J631,Fibrosis (del pulmon) debida a bauxita
+J632,Beriliosis
+J633,Fibrosis (del pulmon) debida a grafito
+J634,Siderosis
+J635,Estañosis
+J638,Neumoconiosis debida a otros polvos inorganicos especificados
+J64,Neumoconiosis no especificada
+J65,Neumoconiosis asociada con tuberculosis
+J66,Enfermedades de las vias aereas debidas a polvos organicos especificos
+J660,Bisinosis
+J661,Enfermedad de los trabajadores del lino
+J662,Canabinosis
+J668,Enfermedad de las vias aereas debidas a otros polvos organicos especificos
+J67,Neumonitis debida a hipersensibilidad al polvo organico
+J670,Pulmon del granjero
+J671,Bagazosis
+J672,Pulmon del ornitofilo
+J673,Suberosis
+J674,Pulmon del manipulador de malta
+J675,Pulmon del manipulador de hongos
+J676,Pulmon del descortezador del arce
+J677,Neumonitis de la ventilacion debida al acondicionador y humidificador del aire
+J678,Neumonitis debida a hipersensibilidad a otros polvos organicos
+J679,Neumonitis debida a hipersensibilidad a polvo organico no especificado
+J68,Afecciones respiratorias debidas a inhalacion de gases, humos, vapores y sustancias quimicas
+J680,Bronquitis y neumonitis debidas a inhalacion de gases, humos, vapores y sustancias quimicas
+J681,Edema pulmonar agudo debido a inhalacion de gases, humos, vapores y sustancias quimicas
+J682,Inflamacion respiratoria superior debida a inhalacion de gases, humos, vapores y sustancias quimicas, no clasificadas en otra parte
+J683,Otras afecciones respiratorias agudas y subagudas debidas a inhalacion de gases, humos, vapores y sustancias quimicas
+J684,Afecciones respiratorias cronicas debidas a inhalacion de gases, humos, vapores y sustancias quimicas
+J688,Otras afecciones respiratorias debidas a inhalacion de gases, humos, vapores y sustancias quimicas
+J689,Afeccion respiratoria no especificada, debida a inhalacion de gases, humos, vapores y sustancias quimicas
+J69,Neumonitis debida a solidos y liquidos
+J690,Neumonitis debida a aspiracion de alimento o vomito
+J691,Neumonitis debida a aspiracion de aceites y esencias
+J698,Neumonitis debida a aspiracion de otros solidos y liquidos
+J70,Afecciones respiratorias debidas a otros agentes externos
+J700,Manifestaciones pulmonares agudas debidas a radiacion
+J701,Manifestaciones pulmonares cronicas y otras manifestaciones debidas a radiacion
+J702,Trastornos pulmonares intersticiales agudos inducidos por drogas
+J703,Trastornos pulmonares intersticiales cronicos inducidos por drogas
+J704,Trastornos pulmonares intersticiales no especificados inducidos por drogas
+J708,Afecciones respiratorias debidas a otros agentes externos especificados
+J709,Afecciones respiratorias debidas a agentes externos no especificados
+J80,Sindrome de dificultad respiratoria del adulto
+J81,Edema pulmonar
+J82,Eosinofilia pulmonar no clasificada en otra parte
+J84,Otras enfermedades pulmonares intersticiales
+J840,Afecciones alveolares y alveoloparietales
+J841,Otras enfermedades pulmonares intersticiales con fibrosis
+J848,Otras enfermedades pulmonares intersticiales especificadas
+J849,Enfermedad pulmonar intersticial, no especificada
+J85,Absceso del pulmon y del mediastino
+J850,Gangrena y necrosis del pulmon
+J851,Absceso del pulmon con neumonia
+J852,Absceso del pulmon sin neumonia
+J853,Absceso del mediastino
+J86,Piotorax
+J860,Piotorax con fistula
+J869,Piotorax sin fistula
+J90,Derrame pleural no clasificado en otra parte
+J91,Derrame pleural en afecciones clasificadas en otra parte
+J92,Paquipleuritis
+J920,Paquipleuritis con asbestosis
+J929,Paquipleuritis sin asbestosis
+J93,Neumotorax
+J930,Neumotorax espontaneo a presion
+J931,Otros tipos de neumotorax espontaneo
+J938,Otros neumotorax
+J939,Neumotorax, no especificado
+J94,Otras afecciones de la pleura
+J940,Quilotorax
+J941,Fibrotorax
+J942,Hemotorax
+J948,Otras afecciones especificadas de la pleura
+J949,Afeccion pleural, no especificada
+J95,Trastornos del sistema respiratorio, consecutivos a procedimientos no clasificados en otra parte
+J950,Funcionamiento defectuoso de la traqueostomia
+J951,Insuficiencia pulmonar aguda consecutiva a cirugia toracica
+J952,Insuficiencia pulmonar aguda consecutiva a cirugia extratoracica
+J953,Insuficiencia pulmonar cronica consecutiva a cirugia
+J954,Sindrome de mendelson
+J955,Estenosis subglotica consecutiva a procedimientos
+J958,Otros trastornos respiratorios consecutivos a procedimientos
+J959,Trastorno no especificado del sistema respiratorio, consecutivos a procedimientos
+J96,Insuficiencia respiratoria no clasificadas en otra parte
+J960,Insuficiencia respiratoria aguda
+J961,Insuficiencia respiratoria cronica
+J969,Insuficiencia respiratoria, no especificada
+J98,Otros trastornos respiratorios
+J980,Enfermedades de la traquea y de los bronquios, no clasificadas en otra parte
+J981,Colapso pulmonar
+J982,Enfisema intersticial
+J983,Enfisema compensatorio
+J984,Otros trastornos del pulmon
+J985,Enfermedades del mediastino, no clasificados en otra parte
+J986,Trastornos del diafragma
+J988,Otros trastornos respiratorios especificados
+J989,Trastorno respiratorio, no especificado
+J99,Trastornos respiratorios en enfermedades clasificadas en otra parte
+J990,Enfermedad pulmonar reumatoide (m05.1)
+J991,Trastornos respiratorios en otros trastornos difusos del tejido conjuntivo
+J998,Trastornos respiratorios en otras enfermedades clasificadas en otra parte
+K00,Trastornos del desarrollo y de la erupcion de los dientes
+K000,Anodoncia
+K001,Dientes supernumerarios
+K002,Anomalias del tamaño y de la forma del diente
+K003,Dientes moteados
+K004,Alteraciones en la formacion dentaria
+K005,Alteraciones hereditarias de la estructura dentaria, no clasificadas en otra parte
+K006,Alteraciones en la erupcion dentaria
+K007,Sindrome de la erupcion dentaria
+K008,Otros trastornos del desarrollo de los dientes
+K009,Trastorno del desarrollo de los dientes, no especificado
+K01,Dientes incluidos e impactados
+K010,Dientes incluidos
+K011,Dientes impactados
+K02,Caries dental
+K020,Caries limitada al esmalte
+K021,Caries de la dentina
+K022,Caries del cemento
+K023,Caries dentaria detenida
+K024,Odontoclasia
+K028,Otras caries dentales
+K029,Caries dental, no especificada
+K03,Otras enfermedades de los tejidos duros de los dientes
+K030,Atricion excesiva de los dientes
+K031,Abrasion de los dientes
+K032,Erosion de los dientes
+K033,Reabsorcion patologica de los dientes
+K034,Hipercementosis
+K035,Anquilosis dental
+K036,Depositos [acreciones] en los dientes
+K037,Cambios posteruptivos del color de los tejidos dentales duros
+K038,Otras enfermedades especificadas de los tejidos duros de los dientes
+K039,Enfermedad no especificada de los tejidos dentales duros
+K04,Enfermedades de la pulpa y de los tejidos periapicales
+K040,Pulpitis
+K041,Necrosis de la pulpa
+K042,Degeneracion de la pulpa
+K043,Formacion anormal de tejido duro en la pulpa
+K044,Periodontitis apical aguda originada en la pulpa
+K045,Periodontitis apical cronica
+K046,Absceso periapical con fistula
+K047,Absceso periapical sin fistula
+K048,Quiste radicular
+K049,Otras enfermedades y las no especificadas de la pulpa y del tejido periapical
+K05,Gingivitis y enfermedades periodontales
+K050,Gingivitis aguda
+K051,Gingivitis cronica
+K052,Periodontitis aguda
+K053,Periodontitis cronica
+K054,Periodontosis
+K055,Otras enfermedades periodontales
+K056,Enfermedad de periodonto, no especificada
+K06,Otros trastornos de la encia y de la zona edentula
+K060,Retraccion gingival
+K061,Hiperplasia gingival
+K062,Lesiones de la encia y de la zona edentula asociadas con traumatismo
+K068,Otros trastornos especificados de la encia y de la zona edentula
+K069,Trastorno no especificado de la encia y de la zona edentula
+K07,Anomalias dentofaciales [inclusola maloclusion]
+K070,Anomalias evidentes del tamaño de los maxilares
+K071,Anomalias de la relacion maxilobasilar
+K072,Anomalias de la relacion entre los arcos dentarios
+K073,Anomalias de la posicion del diente
+K074,Maloclusion de tipo no especificado
+K075,Anomalias dentofaciales funcionales
+K076,Trastornos de la articulacion temporomaxilar
+K078,Otras anomalias dentofaciales
+K079,Anomalia dentofacial, no especificada
+K08,Otros trastornos de los dientes y de sus estructuras de sosten
+K080,Exfoliacion de los dientes debida a causas sistemicas
+K081,Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+K082,Atrofia de reborde alveolar desdentado
+K083,Raiz dental retenida
+K088,Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+K089,Trastorno de los dientes y de sus estructuras de sosten, no especificado
+K09,Quistes de la region bucal no clasificadas en otra parte
+K090,Quistes originados por el desarrollo de los dientes
+K091,Quistes de las fisuras (no odontogenicos)
+K092,Otros quistes de los maxilares
+K098,Otros quistes de la region bucal, no clasificados en otra parte
+K099,Quiste de la region bucal, sin otra especificacion
+K10,Otras enfermedades de los maxilares
+K100,Trastornos del desarrollo de los maxilares
+K101,Granuloma central de celulas gigantes
+K102,Afecciones inflamatorias de los maxilares
+K103,Alveolitis del maxilar
+K108,Otras enfermedades especificadas de los maxilares
+K109,Enfermedad de los maxilares, no especificada
+K11,Enfermedades de las glandulas salivares
+K110,Atrofia de glandula salival
+K111,Hipertrofia de glandula salival
+K112,Sialadenitis
+K113,Absceso de glandula salival
+K114,Fistula de glandula salival
+K115,Sialolitiasis
+K116,Mucocele de glandula salival
+K117,Alteraciones de la secrecion salival
+K118,Otras enfermedades de las glandulas salivales
+K119,Enfermedad de glandula salival. no especificada
+K12,Estomatitis y lesiones afines
+K120,Estomatitis aftosa recurrente
+K121,Otras formas de estomatitis
+K122,Celulitis y absceso de boca
+K13,Otras enfermedades de los labios y de la mucosa bucal
+K130,Enfermedades de los labios
+K131,Mordedura del labio y de la mejilla
+K132,Leucoplasia y otras alteraciones del epitelio bucal, incluyendo la lengua
+K133,Leucoplasia pilosa
+K134,Granuloma y lesiones semejantes de la mucosa bucal
+K135,Fibrosis de la submucosa bucal
+K136,Hiperplasia irritativa de la mucosa bucal
+K137,Otras lesiones y las no especificadas de la mucosa bucal
+K14,Enfermedades de la lengua
+K140,Glositis
+K141,Lengua geografica
+K142,Glositis romboidea mediana
+K143,Hipertrofia de las papilas linguales
+K144,Atrofia de las papilas linguales
+K145,Lengua plegada
+K146,Glosodinia
+K148,Otras enfermedades de la lengua
+K149,Enfermedad de la lengua, no especificada
+K20,Esofagitis
+K21,Enfermedad del reflujo gastroesofagico
+K210,Enfermedad del reflujo gastroesofagico con esofagitis
+K219,Enfermedad del reflujo gastroesofagico sin esofagitis
+K22,Otras enfermedades del esofago
+K220,Acalasia del cardias
+K221,Ulcera del esofago
+K222,Obstruccion del esofago
+K223,Perforacion del esofago
+K224,Disquinesia del esofago
+K225,Diverticulo del esofago, adquirido
+K226,Sindrome de laceracion y hemorragia gastroesofagicas
+K228,Otras enfermedades especificadas del esofago
+K229,Enfermedad del esofago, no especificada
+K23,Trastornos del esofago en enfermedades clasificadas en otra parte
+K230,Esofagitis tuberculosa (a18.)
+K231,Megaesofago en la enfermedad de chagas (b57.3)
+K238,Trastornos del esofago en otras enfermedades clasificadas en otra parte
+K25,Ulcera gastrica
+K250,Ulcera gastrica aguda con hemorragia
+K251,Ulcera gastrica aguda con perforacion
+K252,Ulcera gastrica aguda con hemorragia y perforacion
+K253,Ulcera gastrica aguda sin hemorragia ni perforacion
+K254,Ulcera gastrica cronica o no especificada, con hemorragia
+K255,Ulcera gastrica cronica o no especificada, con perforacion
+K256,Ulcera gastrica cronica o no especificada, con hemorragia y perforacion
+K257,Ulcera gastrica cronica sin hemorragia ni perforacion
+K259,Ulcera gastrica no especificada como aguda ni cronica, sin hemorragia ni perforacion
+K26,Ulcera duodenal
+K260,Ulcera duodenal aguda con hemorragia
+K261,Ulcera duodenal aguda con perforacion
+K262,Ulcera duodenal aguda con hemorragia y perforacion
+K263,Ulcera duodenal aguda sin hemorragia ni perforacion
+K264,Ulcera duodenal cronica o no especificada, con hemorragia
+K265,Ulcera duodenal cronica o no especificada, con perforacion
+K266,Ulcera duodenal cronica o no especificada, con hemorragia y perforacion
+K267,Ulcera duodenal cronica sin hemorragia ni perforacion
+K269,Ulcera duodenal no especificada como aguda ni cronica, sin hemorragia ni perforacion
+K27,Ulcera peptica, sitio no especificado
+K270,Ulcera peptica, de sitio no especificado aguda con hemorragia
+K271,Ulcera peptica, de sitio no especificado aguda con perforacion
+K272,Ulcera peptica, de sitio no especificado aguda con hemorragia y perforacion
+K273,Ulcera peptica, de sitio no especificado aguda sin hemorragia ni perforacion
+K274,Ulcera peptica, de sitio no especificado cronica o no especificada, con hemorragia
+K275,Ulcera peptica, de sitio no especificado cronica o no especificada, con perforacion
+K276,Ulcera peptica, de sitio no especificado cronica o no especificada, con hemorragia y perforacion
+K277,Ulcera peptica, de sitio no especificado cronica sin hemorragia ni perforacion
+K279,Ulcera peptica, de sitio no especificado no especificada como aguda ni cronica, sin hemorragia ni perforacion
+K28,Ulcera gastroyeyunal
+K280,Ulcera gastroyeyunal aguda con hemorragia
+K281,Ulcera gastroyeyunal aguda con perforacion
+K282,Ulcera gastroyeyunal aguda con hemorragia y perforacion
+K283,Ulcera gastroyeyunal aguda sin hemorragia ni perforacion
+K284,Ulcera gastroyeyunal cronica o no especificada, con hemorragia
+K285,Ulcera gastroyeyunal cronica o no especificada, con perforacion
+K286,Ulcera gastroyeyunal cronica o no especificada, con hemorragia y perforacion
+K287,Ulcera gastroyeyunal cronica sin hemorragia ni perforacion
+K289,Ulcera gastroyeyunal no especificada como aguda ni cronica, sin hemorragia ni perforacion
+K29,Gastritis y duodenitis
+K290,Gastritis aguda hemorragica
+K291,Otras gastritis agudas
+K292,Gastritis alcoholica
+K293,Gastritis cronica superficial.
+K294,Gastritis cronica atrofica
+K295,Gastritis cronica, no especificada
+K296,Otras gastritis
+K297,Gastritis, no especificada
+K298,Duodenitis
+K299,Gastroduodenitis, no especificada
+K30,Dispepsia
+K31,Otras enfermedades del estomago y del duodeno
+K310,Dilatacion aguda del estomago
+K311,Estenosis pilorica hipertrofica del adulto
+K312,Estrechez o estenosis del estomago en reloj de arena
+K313,Espasmo del piloro, no clasificado en otra parte
+K314,Diverticulo gastrico
+K315,Obstruccion del duodeno
+K316,Fistula del estomago y del duodeno
+K317,Polipo del estomago y del duodeno
+K318,Otras enfermedades especificadas del estomago y del duodeno
+K319,Enfermedad del estomago y del duodeno, no especificada
+K35,Apendicitis aguda
+K350,Apendicitis aguda con peritonitis generalizada
+K351,Apendicitis aguda con absceso peritoneal
+K359,Apendicitis aguda, no especificada
+K36,Otros tipos de apendicitis
+K37,Apendicitis no especificada
+K38,Otras enfermedades del apendice
+K380,Hiperplasia del apendice
+K381,Concreciones apendiculares
+K382,Diverticulo del apendice
+K383,Fistula del apendice
+K388,Otras enfermedades especificadas del apendice
+K389,Enfermedad del apendice, no especificada
+K40,Hernia inguinal
+K400,Hernia inguinal bilateral con obstruccion, sin gangrena
+K401,Hernia inguinal bilateral con gangrena
+K402,Hernia inguinal bilateral, sin obstruccion ni gangrena
+K403,Hernia inguinal unilateral o no especificada, con obstruccion, sin gangrena
+K404,Hernia inguinal unilateral o no especificada, con gangrena
+K409,Hernia inguinal unilateral o no especificada, sin obstrucion ni gangrena
+K41,Hernia femoral
+K410,Hernia femoral bilateral, con obstruccion, sin gangrena
+K411,Hernia femoral bilateral, con gangrena
+K412,Hernia femoral bilateral, sin obstruccion ni gangrena
+K413,Hernia femoral unilateral o no especificada, con obstruccion, sin gangrena
+K414,Hernia femoral unilateral o no especificada, con gangrena
+K419,Hernia femoral unilateral o no especificada, sin obstruccion ni gangrena
+K42,Hernia umbilical
+K420,Hernia umbilical con obstruccion, sin gangrena
+K421,Hernia umbilical con gangrena
+K429,Hernia umbilical sin obstruccion ni gangrena
+K43,Hernia ventral
+K430,Hernia ventral con obstruccion, sin gangrena
+K431,Hernia ventral con gangrena
+K439,Hernia ventral sin obstruccion ni gangrena
+K44,Hernia diafragmatica
+K440,Hernia diafragmatica con obstruccion, sin gangrena
+K441,Hernia diafragmatica con gangrena
+K449,Hernia diafragmatica sin obstruccion ni gangrena
+K45,Otras hernias de la cavidad abdominal
+K450,Otras hernias de la cavidad abdominal especificadas, con obstruccion, sin gangrena
+K451,Otras hernias de la cavidad abdominal especificadas, con gangrena
+K458,Otras hernias de la cavidad abdominal especificadas, sin obstruccion ni gangrena
+K46,Hernia no especificada de la cavidad abdominal
+K460,Hernia abdominal no especificada, con obstruccion, sin gangrena
+K461,Hernia abdominal no especificada, con gangrena
+K469,Hernia abdominal no especificada, sin obstruccion ni gangrena
+K50,Enfermedades de crohn [enteritis regional]
+K500,Enfermedad de crohn del intestino delgado
+K501,Enfermedad de crohn del intestino grueso
+K508,Otros tipos de enfermedad de crohn
+K509,Enfermedad de crohn, no especificada
+K51,Colitis ulcerativa
+K510,Enterocolitis (cronica) ulcerativa
+K511,Ileocolitis (cronica) ulcerativa
+K512,Proctitis (cronica) ulcerativa
+K513,Rectosigmoiditis (cronica) ulcerativa
+K514,Seudopoliposis del colon
+K515,Proctocolitis mucosa
+K518,Otras colitis ulcerativas
+K519,Colitis ulcerativa, sin otra especificacion
+K52,Otras colitis y gastroenterit no infecciosas
+K520,Colitis y gastroenteritis debidas a radiacion
+K521,Colitis y gastroenteritis toxicas
+K522,Colitis y gastroenteritis alergicas y dieteticas
+K528,Otras colitis y gastroenteritis no infecciosas especificadas
+K529,Colitis y gastroenteritis no infecciosas, no especificadas
+K55,Trastornos vasculares de los intestinos
+K550,Trastorno vascular agudo de los intestinos
+K551,Trastorno vascular cronico del intestino
+K552,Angiodisplasia del colon
+K558,Otros trastornos vasculares del intestino
+K559,Trastorno vascular del intestino, no especificado
+K56,Ileo paralitico y obstruccion intestinal sin hernia
+K560,Ileo paralitico
+K561,Invaginacion
+K562,Volvulo
+K563,Ileo por calculo biliar
+K564,Otras obstrucciones del intestino
+K565,Adherencias [bridas] intestinales con obstruccion
+K566,Otras obstrucciones intestinales y las no especificadas
+K567,Ileo, no especificado
+K57,Enfermedad diverticular del intestino
+K570,Enfermedad diverticular del intestino delgado con perforacion y absceso
+K571,Enfermedad diverticular del intestino delgado sin perforacion ni absceso
+K572,Enfermedad diverticular del intestino grueso con perforacion y absceso
+K573,Enfermedad diverticular del intestino grueso sin perforacion ni absceso
+K574,Enfermedad diverticular de ambos intestinos con perforacion y absceso
+K575,Enfermedad diverticular de ambos intestinos, sin perforacion ni absceso
+K578,Enfermedad diverticular del intestino, parte no especificada, con perforacion y absceso
+K579,Enfermedad diverticular del intestino, parte no especificada, sin perforacion ni absceso
+K58,Sindrome del colon irritable
+K580,Sindrome del colon irritable con diarrea
+K589,Sindrome del colon irritable sin diarrea
+K59,Otros trastornos funcionales del intestino
+K590,Constipacion
+K591,Diarrea funcional
+K592,Intestino neurogenico, no clasificado en otra parte
+K593,Megacolon, no clasificado en otra parte
+K594,Espasmo anal
+K598,Otros trastornos funcionales especificados del intestino
+K599,Trastorno funcional intestinal, no especificado
+K60,Fisura y fistula de las regiones anal y rectal
+K600,Fisura anal aguda
+K601,Fisura anal cronica
+K602,Fisura anal, no especificada
+K603,Fisura anal
+K604,Fistula rectal
+K605,Fistula anorrectal
+K61,Absceso de las regiones anal y rectal
+K610,Absceso anal
+K611,Absceso rectal
+K612,Absceso anorrectal
+K613,Absceso isquiorrectal
+K614,Absceso intraesfinteriano
+K62,Otras enfermedades del ano y del recto
+K620,Polipo anal
+K621,Polipo rectal
+K622,Prolapso anal
+K623,Prolapso rectal
+K624,Estenosis del ano y del recto
+K625,Hemorragia del ano y del recto
+K626,Ulcera del ano y del recto
+K627,Proctitis por radiacion
+K628,Otras enfermedades especificadas del ano y del recto
+K629,Enfermedad del ano y del recto, no especificada
+K63,Otras enfermedades de los intestinos
+K630,Absceso del intestino
+K631,Perforacion del intestino (no traumatica)
+K632,Fistula del intestino
+K633,Ulcera del intestino
+K634,Enteroptosis
+K635,Polipo del colon
+K638,Otras enfermedades especificadas del intestino
+K639,Enfermedad del intestino, no especificada
+K65,Peritonitis
+K650,Peritonitis aguda
+K658,Otras peritonitis
+K659,Peritonitis, no especificada
+K66,Otros trastornos del peritoneo
+K660,Adherencias peritoneales
+K661,Hemoperitoneo
+K668,Otros trastornos especificados del peritoneo
+K669,Trastorno del peritoneo, no especificado
+K67,Trastornos del peritoneo en enfermedades clasificadas en otra parte
+K670,Peritonitis por clamidias (a74.8)
+K671,Peritonitis gonococica (a54.8)
+K672,Peritonitis sifilitica (a52.7)
+K673,Peritonitis tuberculosa (a18.3)
+K678,Otros trastornos del peritoneo en enfermedades infecciosas clasificadas en otra parte
+K70,Enfermedad alcoholica del higado
+K700,Higado alcoholico adiposo
+K701,Hepatitis alcoholica
+K702,Fibrosis y esclerosis del higado, alcoholica
+K703,Cirrosis hepatica alcoholica
+K704,Insuficiencia hepatica alcoholica
+K709,Enfermedad hepatica alcoholica, no especificada
+K71,Enfermedad toxica del higado
+K710,Enfermedad toxica del higado, con colestasis
+K711,Enfermedad toxica del higado, con necrosis hepatica
+K712,Enfermedad toxica del higado, con hepatitis aguda
+K713,Enfermedad toxica del higado, con hepatitis cronica persistente
+K714,Enfermedad toxica del higado, con hepatitis cronica lobular
+K715,Enfermedad toxica del higado, con hepatitis cronica activa
+K716,Enfermedad toxica del higado, con hepatitis no clasificada en otra parte
+K717,Enfermedad toxica del higado, con cirrosis y fibrosis del higado
+K718,Enfermedad toxica del higado, con otros trastornos hepaticos
+K719,Enfermedad toxica del higado, no especificada
+K72,Insuficiencia hepatica no clasificadas en otra parte
+K720,Insuficiencia hepatica aguda o subaguda
+K721,Insuficiencia hepatica cronica
+K729,Insuficiencia hepatica, no especificada
+K73,Hepatitis cronica no clasificadas en otra parte
+K730,Hepatitis cronica persistente, no clasificada en otra parte
+K731,Hepatitis cronica lobular, no clasificada en otra parte
+K732,Hepatitis cronica activa, no clasificada en otra parte
+K738,Otras hepatitis cronicas, no clasificadas en otra parte
+K739,Hepatitis cronica, no especificada
+K74,Fibrosis y cirrosis del higado
+K740,Fibrosis hepatica
+K741,Esclerosis hepatica
+K742,Fibrosis hepatica con esclerosis hepatica
+K743,Cirrosis biliar primaria
+K744,Cirrosis biliar secundaria
+K745,Cirrosis biliar, no especificada
+K746,Otras cirrosis del higado y la no especificadas
+K75,Otras enfermedades inflamatorias del higado
+K750,Absceso del higado
+K751,Flebitis de la vena porta
+K752,Hepatitis reactiva no especifica
+K753,Hepatitis granulomatosa, no clasificada en otra parte
+K754,Hepatitis autoinmune
+K758,Otras enfermedades inflamatorias del higado, especificadas
+K759,Enfermedad inflamatoria del higado, no especificada
+K76,Otras enfermedades del higado
+K760,Degeneracion grasa del higado, no clasificada en otra parte
+K761,Congestion pasiva cronica del higado
+K762,Necrosis hemorragica central del higado
+K763,Infarto del higado
+K764,Peliosis hepatica
+K765,Enfermedad veno
+K766,Hipertension portal
+K767,Sindrome hepatorrenal
+K768,Otras enfermedades especificas del higado
+K769,Enfermedad del higado, no especificada
+K77,Trastornos del higado en enfermedades clasificadas en otra parte
+K770,Trastornos del higado en enfermedades infecciosas y parasitarias clasificadas en otra parte
+K778,Trastorno del higado en otras enfermedades clasificadas en otra parte
+K80,Colelitiasis
+K800,Calculo de la vesicula biliar con colecistitis aguda
+K801,Calculo de la vesicula biliar con otra colecistitis
+K802,Calculo de la vesicula biliar sin colecistitis
+K803,Calculo de conducto biliar con colangitis
+K804,Calculo de conducto biliar con colecistitis
+K805,Calculo de conducto biliar sin colangitis ni colecistitis
+K808,Otras colelitiasis
+K81,Colecistitis
+K810,Colecistitis aguda
+K811,Colecistitis cronica
+K818,Otras colecistitis
+K819,Colecistitis, no especificada
+K82,Otras enfermedades de la vesicula biliar
+K820,Obstruccion de la vesicula biliar
+K821,Hidropesia de la vesicula biliar
+K822,Perforacion de la vesicula biliar
+K823,Fistula de la vesicula biliar
+K824,Colesterolosis de la vesicula biliar
+K828,Otras enfermedades especificadas de la vesicula biliar
+K829,Enfermedad de la vesicula biliar, no especificada
+K83,Otras enfermedades de las vias biliares
+K830,Colangitis
+K831,Obstruccion del conducto biliar
+K832,Perforacion del conducto biliar
+K833,Fistula del conducto biliar
+K834,Espasmo del esfinter de oddi
+K835,Quiste biliar
+K838,Otras enfermedades especializadas de las vias biliares
+K839,Enfermedad de las vias biliares, no especificada
+K85,Pancreatitis aguda
+K86,Otras enfermedades del pancreas
+K860,Pancreatitis cronica inducida por el alcohol
+K861,Otras pancreatitis cronicas
+K862,Quiste del pancreas
+K863,Seudoquiste del pancreas
+K868,Otras enfermedades especificadas del pancreas
+K869,Enfermedad del pancreas, no especificada
+K87,Trastornos de la vesicula biliar, de las vias biliares y del pancreas en enfermedades clasificadas en otra parte
+K870,Trastornos de la vesicula biliar y de las vias biliares en enfermedades clasificadas en otra parte
+K871,Trastornos del pancreas en enfermedades clasificadas en otra parte
+K90,Malabsorcion intestinal
+K900,Enfermedad celiaca
+K901,Esprue tropical
+K902,Sindrome del asa ciega, no clasificado en otra parte
+K903,Esteatorrea pancreatica
+K904,Malabsorcion debida a intolerancia, no clasificada en otra parte
+K908,Otros tipos de malabsorcion intestinal
+K909,Malabsorcion intestinal, no especificada
+K91,Trastornos del sistema digestivo, consecutivos a procedimientos, no clasificados en otra parte
+K910,Vomito postcirugia gastrointestinal
+K911,Sindromes consecutivos a la cirugia gastrica
+K912,Malabsorcion postquirurgica, no clasificada en otra parte
+K913,Obstrucion intestinal postoperatoria
+K914,Disfuncion de colostomia o enterostomia
+K915,Sindrome postcolecistectomia
+K918,Otros trastornos del sistema digestivo consecutivos a procedimientos, no clasificados en otra parte
+K919,Trastorno no especificado al sistema digestivo consecutivo a procedimientos
+K92,Otras enfermedades del sistema digestivo
+K920,Hematemesis
+K921,Melena
+K922,Hemorragia gastrointestinal, no especificada
+K928,Otras enfermedades especificadas del sistema digestivo
+K929,Enfermedad del sistema digestivo, no especificada

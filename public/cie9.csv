@@ -1,0 +1,1089 @@
+﻿codigo,descripcion,campo
+T236,Corrosion de la muñeca y de la mano, de segundo grado
+T237,Corrosion de la muñeca y de la mano, de tercer grado
+T24,Quemadura y corrosion de la cadera y miembro inferior, excepto tobillo y pie
+T240,Quemadura de la cadera y del miembro inferior, grado no especificado, excepto tobillo y pie
+T241,Quemadura de la cadera y del miembro inferior, de primer grado, excepto tobillo y pie
+T242,Quemadura de la cadera y del miembro inferior, de segundo grado, excepto tobillo y pie
+T243,Quemadura de la cadera y del miembro inferior, de tercer grado, excepto tobillo y pie
+T244,Corrosion de la cadera y del miembro inferior, grado no especificado, excepto tobillo y pie
+T245,Corrosion de la cadera y del miembro inferior, de primer grado, excepto tobillo y pie
+T246,Corrosion de la cadera y del miembro inferior, de segundo grado, excepto tobillo y pie
+T247,Corrosion de la cadera y del miembro inferior, de tercer grado, excepto tobillo y pie
+T25,Quemadura y corrosion del tobillo y del pie
+T250,Quemadura del tobillo y del pie, grado no especificado
+T251,Quemadura del tobillo y del pie, de primer grado
+T252,Quemadura del tobillo y del pie, de segundo grado
+T253,Quemadura del tobillo y del pie, de tercer grado
+T254,Corrosion del tobillo y del pie, grado no especificado
+T255,Corrosion del tobillo y del pie, de primer grado
+T256,Corrosion del tobillo y del pie, de segundo grado
+T257,Corrosion del tobillo y del pie, de tercer grado
+T26,Quemadura y corrosion limitada al ojo y sus anexos
+T260,Quemadura del parpado y area periocular
+T261,Quemadura de la cornea y saco conjuntival
+T262,Quemadura con ruptura y destruccion resultantes del globo ocular
+T263,Quemadura de otras partes del ojo y sus anexos
+T264,Quemadura del ojo y anexos, parte no especificada
+T265,Corrosion del parpado y area periocular
+T266,Corrosion de la cornea y saco conjuntival
+T267,Corrosion con ruptura y destruccion resultantes del globo ocular
+T268,Corrosion de otras partes del ojo y sus anexos
+T269,Corrosion del ojo y anexos, parte no especificada
+T27,Quemadura y corrosion de las vias respiratorias
+T270,Quemadura de la laringe y la traquea
+T271,Quemadura que afecta la laringe y la traquea con el pulmon
+T272,Quemadura de otras partes de las vias respiratorias
+T273,Quemadura de las vias respiratorias, parte no especificada
+T274,Corrosion de la laringe y de la traquea
+T275,Corrosion que afecta la laringe y la traquea con el pulmon
+T276,Corrosion de otras partes de las vias respiratorias
+T277,Corrosion de las vias respiratorias, parte no especificada
+T28,Quemadura y corrosion de otros organos internos
+T280,Quemadura de la boca y de la faringe
+T281,Quemadura del esofago
+T282,Quemadura de otras partes del tubo digestivo
+T283,Quemadura de organos genitourinarios internos
+T284,Quemadura de otros organos internos y de los no especificados
+T285,Corrosion de la boca y de la faringe
+T286,Corrosion del esofago
+T287,Corrosion de otras partes del tubo digestivo
+T288,Corrosion de organos genitourinarios internos
+T289,Corrosion de otros organos internos y de los no especificados
+T29,Quemadura y corrosion de multiples regiones del cuerpo
+T290,Quemaduras de multiples regiones, grado no especificado
+T291,Quemaduras de multiples regiones, mencionadas como de no mas de primer grado
+T292,Quemaduras de multiples regiones, mencionadas como de no mas de segundo grado
+T293,Quemaduras de multiples regiones, con mencion al menos de una quemadura de tercer grado
+T294,Corrosiones de multiples regiones, grado no especificado
+T295,Corrosiones multiples, mencionadas como de no mas de primer grado
+T296,Corrosiones multiples, mencionadas como de no mas de segundo grado
+T297,Corrosiones multiples, con mencion al menos de una quemadura de tercer grado
+T30,Quemadura y corrosion, region del cuerpo no especificada
+T300,Quemadura de region del cuerpo y grado no especificados
+T301,Quemadura de primer grado, region del cuerpo no especificada
+T302,Quemadura de segundo grado, region del cuerpo no especificada
+T303,Quemadura de tercer grado, region del cuerpo no especificada
+T304,Corrosion de region del cuerpo y grado no especificados
+T305,Corrosion de primer grado, region del cuerpo no especificada
+T306,Corrosion de segundo grado, region del cuerpo no especificada
+T307,Corrosion de tercer grado, region del cuerpo no especificada
+T31,Quemaduras clasificadas segun la extension de la superficie del cuerpo afectada
+T310,Quemaduras que afectan menos del 10% de la superficie del cuerpo
+T311,Quemaduras que afectan del 10% al 19% de la superficie del cuerpo
+T312,Quemaduras que afectan del 20% al 29% de la superficie del cuerpo
+T313,Quemaduras que afectan del 30% al 39% de la superficie del cuerpo
+T314,Quemaduras que afectan del 40% al 49% de la superficie del cuerpo
+T315,Quemaduras que afectan del 50% al 59% de la superficie del cuerpo
+T316,Quemaduras que afectan del 60% al 69% de la superficie del cuerpo
+T317,Quemaduras que afectan del 70% al 79% de la superficie del cuerpo
+T318,Quemaduras que afectan del 80% al 89% de la superficie del cuerpo
+T319,Quemaduras que afectan del 90% o mas de la superficie del cuerpo
+T32,Corrosiones clasificadas segun la extension de la superficie del cuerpo afectada
+T320,Corrosiones que afectan menos del 10% de la superficie del cuerpo
+T321,Corrosiones que afectan del 10% al 19% de la superficie del cuerpo
+T322,Corrosiones que afectan del 20% al 29% de la superficie del cuerpo
+T323,Corrosiones que afectan del 30% al 39% de la superficie del cuerpo
+T324,Corrosiones que afectan del 40% al 49% de la superficie del cuerpo
+T325,Corrosiones que afectan del 50% al 59% de la superficie del cuerpo
+T326,Corrosiones que afectan del 60% al 69% de la superficie del cuerpo
+T327,Corrosiones que afectan del 70% al 79% de la superficie del cuerpo
+T328,Corrosiones que afectan del 80% al 89% de la superficie del cuerpo
+T329,Corrosiones que afectan del 90% o mas de la superficie del cuerpo
+T33,Congelamiento superficial
+T330,Congelamiento superficial de la cabeza
+T331,Congelamiento superficial del cuello
+T332,Congelamiento superficial del torax
+T333,Congelamiento superficial de la pared abdominal, region lumbosacra y pelvis
+T334,Congelamiento superficial del brazo
+T335,Congelamiento superficial de la muñeca y de la mano
+T336,Congelamiento superficial de la cadera y del muslo
+T337,Congelamiento superficial de la rodilla y de la pierna
+T338,Congelamiento superficial del tobillo y del pie
+T339,Congelamiento superficial de otros sitios y de los no especificados
+T34,Congelamiento con necrosis tisular
+T340,Congelamiento con necrosis tisular de la cabeza
+T341,Congelamiento con necrosis tisular del cuello
+T342,Congelamiento con necrosis tisular del torax
+T343,Congelamiento con necrosis tisular de la pared abdominal, region lumbosacra y pelvis
+T344,Congelamiento con necrosis tisular del brazo
+T345,Congelamiento con necrosis tisular de la muñeca y de la mano
+T346,Congelamiento con necrosis tisular de la cadera y del muslo
+T347,Congelamiento con necrosis tisular de la rodilla y de la pierna
+T348,Congelamiento con necrosis tisular del tobillo y del pie
+T349,Congelamiento con necrosis tisular de otros sitios y de los no especificados
+T35,Congelamiento que afecta multiples regiones del cuerpo y congelamiento no especificado
+T350,Congelamiento superficial que afecta multiples regiones del cuerpo
+T351,Congelamiento con necrosis tisular que afecta multiples regiones del cuerpo
+T352,Congelamiento no especificado de la cabeza y del cuello
+T353,Congelamiento no especificado del torax, del abdomen, de la region lumbosacra y de la pelvis
+T354,Congelamiento no especificado del miembro superior
+T355,Congelamiento no especificado del miembro inferior
+T356,Congelamiento no especificado que afecta multiples regiones del cuerpo
+T357,Congelamiento no especificado, de sitio no especificado
+T36,Envenenamiento por antibioticos sistemicos
+T360,Envenenamiento por antibioticos sistemicos: penicilinas
+T361,Envenenamiento por antibioticos sistemicos: cefalosporinas y otros antibioticos beta
+T362,Envenenamiento por antibioticos sistemicos: grupo del cloramfenicol
+T363,Envenenamiento por antibioticos sistemicos: macrolidos
+T364,Envenenamiento por antibioticos sistemicos: tetraciclinas
+T365,Envenenamiento por antibioticos sistemicos: aminoglucosidos
+T366,Envenenamiento por antibioticos sistemicos: rifamicinas
+T367,Envenenamiento por antibioticos sistemicos: antibioticos antimicoticos usados sistemicamente
+T368,Envenenamiento por antibioticos sistemicos: otros antibioticos sistemicos
+T369,Envenenamiento por antibioticos sistemicos: antibioticos sistemicos, no especificados
+T37,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos
+T370,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: sulfonamidas
+T371,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: drogas antimicobacterianas
+T372,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: antipaludicos y drogas de accion contra otros protozoarios sanguineos
+T373,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: otras drogas antiprotozoarias
+T374,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: antihelminticos
+T375,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: drogas antivirales
+T378,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: otros antiinfecciosos y antiparasitarios sistemicos especificados
+T379,Envenenamiento por otros antiinfecciosos y antiparasitarios sistemicos: otros antiinfecciosos y antiparasitarios sistemicos, no especificados
+T38,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos no clasificados en otra parte
+T380,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: glucocorticoides y analogos sinteticos
+T381,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: hormonas tiroideas y sustitutos
+T382,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: drogas antitiroideas
+T383,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: insulina y drogas hipoglucemiantes orales [antidiabeticas]
+T384,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: anticonceptivos orales
+T385,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: otros estrogenos y progestogenos
+T386,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: antigonadotrofinas, antiestrogenos y antiandrogenos, no clasificados en otra parte
+T387,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: androgenos y sus congeneres anabolicos
+T388,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: otras hormonas y sustitutos sinteticos y los no especificados
+T389,Envenenamiento por hormonas y sus sustitutos y antagonistas sinteticos, no clasificados en otra parte: otros antagonistas de las hormonas y los no especificados
+T39,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos
+T390,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: salicilatos
+T391,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: derivados del paraaminofenol
+T392,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: derivados de la pirazolona
+T393,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: otras drogas antiinflamatorias no esteroideas [daine]
+T394,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: antirreumaticos, no clasificados en otra parte
+T398,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: otros analgesicos no narcoticos y antipireticos, no clasificados en otra parte
+T399,Envenenamiento por analgesicos no narcoticos, antipireticos y antirreumaticos: analgesicos no narcoticos, antipireticos y antirreumaticos, no especificados
+T40,Envenenamiento por narcoticos y psicodislepticos
+T400,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: opio
+T401,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: heroina
+T402,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: otros opiaceos
+T403,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: metadona
+T404,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: otros narcoticos sinteticos
+T405,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: cocaina
+T406,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: otros narcoticos y los no especificados
+T407,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: cannabis (derivados)
+T408,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: acido lisergico [lsd]
+T409,Envenenamiento por narcoticos y psicodislepticos [alucinogenos]: otros psicodislepticos y los no especificados [alucinogenos]
+T41,Envenenamiento por anestesicos y gases terapeuticos
+T410,Envenenamiento por anestesicos y gases terapeuticos: anestesicos por inhalacion
+T411,Envenenamiento por anestesicos y gases terapeuticos: anestesicos intravenosos
+T412,Envenenamiento por anestesicos y gases terapeuticos: otros anestesicos generales y los no especificados
+T413,Envenenamiento por anestesicos y gases terapeuticos: anestesicos locales
+T414,Envenenamiento por anestesicos y gases terapeuticos: anestesicos, no especificados
+T415,Envenenamiento por anestesicos y gases terapeuticos: gases terapeuticos
+T42,Envenenamiento por antiepilepticos, hipnotico
+T420,Envenenamiento por antiepilepticos, hipnoticos
+T421,Envenenamiento por antiepilepticos, hipnoticos
+T422,Envenenamiento por antiepilepticos, hipnoticos
+T423,Envenenamiento por antiepilepticos, hipnoticos
+T424,Envenenamiento por antiepilepticos, hipnoticos
+T425,Envenenamiento por antiepilepticos, hipnoticos
+T426,Envenenamiento por antiepilepticos, hipnoticos
+T427,Envenenamiento por antiepilepticos, hipnoticos
+T428,Envenenamiento por antiepilepticos, hipnoticos
+T43,Envenenamiento por psicotropicos no clasificados en otra parte
+T430,Envenenamiento por psicotropicos, no clasificados en otra parte: antidepresivos triciclicos y tetraciclicos
+T431,Envenenamiento por psicotropicos, no clasificados en otra parte: antidepresivos inhibidores de la monoaminoxidasa
+T432,Envenenamiento por psicotropicos, no clasificados en otra parte: otros antidepresivos y los no especificados
+T433,Envenenamiento por psicotropicos, no clasificados en otra parte: antipsicoticos y neurolepticos fenotiacinicos
+T434,Envenenamiento por psicotropicos, no clasificados en otra parte: butirofenona y neurolepticos tioxantenicos
+T435,Envenenamiento por psicotropicos, no clasificados en otra parte: otros antipsicoticos y neurolepticos y los no especificados
+T436,Envenenamiento por psicotropicos, no clasificados en otra parte: psicoestimulantes con abuso potencial
+T438,Envenenamiento por psicotropicos, no clasificados en otra parte: otras drogas psicotropicas, no clasificadas en otra parte
+T439,Envenenamiento por psicotropicos, no clasificados en otra parte: droga psicotropica no especificada
+T44,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo
+T440,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: agentes anticolinesterasa
+T441,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: otros parasimpaticomimeticos [colinergicos]
+T442,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: drogas bloqueadoras ganglionares, no clasificadas en otra parte
+T443,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: otros parasimpaticoliticos [anticolinergicos y antimuscarinicos] y espasmoliticos, no clasificados en otra parte
+T444,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: agonistas, predominantemente alfa
+T445,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: agonistas, predominantemente beta
+T446,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: antagonistas, alfa
+T447,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: antagonistas, beta
+T448,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: agentes de accion central y bloqueadores neuronales adrenergicos, no clasificados en otra parte
+T449,Envenenamiento por drogas que afectan principalmente el sistema nervioso autonomo: otras drogas y las no especificadas que afectan principalmente el sistema nervioso autonomo
+T45,Envenenamiento por agentes principalmente sistemicos y hematologicos no clasificados en otra parte
+T450,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: drogas antialergicas y antiemeticas
+T451,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: drogas antineoplasicas e inmunosupresoras
+T452,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: vitaminas, no clasificadas en otra parte
+T453,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: enzimas, no clasificadas en otra parte
+T454,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: hierro y sus compuestos
+T455,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: anticoagulantes
+T456,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: drogas que afectan la fibrinolisis
+T457,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: antagonistas de anticoagulantes, vitamina k y otros coagulantes
+T458,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: otros agentes principalmente sistemicos y hematologicos
+T459,Envenenamiento por agentes principalmente sistemicos y hematologicos, no clasificados en otra parte: agentes principalmente sistemicos y hematologicos, no especificados
+T46,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular
+T460,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: glucosidos cardiotonicos y medicamentos de accion similar
+T461,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: bloqueadores del canal del calcio
+T462,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: otras drogas antiarritmicas, no clasificadas en otra parte
+T463,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: vasodilatadores coronarios, no clasificados en otra parte
+T464,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: inhibidores de la enzima convertidora de la angiotensina
+T465,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: otras drogas antihipertensivas, no clasificadas en otra parte
+T466,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: drogas antilipemicas y antiarterioscleroticas
+T467,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: vasodilatadores perifericos
+T468,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: drogas antivaricosas, inclusive agentes esclerosantes
+T469,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular: otros agentes y los no especificados que afectan principalmente el sistema cardiovascular
+T47,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal
+T470,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: antagonistas del receptor h2 de histamina
+T471,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: otras drogas antiacidas y que inhiben la secrecion gastrica
+T472,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: laxantes estimulantes
+T473,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: laxantes salinos y osmoticos
+T474,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: otros laxantes
+T475,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: digestivos
+T476,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: drogas antidiarreicas
+T477,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: emeticos
+T478,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: otros agentes que afectan principalmente el sistema gastrointestinal
+T479,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal: agentes no especificados que afectan principalmente el sistema gastrointestinal
+T48,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio
+T480,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: drogas oxitocicas
+T481,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: relajantes musculoesqueleticos [agentes bloqueadores neuromusculares]
+T482,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: otros medicamentos y los no especificados de accion principal sobre los musculos
+T483,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: antitusigenos
+T484,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: expectorantes
+T485,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: drogas contra el catarro comun
+T486,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: antiasmaticos, no clasificados en otra parte
+T487,Envenenamiento por agentes con accion principal sobre los musculos lisos y esqueleticos y sobre el sistema respiratorio: otros agentes y los no especificados de accion principal sobre el sistema respiratorio
+T49,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas otorrinolaringologas y dentales
+T490,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: drogas locales antimicoticas, antiinfecciosas y antiinflamatorias, no clasificadas en otra parte
+T491,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: antipruriticos
+T492,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: astringentes y detergentes locales
+T493,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: emolientes, demulcentes y protectores
+T494,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: queratoliticos, queratoplasticos, drogas y otras preparaciones para el tratamiento del cabello
+T495,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: drogas y preparaciones oftalmologicas
+T496,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: drogas y preparaciones otorrinolaringologicas
+T497,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: drogas dentales, aplicadas topicamente
+T498,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: otros agentes topicos
+T499,Envenenamiento por agentes topicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmologicas, otorrinolaringologicas y dentales: agentes topicos, no especificados
+T50,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas
+T500,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: mineralocorticoides y sus antagonistas
+T501,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: diureticos del asa [dintel alto]
+T502,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: inhibidores de la anhidrasa del acido carbonico, benzotiazidas y otros diureticos
+T503,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: agentes del equilibrio hidroelectrolitico, electrolitico y calorico
+T504,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: drogas que afectan el metabolismo del acido urico
+T505,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: depresores del apetito
+T506,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: antidotos y agentes quelantes, no clasificados en otra parte
+T507,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: analepticos y antagonistas del opio
+T508,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: agentes diagnosticos
+T509,Envenenamiento por diureticos y otras drogas, medicamentos y sustancias biologicas no especificadas: otras drogas y sustancias biologicas, y las no especificadas
+T51,Efecto toxico del alcohol
+T510,Efecto toxico del alcohol: etanol
+T511,Efecto toxico del alcohol: metanol
+T512,Efecto toxico del alcohol: propanol
+T513,Efecto toxico del alcohol: licor de alcohol insuficientemente destilado
+T518,Efecto toxico del alcohol: otros alcoholes
+T519,Efecto toxico del alcohol: alcohol, no especificado
+T52,Efecto toxico de disolventes organicos
+T520,Efecto toxico de disolventes organicos: productos del petroleo
+T521,Efecto toxico de disolventes organicos: benceno
+T522,Efecto toxico de disolventes organicos: homologos del benceno
+T523,Efecto toxico de disolventes organicos: glicoles
+T524,Efecto toxico de disolventes organicos: cetonas
+T528,Efecto toxico de disolventes organicos: otros disolventes organicos
+T529,Efecto toxico de disolventes organicos: disolventes organicos, no especificados
+T53,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos
+T530,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: tetracloruro de carbono
+T531,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: cloroformo
+T532,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: tricloroetileno
+T533,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: tetracloroetileno
+T534,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: dicloroetano
+T535,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: clorofluorcarburos
+T536,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: otros derivados halogenados de los hidrocarburos alifaticos
+T537,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: otros derivados halogenados de los hidrocarburos aromaticos
+T539,Efecto toxico de los derivados halogenados de los hidrocarburos alifaticos y aromaticos: derivados halogenados de hidrocarburos alifaticos y aromaticos, no especificados
+T54,Efecto toxico de sustancias corrosivas
+T540,Efecto toxico de sustancias corrosivas: fenol y homologos del fenol
+T541,Efecto toxico de sustancias corrosivas: otros compuestos organicos corrosivos
+T542,Efecto toxico de sustancias corrosivas: acidos corrosivos y sustancias acidas similares
+T543,Efecto toxico de sustancias corrosivas: alcalis causticos y sustancias alcalinas similares
+T549,Efecto toxico de sustancias corrosivas: efecto toxico de sustancia corrosiva, no especificada
+T55,Efecto toxico de detergentes y jabones
+T56,Efecto toxico de metales
+T560,Efecto toxico de metales: plomo y sus compuestos
+T561,Efecto toxico de metales: mercurio y sus compuestos
+T562,Efecto toxico de metales: cromo y sus compuestos
+T563,Efecto toxico de metales: cadmio y sus compuestos
+T564,Efecto toxico de metales: cobre y sus compuestos
+T565,Efecto toxico de metales: zinc y sus compuestos
+T566,Efecto toxico de metales: estaño y sus compuestos
+T567,Efecto toxico de metales: berilio y sus compuestos
+T568,Efecto toxico de metales: otros metales
+T569,Efecto toxico de metales: metal, no especificado
+T57,Efecto toxico de otras sustancias inorganicas
+T570,Efecto toxico de otras sustancias inorganicas: arsenico y sus compuestos
+T571,Efecto toxico de otras sustancias inorganicas: fosforo y sus compuestos
+T572,Efecto toxico de otras sustancias inorganicas: manganeso y sus compuestos
+T573,Efecto toxico de otras sustancias inorganicas: acido cianhidrico
+T578,Efecto toxico de otras sustancias inorganicas: otras sustancias inorganicas, especificadas
+T579,Efecto toxico de otras sustancias inorganicas: sustancia inorganicas, no especificada
+T58,Efecto toxico del monoxido de carbono
+T59,Efecto toxico de otros gases, humos y vapores
+T590,Efecto toxico de gases, humos y vapores: oxidos de nitrogeno
+T591,Efecto toxico de gases, humos y vapores: dioxido de sulfuro
+T592,Efecto toxico de gases, humos y vapores: formaldehido
+T593,Efecto toxico de gases, humos y vapores: gas lacrimogeno
+T594,Efecto toxico de gases, humos y vapores: cloro gaseoso
+T595,Efecto toxico de gases, humos y vapores: gas de fluor y fluoruro de hidrogeno
+T596,Efecto toxico de gases, humos y vapores: sulfuro de hidrogeno
+T597,Efecto toxico de gases, humos y vapores: dioxido de carbono
+T598,Efecto toxico de gases, humos y vapores: otros gases, humos y vapores especificados
+T599,Efecto toxico de gases, humos y vapores: gases, humos y vapores no especificados
+T60,Efecto toxico de plaguicidas [pesticidas]
+T600,Efecto toxico de plaguicidas [pesticidas]: insecticidas fosforados y carbamatos
+T601,Efecto toxico de plaguicidas [pesticidas]: insecticidas halogenados
+T602,Efecto toxico de plaguicidas [pesticidas]: otros insecticidas
+T603,Efecto toxico de plaguicidas [pesticidas]: herbicidas y fungicidas
+T604,Efecto toxico de plaguicidas [pesticidas]: rodenticidas
+T608,Efecto toxico de plaguicidas [pesticidas]: otros plaguicidas
+T609,Efecto toxico de plaguicidas [pesticidas]: plaguicida no especificado
+T61,Efecto toxico de sustancias nocivas ingeridas como alimentos marinos
+T610,Efecto toxico de sustancias nocivas ingeridas como alimentos marinos: envenenamiento ciguatero por pescado
+T611,Efecto toxico de sustancias nocivas ingeridas como alimentos marinos: envenenamiento escombroideo por pescado
+T612,Efecto toxico de sustancias nocivas ingeridas como alimentos marinos: otros envenenamientos por pescado y mariscos
+T618,Efecto toxico de sustancias nocivas ingeridas como alimentos marinos: efecto toxico de otros alimentos marinos
+T619,Efecto toxico de sustancias nocivas ingeridas como alimentos marinos: efecto toxico de alimentos marinos no especificados
+T62,Efecto toxico de otras sustancias nocivas ingeridas como alimento
+T620,Efecto toxico de otras sustancias nocivas ingeridas como alimento: hongos ingeridos
+T621,Efecto toxico de otras sustancias nocivas ingeridas como alimento: bayas ingeridas
+T622,Efecto toxico de otras sustancias nocivas ingeridas como alimento: otra(s) (partes de) planta(s) ingerida(s)
+T628,Efecto toxico de otras sustancias nocivas ingeridas como alimento: otras sustancias nocivas ingeridas como alimento
+T629,Efecto toxico de otras sustancias nocivas ingeridas como alimento: sustancia nociva ingerida como alimento, no especificada
+T63,Efecto toxico del contacto con animales venenosos
+T630,Efecto toxico del contacto con animales venenosos: veneno de serpiente
+T631,Efecto toxico del contacto con animales venenosos: veneno de otros reptiles
+T632,Efecto toxico del contacto con animales venenosos: veneno de escorpion
+T633,Efecto toxico del contacto con animales venenosos: veneno de arañas
+T634,Efecto toxico del contacto con animales venenosos: veneno de otros artropodos
+T635,Efecto toxico del contacto con animales venenosos: efecto toxico del contacto con peces
+T636,Efecto toxico del contacto con animales venenosos: efecto toxico del contacto con otros animales marinos
+T638,Efecto toxico del contacto con animales venenosos: efecto toxico del contacto con otros animales venenosos
+T639,Efecto toxico del contacto con animales venenosos: efecto toxico del contacto con animal venenoso no especificado
+T64,Efecto toxico de aflatoxina y otras micotoxinas contaminantes de alimentos
+T65,Efecto toxico de otras sustancias y las no especificadas
+T650,Efecto toxico de otras sustancias y las no especificadas: cianuro
+T651,Efecto toxico de otras sustancias y las no especificadas: estricnina y sus sales
+T652,Efecto toxico de otras sustancias y las no especificadas: tabaco y nicotina
+T653,Efecto toxico de otras sustancias y las no especificadas: nitroderivados y aminoderivados del benceno y sus homologos
+T654,Efecto toxico de otras sustancias y las no especificadas: bisulfuro de carbono
+T655,Efecto toxico de otras sustancias y las no especificadas: nitroglicerina y otros acidos y esteres nitricos
+T656,Efecto toxico de otras sustancias y las no especificadas: pinturas y colorantes, no clasificados en otra parte
+T658,Efecto toxico de otras sustancias y las no especificadas: efectos toxicos de otras sustancias especificadas
+T659,Efecto toxico de otras sustancias y las no especificadas: efecto toxico de sustancia no especificada
+T66,Efectos no especificados de la radiacion
+T67,Efectos del calor y de la luz
+T670,Golpe de calor e insolacion
+T671,Sincope de calor
+T672,Calambre por calor
+T673,Agotamiento por calor, anhidrotico
+T674,Agotamiento por calor debido a deplecion de sal
+T675,Agotamiento por calor no especificado
+T676,Fatiga por calor, transitoria
+T677,Edema por calor
+T678,Otros efectos del calor y de la luz
+T679,Efecto del calor y de la luz, no especificado
+T68,Hipotermia
+T69,Otros efectos de la reduccion de la temperatura
+T690,Mano y pie de inmersion
+T691,Sabañon(es)
+T698,Otros efectos especificados de la reduccion de la temperatura
+T699,Efecto de la reduccion de la temperatura, no especificado
+T70,Efectos de la presion del aire y del agua
+T700,Barotrauma otitico
+T701,Barotrauma sinusal
+T702,Otros efectos y los no especificados de la gran altitud
+T703,Enfermedad por descompresion [de los cajones sumergidos]
+T704,Efectos de liquidos con alta presion
+T708,Otros efectos de la presion del aire y del agua
+T709,Efecto de la presion del aire y del agua, no especificado
+T71,Asfixia
+T73,Efectos de otras privaciones
+T730,Efectos del hambre
+T731,Efectos de la sed
+T732,Agotamiento debido a exposicion a la intemperie
+T733,Agotamiento debido a esfuerzo excesivo
+T738,Otros efectos de privacion
+T739,Efectos de privacion, no especificados
+T74,Sindromes del maltrato
+T740,Negligencia o abandono
+T741,Abuso fisico
+T742,Abuso sexual
+T743,Abuso psicologico
+T748,Otros sindromes de maltrato
+T749,Sindrome de maltrato, no especificado
+T75,Efectos de otras causas externas
+T750,Efectos del rayo
+T751,Ahogamiento y sumersion no mortal
+T752,Efectos de la vibracion
+T753,Mal del movimiento
+T754,Efectos de la corriente electrica
+T758,Otros efectos especificados de causas externas
+T78,Efectos adversos no clasificados en otra parte
+T780,Choque anafilactico debido a reaccion adversa a alimentos
+T781,Otra reaccion adversa a alimentos, no clasificada en otra parte
+T782,Choque anafilactico, no especificado
+T783,Edema angioneurotico
+T784,Alergia no especificada
+T788,Otros efectos adversos, no clasificados en otra parte
+T789,Efectos adversos no especificado
+T79,Algunas complicaciones precoces de traumatismos no clasificadas en otra parte
+T790,Embolia gaseosa (traumatica)
+T791,Embolia grasa (traumatica)
+T792,Hemorragia traumatica secundaria y recurrente
+T793,Infeccion postraumatica de herida, no clasificada en otra parte
+T794,Choque traumatico
+T795,Anuria traumatica
+T796,Isquemia traumatica del musculo
+T797,Enfisema subcutaneo traumatico
+T798,Otras complicaciones precoces de los traumatismos
+T799,Complicaciones precoces no especificadas de los traumatismos
+T80,Complicaciones consecutivas a infusion, transfus e inyeccion terapeutica
+T800,Embolia gaseosa consecutivas a infusion, transfusion e inyeccion terapeutica
+T801,Complicaciones vasculares consecutivas a infusion, transfusion e inyeccion terapeutica
+T802,Infecciones consecutivas a infusion, transfusion e inyeccion terapeutica
+T803,Reaccion de incompatibilidad al grupo abo
+T804,Reaccion de incompatibilidad a rh
+T805,Choque anafilactico debido a suero
+T806,Otras reacciones al suero
+T808,Otras complicaciones consecutivas a infusion, transfusion e inyeccion terapeutica
+T809,Complicaciones no especificadas consecutivas a infusion, transfusion e inyeccion terapeutica
+T81,Complicaciones de procedimientos no clasificadas en otra parte
+T810,Hemorragia y hematoma que complican un procedimiento, no clasificados en otra parte
+T811,Choque durante o resultante de un procedimiento, no clasificado en otra parte
+T812,Puncion o laceracion accidental durante un procedimiento, no clasificadas en otra parte
+T813,Desgarro de herida operatoria, no clasificado en otra parte
+T814,Infeccion consecutiva a procedimiento, no clasificada en otra parte
+T815,Cuerpo extraño dejado accidentalmente en cavidad corporal o en herida operatoria consecutiva a procedimiento
+T816,Reaccion aguda a sustancia extraña dejada accidentalmente durante un procedimiento
+T817,Complicaciones vasculares consecutivas a procedimientos, no clasificadas en otra parte
+T818,Otras complicaciones de procedimientos, no clasificadas en otra parte
+T819,Complicaciones de procedimientos, no especificada
+T82,Complicaciones de dispositivos protesicos, implantes e injertos cardiovasculares
+T820,Complicacion mecanica de protesis de valvula cardiaca
+T821,Complicacion mecanica de dispositivo electronico cardiaco
+T822,Complicacion mecanica de derivacion de arteria coronaria e injerto vascular
+T823,Complicacion mecanica de otros injertos vasculares
+T824,Complicacion mecanica de cateter para dialisis vascular
+T825,Complicacion mecanica de otros dispositivos e implantes cardiovasculares
+T826,Infeccion y reaccion inflamatoria debidas a protesis de valvula cardiaca
+T827,Infeccion y reaccion inflamatoria debidas a otros dispositivos, implantes e injertos cardiovasculares
+T828,Otras complicaciones de dispositivos protesicos, implantes e injertos cardiovasculares
+T829,Complicacion no especificada de dispositivo protesico, implante e injerto cardiovascular
+T83,Complicaciones de dispositivos, implantes e injertos genitourinarios
+T830,Complicacion mecanica de cateter urinario (fijo)
+T831,Complicacion mecanica de otros dispositivos e implantes urinarios
+T832,Complicacion mecanica de injerto en organo urinario
+T833,Complicacion mecanica de dispositivo anticonceptivo intrauterino
+T834,Complicacion mecanica de otros dispositivos, implantes e injertos en el tracto genital
+T835,Infeccion y reaccion inflamatoria debidas a dispositivo protesico, implante e injerto en el sistema urinario
+T836,Infeccion y reaccion inflamatoria debidas a dispositivo protesico, implante e injerto en el tracto genital
+T838,Otras complicaciones de dispositivos protesicos, implantes e injertos genitourinarios:
+T839,Complicacion no especificada de dispositivo protesico, implante e injerto genitourinario
+T84,Complicaciones de dispositivos protesicos, implantes e injertos ortopedicos internos
+T840,Complicacion mecanica de protesis articular interna
+T841,Complicacion mecanica de dispositivo de fijacion interna de huesos de un miembro
+T842,Complicacion mecanica de dispositivo de fijacion interna de otros huesos
+T843,Complicacion mecanica de otros dispositivos oseos, implantes e injertos
+T844,Complicacion mecanica de otros dispositivos protesicos, implantes e injertos ortopedicos internos
+T845,Infeccion y reaccion inflamatoria debidas a protesis articular interna
+T846,Infeccion y reaccion inflamatoria debidas a dispositivo de fijacion interna (cualquier sitio)
+T847,Infeccion y reaccion inflamatoria debidas a otros dispositivo de fijacion interna (cualquier sitio) dispositivos protesicos, implantes e injertos ortopedicos internos
+T848,Otras complicaciones de dispositivos protesicos, implantes e injertos ortopedicos internos
+T849,Complicaciones no especificadas de dispositivos protesicos, implantes e injertos ortopedicos internos
+T85,Complicaciones de dispositivos protesicos, implantes e injertos internos
+T850,Complicacion mecanica de derivacion (anastomotica) ventricular intracraneal
+T851,Complicacion mecanica de implante de estimulador electronico del sistema nervioso
+T852,Complicacion mecanica de lentes intraoculares
+T853,Complicacion mecanica de otros dispositivos protesicos, implantes e injertos oculares
+T854,Complicacion mecanica de protesis e implante de mama
+T855,Complicacion mecanica de dispositivo protesico, implante e injerto gastrointestinal
+T856,Complicacion mecanica de otros dispositivos protesicos, implantes e injertos internos especificados
+T857,Infeccion y reaccion inflamatoria debidas a otros dispositivos protesicos, implantes e injertos internos
+T858,Otras complicaciones de otros dispositivos protesicos, implantes e injertos internos, no clasificados en otra parte
+T859,Complicacion no especificada de dispositivo protesico, implante e injerto interno
+T86,Falla y rechazo del trasplante de organos y tejidos
+T860,Rechazo de trasplante de medula osea
+T861,Falla y rechazo de trasplante de riñon
+T862,Falla y rechazo de trasplante de corazon
+T863,Falla y rechazo de trasplante de pulmon
+T864,Falla y rechazo de trasplante de higado
+T868,Falla y rechazo de otros organos y tejidos trasplantados
+T869,Falla y rechazo del trasplante de organos y tejidos no especificado
+T87,Complicaciones peculiares de la reinsersion y amputacion
+T870,Complicaciones de la reinsercion (de parte) de extremidad superior
+T871,Complicaciones de la reinsercion (de parte) de extremidad inferior
+T872,Complicaciones de otras partes del cuerpo reinsertadas
+T873,Neuroma de muñon de amputacion
+T874,Infeccion de muñon de amputacion
+T875,Necrosis de muñon de amputacion
+T876,Otras complicaciones y las no especificadas de muñon de amputacion
+T88,Otras complicaciones de la atencion medica y quirurgica, no clasificadas en otra parte
+T880,Infeccion consecutiva a inmunizacion
+T881,Otras complicaciones consecutivas a inmunizacion, no clasificadas en otra parte
+T882,Choque debida a anestesia
+T883,Hipertermia maligna debida a anestesia
+T884,Falla o dificultad de la intubacion
+T885,Otras complicaciones de la anestesia
+T886,Choque anafilactico debido a efecto adverso de droga o medicamento correcto administrado apropiadamente
+T887,Efecto adverso no especificado de droga o medicamento
+T888,Otras complicaciones especificadas de la atencion medica y quirurgica, no clasificadas en otra parte
+T889,Complicaciones no especificadas de la atencion medica y quirurgica
+T90,Secuelas de traumatismos de la cabeza
+T900,Secuelas de traumatismo superficial de la cabeza
+T901,Secuelas de herida de la cabeza
+T902,Secuelas de fractura del craneo y de huesos faciales
+T903,Secuelas de traumatismo de nervios craneales
+T904,Secuelas de traumatismo del ojo y de la orbita
+T905,Secuelas de traumatismo intracraneal
+T908,Secuelas de otros traumatismos especificados de la cabeza
+T909,Secuelas de traumatismo no especificado de la cabeza
+T91,Secuelas de traumatismos del cuello y del tronco
+T910,Secuelas de traumatismo superficial y heridas del cuello y del tronco
+T911,Secuelas de fractura de la columna vertebral
+T912,Secuelas de otra fractura del torax y de la pelvis
+T913,Secuelas de traumatismo de la medula espinal
+T914,Secuelas de traumatismo de organos intratoracicos
+T915,Secuelas de traumatismo de organos intraabdominales y pelvicos
+T918,Secuelas de otros traumatismos especificados del cuello y del tronco
+T919,Secuelas de traumatismo no especificados del cuello y del tronco
+T92,Secuelas de traumatismos de miembro superior
+T920,Secuelas de herida de miembro superior
+T921,Secuelas de fractura del brazo
+T922,Secuelas de fractura de la muñeca y de la mano
+T923,Secuelas de luxacion, torcedura y esguince de miembro superior
+T924,Secuelas de traumatismo de nervio de miembro superior
+T925,Secuelas de traumatismo de tendon y musculo de miembro superior
+T926,Secuelas de aplastamiento y amputacion traumaticas de miembro superior
+T928,Secuelas de otros traumatismos especificados de miembro superior
+T929,Secuelas de traumatismo no especificado de miembro superior
+T93,Secuelas de traumatismos de miembro inferior
+T930,Secuelas de herida de miembro inferior
+T931,Secuelas de fractura de femur
+T932,Secuelas de otras fracturas de miembro inferior
+T933,Secuelas de luxacion, torcedura y esguince de miembro inferior
+T934,Secuelas de traumatismo de nervio de miembro inferior
+T935,Secuelas de traumatismo de tendon y musculo de miembro inferior
+T936,Secuelas de aplastamiento y amputacion traumaticas de miembro inferior
+T938,Secuelas de otros traumatismos especificados de miembro inferior
+T939,Secuelas de traumatismo no especificado de miembro inferior
+T94,Secuelas de traumatismos que afectan multiples regiones del cuerpo y las no especificadas
+T940,Secuelas de traumatismos que afectan multiples regiones del cuerpo
+T941,Secuelas de traumatismos de regiones no especificadas del cuerpo
+T95,Secuelas de quemaduras, corrosiones y congelamientos
+T950,Secuelas de quemadura, corrosion y congelamiento de la cabeza y del cuello
+T951,Secuelas de quemadura, corrosion y congelamiento del tronco
+T952,Secuelas de quemadura, corrosion y congelamiento de miembro superior
+T953,Secuelas de quemadura, corrosion y congelamiento de miembro inferior
+T954,Secuelas de quemadura y corrosion clasificables solo de acuerdo con la extension de la superficie del cuerpo afectada
+T958,Secuelas de otras quemaduras, corrosiones y congelamientos especificados
+T959,Secuelas de quemadura, corrosion y congelamiento no especificados
+T96,Secuelas de envenenamientos por drogas, medicamentos y sustancias biologicas
+T97,Secuelas de efectos toxicos de sustancias de procedencia no medicinal
+T98,Secuelas de otros efectos y los no especificados de causas externas
+T980,Secuelas de efectos de cuerpos extraños que penetran en orificios naturales
+T981,Secuelas de otros efectos y los no especificados de causas externas
+T982,Secuelas de ciertas complicaciones precoces de los traumatismos
+T983,Secuelas de complicaciones de la atencion medica y quirurgica, no clasificadas en otra parte
+U04,Sindrome respiratorio agudo severo (SARS)
+U049,Sindrome respiratorio agudo severo, sin especificar
+U800,Agente resistente a penicilina
+U801,Agente resistente a meticilina
+U808,Agente resistente a otros antibioticos relacionados con la penicilina
+U810,Agente resistente a vancomicina
+U818,Agente resistente a otros antibioticos relacionados con la vancomicina
+U88,Agente resistente a multiples antibioticos
+U898,Agente resistente a otro antibiotico especificado
+U899,Agente resistente a antibiotico sin especificar
+V,Trastornos mentales y del comportamiento
+V01,Peaton lesionado por colision con vehiculo de pedal
+V010,Peaton lesionado por colision con vehiculo de pedal: accidente no de transito
+V011,Peaton lesionado por colision con vehiculo de pedal: accidente de transito
+V019,Peaton lesionado por colision con vehiculo de pedal: accidente no especificado como de transito o no de transito
+V02,Peaton lesionado por colision con vehiculo de dos o tres ruedas
+V020,Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas: accidente no de transito
+V021,Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas: accidente de transito
+V029,Peaton lesionado por colision con vehiculo de motor de dos o tres ruedas: accidente no especificado como de transito o no de transito
+V03,Peaton lesionado por colision con automovil camioneta furgoneta
+V030,Peaton lesionado por colision con automovil, camioneta o furgoneta: accidente no de transito
+V031,Peaton lesionado por colision con automovil, camioneta o furgoneta: accidente de transito
+V039,Peaton lesionado por colision con automovil, camioneta o furgoneta: no especificado como de transito o no de transito
+V04,Peaton lesionado por colision con vehiculo de transporte pesado o autobus
+V040,Peaton lesionado por colision con vehiculo de transporte pesado o autobus: accidente no de transito
+V041,Peaton lesionado por colision con vehiculo de transporte pesado o autobus: accidente de transito
+V049,Peaton lesionado por colision con vehiculo de transporte pesado o autobus: accidente no especificado como de transito o no de transito
+V05,Peaton lesionado por colision con tren o vehiculo de rieles
+V050,Peaton lesionado por colision con tren o vehiculo de rieles: accidente no de transito
+V051,Peaton lesionado por colision con tren o vehiculo de rieles: accidente de transito
+V059,Peaton lesionado por colision con tren o vehiculo de rieles: accidente no especificado como de transito o no de transito
+V06,Peaton lesionado por colision con otros vehiculo sin motor
+V060,Peaton lesionado por colision con otros vehiculos sin motor: accidente no de transito
+V061,Peaton lesionado por colision con otros vehiculos sin motor: accidente de transito
+V069,Peaton lesionado por colision con otros vehiculos sin motor: accidente no especificado como de transito o no de transito
+V09,Peaton lesionado en otros accidentes de transporte, y en los no especificados
+V090,Peaton lesionado en accidente no de transito que involucra otros vehiculos de motor, y los no especificados
+V091,Peaton lesionado en accidente no de transito no especificado
+V092,Peaton lesionado en accidente de transito que involucra otros vehiculos de motor, y los no especificados
+V093,Peaton lesionado en accidente de transito no especificado
+V099,Peaton lesionado en accidente de transporte no especificado
+V10,Ciclista lesionado por colision con peaton o animal
+V100,Ciclista lesionado por colision con peaton o animal: conductor lesionado en accidente no de transito
+V101,Ciclista lesionado por colision con peaton o animal: pasajero lesionado en accidente no de transito
+V102,Ciclista lesionado por colision con peaton o animal: ciclista no especificado, lesionado en accidente no de transito
+V103,Ciclista lesionado por colision con peaton o animal: persona lesionada al subir o bajar del vehiculo
+V104,Ciclista lesionado por colision con peaton o animal: conductor lesionado en accidente de transito
+V105,Ciclista lesionado por colision con peaton o animal: pasajero lesionado en accidente de transito
+V109,Ciclista lesionado por colision con peaton o animal: ciclista no especificado, lesionado en accidente de transito
+V11,Ciclista lesionado por colision con otro ciclista
+V110,Ciclista lesionado por colision con otro ciclista: conductor lesionado en accidente no de transito
+V111,Ciclista lesionado por colision con otro ciclista: pasajero lesionado en accidente no de transito
+V112,Ciclista lesionado por colision con otro ciclista: no especificado, lesionado en accidente no de transito
+V113,Ciclista lesionado por colision con otro ciclista: persona lesionada al subir o bajar del vehiculo
+V114,Ciclista lesionado por colision con otro ciclista: conductor lesionado en accidente de transito
+V115,Ciclista lesionado por colision con otro ciclista: pasajero lesionado en accidente de transito
+V119,Ciclista lesionado por colision con otro ciclista: ciclista no especificado, lesionado en accidente de transito
+V12,Ciclista lesionado por colision con vehiculo de dos o tre ruedas
+V120,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente no de transito
+V121,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente no de transito
+V122,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: ciclista no especificado, lesionado en accidente no de transito
+V123,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: persona lesionada al subir o bajar del vehiculo
+V124,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente de transito
+V125,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente de transito
+V129,Ciclista lesionado por colision con vehiculo de motor de dos o tres ruedas: ciclista no especificado, lesionado en accidente de transito
+V13,Ciclista lesionado por colision con automovil, camioneta o furgoneta
+V130,Ciclista lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente no de transito
+V131,Ciclista lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente no de transito
+V132,Ciclista lesionado por colision con automovil, camioneta o furgoneta: ciclista no especificado, lesionado en accidente no de transito
+V133,Ciclista lesionado por colision con automovil, camioneta o furgoneta: persona lesionada al subir o bajar del vehiculo
+V134,Ciclista lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente de transito
+V135,Ciclista lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente de transito
+V139,Ciclista lesionado por colision con automovil, camioneta o furgoneta: ciclista no especificado, lesionado en accidente de transito
+V14,Ciclista lesionado por colision con vehiculo de transporte pesado o bus
+V140,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente no de transito
+V141,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente no de transito
+V142,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: ciclista no especificado, lesionado en accidente no de transito
+V143,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: persona lesionada al subir o bajar del vehiculo
+V144,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente de transito
+V145,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente de transito
+V149,Ciclista lesionado por colision con vehiculo de transporte pesado o autobus: ciclista no especificado, lesionado en accidente de transito
+V15,Ciclista lesionado por colision con tren o vehiculo de rieles
+V150,Ciclista lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente no de transito
+V151,Ciclista lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente no de transito
+V152,Ciclista lesionado por colision con tren o vehiculo de rieles: ciclista no especificado, lesionado en accidente no de transito
+V153,Ciclista lesionado por colision con tren o vehiculo de rieles: persona lesionada al subir o bajar del vehiculo
+V154,Ciclista lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente de transito
+V155,Ciclista lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente de transito
+V159,Ciclista lesionado por colision con tren o vehiculo de rieles: ciclista no especificado, lesionado en accidente de transito
+V16,Ciclista lesionado por colision con otros vehiculo sin motor
+V160,Ciclista lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente no de transito
+V161,Ciclista lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente no de transito
+V162,Ciclista lesionado por colision con otros vehiculos sin motor: ciclista no especificado, lesionado en accidente no de transito
+V163,Ciclista lesionado por colision con otros vehiculos sin motor: persona lesionada al subir o bajar del vehiculo
+V164,Ciclista lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente de transito
+V165,Ciclista lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente de transito
+V169,Ciclista lesionado por colision con otros vehiculos sin motor: ciclista no especificado, lesionado en accidente de transito
+V17,Ciclista lesionado por colision con objeto estacionado o fijo
+V170,Ciclista lesionado por colision con objeto estacionado o fijo: conductor lesionado en accidente no de transito
+V171,Ciclista lesionado por colision con objeto estacionado o fijo: pasajero lesionado en accidente no de transito
+V172,Ciclista lesionado por colision con objeto estacionado o fijo: ciclista no especificado, lesionado en accidente no de transito
+V173,Ciclista lesionado por colision con objeto estacionado o fijo: persona lesionada al subir o bajar del vehiculo
+V174,Ciclista lesionado por colision con objeto estacionado o fijo conductor lesionado en accidente de transito
+V175,Ciclista lesionado por colision con objeto estacionado o fijo: pasajero lesionado en accidente de transito
+V179,Ciclista lesionado por colision con objeto estacionado o fijo: ciclista no especificado, lesionado en accidente de transito
+V18,Ciclista lesionado en accidente de transporte sin colision
+V180,Ciclista lesionado en accidente de transporte sin colision: conductor lesionado en accidente no de transito
+V181,Ciclista lesionado en accidente de transporte sin colision: pasajero lesionado en accidente no de transito
+V182,Ciclista lesionado en accidente de transporte sin colision: ciclista no especificado, lesionado en accidente no de transito
+V183,Ciclista lesionado en accidente de transporte sin colision: persona lesionada al subir o bajar del vehiculo
+V184,Ciclista lesionado en accidente de transporte sin colision: conductor lesionado en accidente de transito
+V185,Ciclista lesionado en accidente de transporte sin colision: pasajero lesionado en accidente de transito
+V189,Ciclista lesionado en accidente de transporte sin colision: ciclista no especificado, lesionado en accidente de transito
+V19,Ciclista lesionado en otros accidentes de transporte y en los no especificados
+V190,Conductor de vehiculo de pedal lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V191,Pasajero de vehiculo de pedal lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V192,Ciclista no especificado lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V193,Ciclista [cualquiera] lesionado en accidente no de transito, no especificado
+V194,Conductor de vehiculo de pedal lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V195,Pasajero de vehiculo de pedal lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V196,Ciclista no especificado lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V198,Ciclista [cualquiera] lesionado en otros accidentes de transporte especificados
+V199,Ciclista [cualquiera] lesionado en accidente de transito no especificado
+V20,Motociclista lesionado por colision con peaton o animal
+V200,Motociclista lesionado por colision con peaton o animal: conductor lesionado en accidente no de transito
+V201,Motociclista lesionado por colision con peaton o animal: pasajero lesionado en accidente no de transito
+V202,Motociclista lesionado por colision con peaton o animal: motociclista no especificado, lesionado en accidente no de transito
+V203,Motociclista lesionado por colision con peaton o animal: persona lesionada al subir o bajar del vehiculo
+V204,Motociclista lesionado por colision con peaton o animal: conductor lesionado en accidente de transito
+V205,Motociclista lesionado por colision con peaton o animal: pasajero lesionado en accidente de transito
+V209,Motociclista lesionado por colision con peaton o animal: motociclista no especificado, lesionado en accidente de transito
+V21,Motociclista lesionado por colision con vehiculo de pedal
+V210,Motociclista lesionado por colision con vehiculo de pedal: conductor lesionado en accidente no de transito
+V211,Motociclista lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente no de transito
+V212,Motociclista lesionado por colision con vehiculo de pedal: motociclista no especificado, lesionado en accidente no de transito
+V213,Motociclista lesionado por colision con vehiculo de pedal: persona lesionada al subir o bajar del vehiculo
+V214,Motociclista lesionado por colision con vehiculo de pedal: conductor lesionado en accidente de transito
+V215,Motociclista lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente de transito
+V219,Motociclista lesionado por colision con vehiculo de pedal: motociclista no especificado, lesionado en accidente de transito
+V22,Motociclista lesionado por colision con vehiculo de dos o tres ruedas
+V220,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente no de transito
+V221,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente no de transito
+V222,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: motociclista no especificado, lesionado en accidente no de transito
+V223,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: persona lesionada al subir o bajar del vehiculo
+V224,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente de transito
+V225,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente de transito
+V229,Motociclista lesionado por colision con vehiculo de motor de dos o tres ruedas: motociclista no especificado, lesionado en accidente de transito
+V23,Motociclista lesionado por colision con automovil camioneta o furgonetaa
+V230,Motociclista lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente no de transito
+V231,Motociclista lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente no de transito
+V232,Motociclista lesionado por colision con automovil, camioneta o furgoneta: motociclista no especificado, lesionado en accidente no de transito
+V233,Motociclista lesionado por colision con automovil, camioneta o furgoneta: persona lesionada al subir o bajar del vehiculo
+V234,Motociclista lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente de transito
+V235,Motociclista lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente de transito
+V239,Motociclista lesionado por colision con automovil, camioneta o furgoneta: motociclista no especificado, lesionado en accidente de transito
+V24,Motociclista lesionado por colision con vehiculo de transporte pesado o bus
+V240,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente no de transito
+V241,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente no de transito
+V242,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: motociclista no especificado, lesionado en accidente no de transito
+V243,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: persona lesionada al subir o bajar del vehiculo
+V244,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente de transito
+V245,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente de transito
+V249,Motociclista lesionado por colision con vehiculo de transporte pesado o autobus: motociclista no especificado, lesionado en accidente de transito
+V25,Motociclista lesionado por colision con tren o vehiculo de rieles
+V250,Motociclista lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente no de transito
+V251,Motociclista lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente no de transito
+V252,Motociclista lesionado por colision con tren o vehiculo de rieles: motociclista no especificado, lesionado en accidente no de transito
+V253,Motociclista lesionado por colision con tren o vehiculo de rieles: persona lesionada al subir o bajar del vehiculo
+V254,Motociclista lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente de transito
+V255,Motociclista lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente de transito
+V259,Motociclista lesionado por colision con tren o vehiculo de rieles: motociclista no especificado, lesionado en accidente de transito
+V26,Motociclista lesionado por colision con otros vehiculo sin motor
+V260,Motociclista lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente no de transito
+V261,Motociclista lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente no de transito
+V262,Motociclista lesionado por colision con otros vehiculos sin motor: motociclista no especificado, lesionado en accidente no de transito
+V263,Motociclista lesionado por colision con otros vehiculos sin motor: persona lesionada al subir o bajar del vehiculo
+V264,Motociclista lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente de transito
+V265,Motociclista lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente de transito
+V269,Motociclista lesionado por colision con otros vehiculos sin motor: motociclista no especificado, lesionado en accidente de transito
+V27,Motociclista lesionado por colision con objeto fijo o estacionado
+V270,Motociclista lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente no de transito
+V271,Motociclista lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente no de transito
+V272,Motociclista lesionado por colision con objeto fijo o estacionado: motociclista no especificado, lesionado en accidente no de transito
+V273,Motociclista lesionado por colision con objeto fijo o estacionado: persona lesionada al subir o bajar del vehiculo
+V274,Motociclista lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente de transito
+V275,Motociclista lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente de transito
+V279,Motociclista lesionado por colision con objeto fijo o estacionado: motociclista no especificado, lesionado en accidente de transito
+V28,Motociclista lesionado accidente transporte sin colision
+V280,Motociclista lesionado en accidente de transporte sin colision: conductor lesionado en accidente no de transito
+V281,Motociclista lesionado en accidente de transporte sin colision: pasajero lesionado en accidente no de transito
+V282,Motociclista lesionado en accidente de transporte sin colision: motociclista no especificado, lesionado en accidente no de transito
+V283,Motociclista lesionado en accidente de transporte sin colision: persona lesionada al subir o bajar del vehiculo
+V284,Motociclista lesionado en accidente de transporte sin colision: conductor lesionado en accidente de transito
+V285,Motociclista lesionado en accidente de transporte sin colision: pasajero lesionado en accidente de transito
+V289,Motociclista lesionado en accidente de transporte sin colision: motociclista no especificado, lesionado en accidente de transito
+V29,Motociclista lesionado en otros accidentes de transporte y en los no especificados
+V290,Conductor de motocicleta lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V291,Pasajero de motocicleta lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V292,Motociclista no especificado lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V293,Motociclista [cualquiera] lesionado en accidente no de transito, no especificado
+V294,Conductor de motocicleta lesionado por colision con otros vehiculo de motor, y con los no especificados, en accidente de transito
+V295,Pasajero de motocicleta lesionado por colision con otros vehiculo de motor, y con los no especificados, en accidente de transito
+V296,Motociclista no especificado lesionado por colision con otros vehiculo de motor, y con los no especificados, en accidente de transito
+V298,Motociclista [cualquiera] lesionado en otros accidentes de transporte especificados
+V299,Motociclista [cualquiera] lesionado en accidente de transito no especificado
+V30,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal
+V300,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: conductor lesionado en accidente no de transito
+V301,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: pasajero lesionado en accidente no de transito
+V302,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V303,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V304,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: persona lesionada al subir o bajar del vehiculo
+V305,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: conductor lesionado en accidente de transito
+V306,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: pasajero lesionado en accidente de transito
+V307,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V309,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con peaton o animal: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V31,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal
+V310,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: conductor lesionado en accidente no de transito
+V311,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente no de transito
+V312,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V313,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V314,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: persona lesionada al subir o bajar del vehiculo
+V315,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: conductor lesionado en accidente de transito
+V316,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente de transito
+V317,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V319,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de pedal: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V32,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de motor de dos o tres ruedas
+V320,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente no de transito
+V321,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente no de transito
+V322,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V323,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V324,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: persona lesionada al subir o bajar del vehiculo
+V325,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente de transito
+V326,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente de transito
+V327,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V329,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otro vehiculo de motor de dos o tres ruedas: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V33,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta
+V330,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente no de transito
+V331,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente no de transito
+V332,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V333,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V334,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: persona lesionada al subir o bajar del vehiculo
+V335,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente de transito
+V336,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente de transito
+V337,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V339,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con automovil, camioneta o furgoneta: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V34,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus
+V340,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente no de transito
+V341,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente no de transito
+V342,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V343,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V344,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: persona lesionada al subir o bajar del vehiculo
+V345,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente de transito
+V346,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente de transito
+V347,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V349,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con vehiculo de transporte pesado o autobus: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V35,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles
+V350,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente no de transito
+V351,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente no de transito
+V352,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V353,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V354,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: persona lesionada al subir o bajar del vehiculo
+V355,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente de transito
+V356,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente de transito
+V357,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V359,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con tren o vehiculo de rieles: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V36,Ocupante de vehiculo de motor de tres ruedas por colision con otro vehiculo sin motor
+V360,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente no de transito
+V361,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente no de transito
+V362,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V363,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V364,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: persona lesionada al subir o bajar del vehiculo
+V365,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente de transito
+V366,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente de transito
+V367,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V369,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos sin motor: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V37,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado
+V370,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente no de transito
+V371,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente no de transito
+V372,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V373,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V374,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: persona lesionada al subir o bajar del vehiculo
+V375,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente de transito
+V376,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente de transito
+V377,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V379,Ocupante de vehiculo de motor de tres ruedas lesionado por colision con objeto fijo o estacionado: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V38,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transito sin colision
+V380,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: conductor lesionado en accidente no de transito
+V381,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: pasajero lesionado en accidente no de transito
+V382,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V383,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente no de transito
+V384,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: persona lesionada al subir o bajar del vehiculo
+V385,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: conductor lesionado en accidente de transito
+V386,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: pasajero lesionado en accidente de transito
+V387,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V389,Ocupante de vehiculo de motor de tres ruedas lesionado en accidente de transporte sin colision: ocupante no especificado de vehiculo de motor de tres ruedas, lesionado en accidente de transito
+V39,Ocupante de vehiculo de motor de tres ruedas lesionado en otros accidentes y en los no especificados
+V390,Conductor de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V391,Pasajero de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V392,Ocupante no especificado de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V393,Ocupante [cualquiera] de vehiculo de motor de tres ruedas lesionado en accidente no de transito, no especificado
+V394,Conductor de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V395,Pasajero de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V396,Ocupante no especificado de vehiculo de motor de tres ruedas lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V398,Ocupante [cualquiera] de vehiculo de motor de tres ruedas lesionado en otros accidentes de transporte especificados
+V399,Ocupante [cualquiera] de vehiculo de motor de tres ruedas lesionado en accidente de transito, no especificado
+V40,Ocupante de automovil lesionado por colision con peaton o animal
+V400,Ocupante de automovil lesionado por colision con peaton o animal: conductor lesionado en accidente no de transito
+V401,Ocupante de automovil lesionado por colision con peaton o animal: pasajero lesionado en accidente no de transito
+V402,Ocupante de automovil lesionado por colision con peaton o animal: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V403,Ocupante de automovil lesionado por colision con peaton o animal: ocupante no especificado de automovil, lesionado en accidente no de transito
+V404,Ocupante de automovil lesionado por colision con peaton o animal: persona lesionada al subir o bajar del vehiculo
+V405,Ocupante de automovil lesionado por colision con peaton o animal: conductor lesionado en accidente de transito
+V406,Ocupante de automovil lesionado por colision con peaton o animal: pasajero lesionado en accidente de transito
+V407,Ocupante de automovil lesionado por colision con peaton o animal: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V409,Ocupante de automovil lesionado por colision con peaton o animal: ocupante no especificado de automovil, lesionado en accidente de transito
+V41,Ocupante de automovil lesionado por colision con vehiculo de pedal
+V410,Ocupante de automovil lesionado por colision con vehiculo de pedal: conductor lesionado en accidente no de transito
+V411,Ocupante de automovil lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente no de transito
+V412,Ocupante de automovil lesionado por colision con vehiculo de pedal: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V413,Ocupante de automovil lesionado por colision con vehiculo de pedal: ocupante no especificado de automovil, lesionado en accidente no de transito
+V414,Ocupante de automovil lesionado por colision con vehiculo de pedal: persona lesionada al subir o bajar del vehiculo
+V415,Ocupante de automovil lesionado por colision con vehiculo de pedal: conductor lesionado en accidente de transito
+V416,Ocupante de automovil lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente de transito
+V417,Ocupante de automovil lesionado por colision con vehiculo de pedal: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V419,Ocupante de automovil lesionado por colision con vehiculo de pedal: ocupante no especificado de automovil, lesionado en accidente de transito
+V42,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas
+V420,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente no de transito
+V421,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente no de transito
+V422,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V423,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: ocupante no especificado de automovil, lesionado en accidente no de transito
+V424,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: persona lesionada al subir o bajar del vehiculo
+V425,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente de transito
+V426,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente de transito
+V427,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V429,Ocupante de automovil lesionado por colision con vehiculo de motor de dos o tres ruedas: ocupante no especificado de automovil, lesionado en accidente de transito
+V43,Ocupante de automovil lesionado por colision con auto camioneta o furgoneta
+V430,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: conductor lesionado en accidente no de transito
+V431,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: pasajero lesionado en accidente no de transito
+V432,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V433,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: ocupante no especificado de automovil, lesionado en accidente no de transito
+V434,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: persona lesionada al subir o bajar del vehiculo
+V435,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: conductor lesionado en accidente de transito
+V436,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: pasajero lesionado en accidente de transito
+V437,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V439,Ocupante de automovil lesionado por colision con otro automovil, camioneta o furgoneta: ocupante no especificado de automovil, lesionado en accidente de transito
+V44,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus
+V440,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente no de transito
+V441,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente no de transito
+V442,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V443,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: ocupante no especificado de automovil, lesionado en accidente no de transito
+V444,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: persona lesionada al subir o bajar del vehiculo
+V445,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente de transito
+V446,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente de transito
+V447,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V449,Ocupante de automovil lesionado por colision con vehiculo de transporte pesado o autobus: ocupante no especificado de automovil, lesionado en accidente de transito
+V45,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles
+V450,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente no de transito
+V451,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente no de transito
+V452,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V453,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: ocupante no especificado de automovil, lesionado en accidente no de transito
+V454,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: persona lesionada al subir o bajar del vehiculo
+V455,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente de transito
+V456,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente de transito
+V457,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V459,Ocupante de automovil lesionado por colision con tren o vehiculo de rieles: ocupante no especificado de automovil, lesionado en accidente de transito
+V46,Ocupante de automovil lesionado por colision con otro vehiculo sin motor
+V460,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente no de transito
+V461,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente no de transito
+V462,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V463,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: ocupante no especificado de automovil, lesionado en accidente no de transito
+V464,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: persona lesionada al subir o bajar del vehiculo
+V465,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente de transito
+V466,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente de transito
+V467,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V469,Ocupante de automovil lesionado por colision con otros vehiculos sin motor: ocupante no especificado de automovil, lesionado en accidente de transito
+V47,Ocupante de automovil lesionado por colision con objeto fijo o estacionado
+V470,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente no de transito
+V471,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente no de transito
+V472,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V473,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: ocupante no especificado de automovil, lesionado en accidente no de transito
+V474,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: persona lesionada al subir o bajar del vehiculo
+V475,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente de transito
+V476,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente de transito
+V477,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V479,Ocupante de automovil lesionado por colision con objeto fijo o estacionado: ocupante no especificado de automovil, lesionado en accidente de transito
+V48,Ocupante de automovil lesionado en accidente de transporte sin colision
+V480,Ocupante de automovil lesionado en accidente de transporte sin colision: conductor lesionado en accidente no de transito
+V481,Ocupante de automovil lesionado en accidente de transporte sin colision: pasajero lesionado en accidente no de transito
+V482,Ocupante de automovil lesionado en accidente de transporte sin colision: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V483,Ocupante de automovil lesionado en accidente de transporte sin colision: ocupante no especificado de automovil, lesionado en accidente no de transito
+V484,Ocupante de automovil lesionado en accidente de transporte sin colision: persona lesionada al subir o bajar del vehiculo
+V485,Ocupante de automovil lesionado en accidente de transporte sin colision: conductor lesionado en accidente de transito
+V486,Ocupante de automovil lesionado en accidente de transporte sin colision: pasajero lesionado en accidente de transito
+V487,Ocupante de automovil lesionado en accidente de transporte sin colision: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V489,Ocupante de automovil lesionado en accidente de transporte sin colision: ocupante no especificado de automovil, lesionado en accidente de transito
+V49,Ocupante de automovil lesionado en otros accidentes de transporte, y en los no especificados
+V490,Conductor de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V491,Pasajero de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V492,Ocupante no especificado de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
+V493,Ocupante [cualquiera] de automovil lesionado en accidente no de transito, no especificado
+V494,Conductor de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V495,Pasajero de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V496,Ocupante no especificado de automovil lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente de transito
+V498,Ocupante [cualquiera]) de automovil lesionado en otros accidentes de transporte especificados
+V499,Ocupante [cualquiera] de automovil lesionado en accidente de transito no especificado
+V50,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal
+V500,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: conductor lesionado en accidente no de transito
+V501,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: pasajero lesionado en accidente no de transito
+V502,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V503,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V504,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: persona lesionada al subir o bajar del vehiculo
+V505,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: conductor lesionado en accidente de transito
+V506,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: pasajero lesionado en accidente de transito
+V507,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V509,Ocupante de camioneta o furgoneta lesionado por colision con peaton o animal: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V51,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal
+V510,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: conductor lesionado en accidente no de transito
+V511,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente no de transito
+V512,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V513,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V514,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: persona lesionada al subir o bajar del vehiculo
+V515,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: conductor lesionado en accidente de transito
+V516,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: pasajero lesionado en accidente de transito
+V517,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V519,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de pedal: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V52,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas
+V520,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente no de transito
+V521,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente no de transito
+V522,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V523,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V524,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: persona lesionada al subir o bajar del vehiculo
+V525,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: conductor lesionado en accidente de transito
+V526,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: pasajero lesionado en accidente de transito
+V527,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V529,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de motor de dos o tres ruedas: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V53,Ocupante de camioneta o furgoneta lesionado por colision con automovil camioneta furgonetaa
+V530,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente no de transito
+V531,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente no de transito
+V532,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V533,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V534,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: persona lesionada al subir o bajar del vehiculo
+V535,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: conductor lesionado en accidente de transito
+V536,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: pasajero lesionado en accidente de transito
+V537,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V539,Ocupante de camioneta o furgoneta lesionado por colision con automovil, camioneta o furgoneta: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V54,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus
+V540,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente no de transito
+V541,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente no de transito
+V542,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V543,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V544,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: persona lesionada al subir o bajar del vehiculo
+V545,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: conductor lesionado en accidente de transito
+V546,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: pasajero lesionado en accidente de transito
+V547,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V549,Ocupante de camioneta o furgoneta lesionado por colision con vehiculo de transporte pesado o autobus: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V55,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles
+V550,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente no de transito
+V551,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente no de transito
+V552,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V553,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V554,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: persona lesionada al subir o bajar del vehiculo
+V555,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: conductor lesionado en accidente de transito
+V556,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: pasajero lesionado en accidente de transito
+V557,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V559,Ocupante de camioneta o furgoneta lesionado por colision con tren o vehiculo de rieles: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V56,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor
+V560,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente no de transito
+V561,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente no de transito
+V562,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V563,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V564,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: persona lesionada al subir o bajar del vehiculo
+V565,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: conductor lesionado en accidente de transito
+V566,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: pasajero lesionado en accidente de transito
+V567,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V569,Ocupante de camioneta o furgoneta lesionado por colision con otros vehiculos sin motor: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V57,Ocupante de camioneta o furgoneta lesionado por colision con objeto estacionado fijo
+V570,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente no de transito
+V571,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente no de transito
+V572,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V573,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V574,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: persona lesionada al subir o bajar del vehiculo
+V575,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: conductor lesionado en accidente de transito
+V576,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: pasajero lesionado en accidente de transito
+V577,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V579,Ocupante de camioneta o furgoneta lesionado por colision con objeto fijo o estacionado: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V58,Ocupante de camioneta o furgoneta lesionado en accidente transporte sin colision
+V580,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: conductor lesionado en accidente no de transito
+V581,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: pasajero lesionado en accidente no de transito
+V582,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: persona que viaja fuera del vehiculo, lesionada en accidente no de transito
+V583,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: ocupante no especificado de camioneta o furgoneta, lesionado en accidente no de transito
+V584,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: persona lesionada al subir o bajar del vehiculo
+V585,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: conductor lesionado en accidente de transito
+V586,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: pasajero lesionado en accidente de transito
+V587,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: persona que viaja fuera del vehiculo, lesionada en accidente de transito
+V589,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colision: ocupante no especificado de camioneta o furgoneta, lesionado en accidente de transito
+V59,Ocupante de camioneta o furgoneta lesionado en otros accidentes de transporte, y en los no especificados
+V590,Conductor de camioneta o furgoneta lesionado por colision con otros vehiculos de motor, y con los no especificados, en accidente no de transito
