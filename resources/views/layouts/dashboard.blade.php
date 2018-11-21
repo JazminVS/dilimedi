@@ -17,15 +17,18 @@
 
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <!-- CHOOSEN-->
+    <link href="{{asset('choosen/chosen.css')}}" rel="stylesheet">
+
+
 </head>
 
 <body>
-<nav class="navbar navbar-dark fixed-top bg-info flex-md-nowrap p-0 shadow navbar-laravel">
-    <img src="img/logotipo.png" class="navbar-brand col-md-2 mr-0" alt="logo_dispensario" width="auto" height="auto">
+<nav class="navbar navbar-dark fixed-top flex-md-nowrap p-0 shadow navbar-laravel logo dilipa">
+    <img src="{{asset('img/logo1.png')}}" class="navbar-brand col-md-2 mr-0" alt="logo_dispensario" width="auto" height="auto">
     <div class="navbar-text">
-        <h4 class="text-light">Sistema de Salud Dispensario Medico Dilipa</h4>
+        <h4 class="text-light">SISTEMA DE SALUD DISPENSARIO MÉDICO DILIPA</h4>
     </div>
-
     <ul class="navbar-nav px-3 text-light">
         @guest
             <li class="nav-item">
@@ -49,11 +52,11 @@
 
 <div class="container-fluid">
     <div class="row">
-        <nav class="col-md-2 d-none d-md-block bg-light sidebar ">
-            <div class="sidebar-sticky ">
-                <a href="#" class="list-group-item list-group-item-action flex-column align-items">
+        <nav class="col-md-2 d-none d-md-block sidebar dilipa">
+            <div class="sidebar-sticky">
+                <div href="#" class="list-group-item flex-column align-items">
                     <div class="d-flex w-100">
-                        <img src="img/doctor.png" alt="logo_dispensario" width="100" height="50">
+                        <img src="{{asset('img/doctor.png')}}" alt="logo_dispensario" width="100" height="50">
                         <h6 class="mb-1">PERFIL DOCTOR<br></h6>
                         @if (session('status'))
                             <div class="alert alert-success" role="alert">
@@ -62,17 +65,17 @@
                         @endif
                         <small>Dr(a).{{ Auth::user()->name }}</small>
                     </div>
-                </a>
-                <div class="list-group text-uppercase">
-                    <a href="home" class="list-group-item ">
+                </div>
+                <div class="list-group text-uppercase" >
+                    <a href="home" class="list-group-item list-group-item-action">
                         <span data-feather="home"></span>
                         Dashboard
                     </a>
-                    <a href="consulta" class="list-group-item list-group-item-action">
+                    <a href="consultapaciente" class="list-group-item list-group-item-action">
                         <span data-feather="heart"></span>
                         Consulta médica
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action">
+                    <a href="cita" class="list-group-item list-group-item-action">
                         <span data-feather="calendar"></span>
                         Cita médica
                     </a>
@@ -88,11 +91,12 @@
             </div>
         </nav>
 
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4 bg-light">
             @yield('content')
         </main>
     </div>
 </div>
+</body>
 
 <!-- Bootstrap core JavaScript
 ================================================== -->
@@ -106,6 +110,14 @@
 <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
 <script>
     feather.replace()
+</script>
+<!-- Chosen -->
+<script src="{{asset('choosen/chosen.jquery.js')}}"></script>
+<script>
+    $(function() {
+        $('.chosen-select').chosen();
+        $('.chosen-select-deselect').chosen({ allow_single_deselect: true });
+    });
 </script>
 
 <!-- Graphs -->
@@ -139,5 +151,4 @@
         }
     });
 </script>
-</body>
 </html>

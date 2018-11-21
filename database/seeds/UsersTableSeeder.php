@@ -5,15 +5,11 @@ use Illuminate\Foundation\Auth\User;
 
 class UsersTableSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
+
     public function run()
     {
-        /*User::create([
-          /  'name' => 'Jazmin',
+        User::create([
+            'name' => 'Jazmin',
             'email' => 'jazminv8.95@gmail.com',
             'password' => bcrypt('jazmin')
         ]);
@@ -22,7 +18,7 @@ class UsersTableSeeder extends Seeder
             'name' => 'Fredy',
             'email' => 'fcoloma@dilipa.com.ec',
             'password' => bcrypt('papucho')
-        ]);*/
+        ]);
 
     }
 }

@@ -15,9 +15,9 @@ class CreateCIEsTable extends Migration
     {
         Schema::dropIfExists('cie');
         Schema::create('cie', function (Blueprint $table) {
-            $table->string('codigo');
-            $table->string('descripcion');
-            $table->string('campo');
+            $table->string('codigo',20);
+            $table->string('descripcion',700);
+            $table->string('campo',100);
             $table->timestamps();
         });
     }

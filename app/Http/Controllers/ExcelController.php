@@ -11,6 +11,7 @@ class ExcelController extends Controller
         Excel::load('cie13.csv', function($reader) {
             foreach ($reader->get() as $book) {
                 //echo $book;
+
                 cie::create([
                     'codigo' => $book->codigo,
                     'descripcion' =>$book->descripcion,

@@ -18,7 +18,7 @@ body {
     bottom: 0;
     left: 0;
     z-index: 100; /* Behind the navbar */
-    padding: 70px 0 0; /* Height of navbar */
+    padding: 82px 0 0; /* Alto del navbar */
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
 }
 
@@ -67,7 +67,7 @@ body {
  */
 
 [role="main"] {
-    padding-top: 80px; /* Space for fixed navbar */
+    padding-top: 100px; /* Espacio del main desde el navbar */
 }
 
 /*
@@ -80,6 +80,24 @@ body {
     font-size: 1rem;
     background-color: rgba(0, 0, 0, .25);
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
+}
+.logo {
+    border-bottom: 4px solid red;
+    border-bottom-color: #EE7401;
+}
+.list-group-item {
+    background-color: #00447C;
+    color: #ffffff;
+    border: 1px solid red;
+    border-color: #ffffff;
+}
+
+
+.dilipa {
+    background-color: #00447C;
+}
+.dilipa1 {
+    background-color: #EE7401;
 }
 
 

@@ -15,11 +15,16 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/consulta', 'DoctorController@consulta')->name('consulta');
-Route::get('/diagnostico', 'DoctorController@diagnostico')->name('diagnostico');
-Route::get('/importar', 'ExcelController@importar')->name('importar');
+Route::get('/consultapaciente', 'Doctor\PacienteController@index')->name('consultapaciente');
+Route::get('/paciente/{id_paciente?}', 'Doctor\PacienteController@show')->name('consulta');
+Route::post('registro', 'Doctor\ConsultaController@insert')->name('registro');
 
+Route::post('/posts', 'Doctor\PacienteController@store')->name ('diagnostico');
+Route::get('/diagnostico', 'Doctor\DiagnosticoController@index')->name('diagnostico');
 
+Route::get('/cita', 'ConsultaController@cita')->name('citamedica');
+
+//Route::get('/importar', 'ExcelController@importar')->name('importar'); //Importar archivos excel a mysql.
 
 
 
