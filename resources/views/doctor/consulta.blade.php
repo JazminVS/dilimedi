@@ -34,7 +34,7 @@
     </div>
 
     <div class="form-group row ">
-        <h5 class="col-sm-3">Observaciones</h5>
+        <h5 class="col-sm-3">Observaciones del doctor</h5>
         <div class="col-sm-7">
             <textarea type="submit" class="form-control" type="text" rows="4" name="observaciones"></textarea>
         </div>
